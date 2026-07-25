@@ -932,10 +932,12 @@ export const ordersAPI = {
           orders: ords.map((o) => ({
             id: o.id,
             status: o.status,
-            total: o.total_price,
+            total_price: o.total_price,
             created_at: o.created_at,
             items: o.items,
-          })) as any,
+            user_id: o.user_id,
+            updated_at: o.updated_at,
+          })) as unknown as Order[],
         };
       }
     ),

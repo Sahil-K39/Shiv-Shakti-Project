@@ -50,12 +50,12 @@ class LocalStorageMock {
 const mockLocalStorage = new LocalStorageMock();
 const mockSessionStorage = new LocalStorageMock();
 
-(global as any).window = {};
-(global as any).localStorage = mockLocalStorage;
-(global as any).sessionStorage = mockSessionStorage;
+(global as unknown as { window: unknown }).window = {};
+(global as unknown as { localStorage: unknown }).localStorage = mockLocalStorage;
+(global as unknown as { sessionStorage: unknown }).sessionStorage = mockSessionStorage;
 
 // Now import the API engine after mocking window & storage
-import { productsAPI, ordersAPI, adminAPI, cartAPI } from "../src/lib/api";
+import { ordersAPI, adminAPI } from "../src/lib/api";
 import { ProductInput } from "../src/types";
 
 async function runStressTests() {
@@ -104,8 +104,9 @@ async function runStressTests() {
     console.log(`   - Storage footprint: ${usedMB} MB (out of 5.0 MB quota)`);
     console.log(`   - Created: ${result.created}, Updated: ${result.updated}\n`);
     passedTests++;
-  } catch (err: any) {
-    console.error(`❌ [FAIL] Bulk import failed: ${err.message}\n`);
+  } catch (err: unknown) {
+    const error = err as Error;
+    console.error(`❌ [FAIL] Bulk import failed: ${error.message}\n`);
   }
 
   // TEST 2: High Concurrency Checkout & Order Generation (500 Concurrent Orders)
@@ -141,8 +142,9 @@ async function runStressTests() {
     console.log(`   - Success Rate: ${results.length}/500 (100%)`);
     console.log(`   - Storage footprint after orders: ${usedMB} MB\n`);
     passedTests++;
-  } catch (err: any) {
-    console.error(`❌ [FAIL] Concurrency checkout failed: ${err.message}\n`);
+  } catch (err: unknown) {
+    const error = err as Error;
+    console.error(`❌ [FAIL] Concurrency checkout failed: ${error.message}\n`);
   }
 
   // TEST 3: Dashboard Aggregation Performance with Large Data (1,000+ products, 500+ orders)
@@ -161,8 +163,9 @@ async function runStressTests() {
     console.log(`   - Out of Stock Products: ${dashboardData.out_of_stock_products}`);
     console.log(`   - Confirmed / Pending Orders: ${dashboardData.pending_enquiries + dashboardData.confirmed_orders}\n`);
     passedTests++;
-  } catch (err: any) {
-    console.error(`❌ [FAIL] Dashboard aggregation failed: ${err.message}\n`);
+  } catch (err: unknown) {
+    const error = err as Error;
+    console.error(`❌ [FAIL] Dashboard aggregation failed: ${error.message}\n`);
   }
 
   // TEST 4: Storage Quota Limit Stress & Overflow Resilience
@@ -202,8 +205,9 @@ async function runStressTests() {
     console.log(`✅ [PASS] Gracefully handled 5MB quota overflow without crashing in ${durationMs}ms.`);
     console.log(`   - System remained stable (` + (result.message || "handled safely") + `)\n`);
     passedTests++;
-  } catch (err: any) {
-    console.error(`❌ [FAIL] Uncaught crash on storage overflow: ${err.message}\n`);
+  } catch (err: unknown) {
+    const error = err as Error;
+    console.error(`❌ [FAIL] Uncaught crash on storage overflow: ${error.message}\n`);
   }
 
   console.log("==================================================");
