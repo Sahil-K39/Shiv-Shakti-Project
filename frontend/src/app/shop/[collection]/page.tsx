@@ -23,9 +23,13 @@ export default function ShopCollection() {
   useEffect(() => {
     getAllProducts()
       .then((data) => {
-        const filtered = data.filter(
-          (p) => p.category.toLowerCase() === collection.toLowerCase()
-        );
+        const filtered = data.filter((p) => {
+          const cat = p.category.toLowerCase();
+          const coll = collection.toLowerCase();
+          if (coll === "men") return cat === "men" || cat === "shiva";
+          if (coll === "women") return cat === "women" || cat === "shakti";
+          return cat === coll;
+        });
         setProducts(filtered.length > 0 ? filtered : data);
         setIsLoading(false);
       })
