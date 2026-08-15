@@ -23,7 +23,6 @@ import {
 const navLinks: Array<{ href: string; key?: TranslationKey; label?: string }> = [
   { href: "/shop/men", key: "nav.men" },
   { href: "/shop/women", key: "nav.women" },
-  { href: "/", key: "nav.wholesale" },
   { href: "/fabric-selling", key: "nav.fabric" },
   { href: "/council", key: "nav.council" },
   { href: "/ngo", label: "NGO" },

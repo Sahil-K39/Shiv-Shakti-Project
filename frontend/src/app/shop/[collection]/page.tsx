@@ -100,9 +100,6 @@ export default function ShopCollection() {
             <Link href="/shop/women" className="hover:text-black transition-colors">
               {t("home.newStuff")}
             </Link>
-            <Link href="/shop/women" className="hover:text-black transition-colors">
-              {t("home.wholesaleBuying")}
-            </Link>
             <Link href="/shop/men" className={`hover:text-black transition-colors ${collection.toLowerCase() === 'men' ? 'text-black font-bold underline underline-offset-4' : ''}`}>
               {t("home.men")}
             </Link>
