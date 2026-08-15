@@ -4,9 +4,9 @@ import Link from "next/link";
 import FabricQuoteForm from "@/components/fabric/FabricQuoteForm";
 
 export const metadata: Metadata = {
-  title: "Shiv Women Project",
+  title: "Shiv Shakti Project",
   description:
-    "Send wholesale and fabric enquiries to Shiv Women. Quotes, payment instructions, and delivery details are handled by email.",
+    "Send wholesale and fabric enquiries to Shiv Shakti. Quotes, payment instructions, and delivery details are handled by email.",
 };
 
 export default function ContactPage() {

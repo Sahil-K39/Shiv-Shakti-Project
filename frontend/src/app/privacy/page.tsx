@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Shiv Women Project",
-  description: "Privacy policy for Shiv Women enquiry, account, and wholesale order data.",
+  title: "Shiv Shakti Project",
+  description: "Privacy policy for Shiv Shakti enquiry, account, and wholesale order data.",
 };
 
 export default function PrivacyPage() {

@@ -22,7 +22,7 @@ export default function BrandLogo({
   return (
     <Link
       href={href}
-      aria-label="Shiv Women Project home"
+      aria-label="Shiv Shakti Project home"
       className={`group inline-flex shrink-0 items-center gap-1 sm:gap-2 text-black ${className}`}
     >
       <span
@@ -30,7 +30,7 @@ export default function BrandLogo({
       >
         <Image
           src="/logos/mark-logo.webp"
-          alt="Shiv Women Trident Mark"
+          alt="Shiv Shakti Trident Mark"
           fill
           priority={variant === "nav"}
           sizes="(max-width: 640px) 42px, 74px"
@@ -39,7 +39,7 @@ export default function BrandLogo({
       </span>
       {variant === "nav" && (
         <span className="font-serif text-[16px] sm:text-[20px] md:text-[23px] font-medium tracking-[0.22em] sm:tracking-[0.25em] text-black uppercase transition-opacity duration-300 group-hover:opacity-80 whitespace-nowrap">
-          Shiv Women
+          Shiv Shakti
         </span>
       )}
     </Link>

@@ -317,7 +317,7 @@ export const adminAPI = {
         const user: User = {
           id: 1,
           email: data.email,
-          name: "Shiv Women Admin Control",
+          name: "Shiv Shakti Admin Control",
           role: "admin",
           is_verified: true,
           created_at: new Date().toISOString(),

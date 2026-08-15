@@ -3,7 +3,7 @@ import type { MetadataRoute } from 'next';
 export default function manifest(): MetadataRoute.Manifest {
   return {
     name: ' ',
-    short_name: 'Shiv Women',
+    short_name: 'Shiv Shakti',
     description: 'Avant-garde clothing for the post-apocalyptic era. Deconstructed silhouettes, ritual textures, and ceremonial armor.',
     start_url: '/',
     display: 'standalone',

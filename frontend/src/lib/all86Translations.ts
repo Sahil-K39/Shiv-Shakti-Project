@@ -1,4 +1,4 @@
-// Auto-generated comprehensive 86-language universal dictionary for Shiv Women SS26
+// Auto-generated comprehensive 86-language universal dictionary for Shiv Shakti SS26
 export interface LanguageDictionary {
   collection: string;
   wholesaleLook: string;
