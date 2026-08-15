@@ -12,7 +12,7 @@ export default function Home() {
   const { t } = useLanguage();
   const [products, setProducts] = useState<Product[]>([]);
   const [isLoading, setIsLoading] = useState(true);
-  const [activeTab, setActiveTab] = useState<"all" | "shiva" | "shakti">("all");
+  const [activeTab, setActiveTab] = useState<"all" | "men" | "women">("all");
   const [heroSlide, setHeroSlide] = useState(0);
 
   const heroImages = [
@@ -59,7 +59,7 @@ export default function Home() {
           <span className="hidden sm:inline">&bull; {t("home.globalExpress")}</span>
           <span className="hidden lg:inline">&bull; {t("home.moqUnits")}</span>
           <Link
-            href="/shop/shakti"
+            href="/shop/women"
             className="underline underline-offset-4 hover:text-black font-bold ml-1 sm:ml-2 text-[#e11d48] shrink-0"
           >
             {t("home.enterBuyingRoom")} &rarr;
@@ -87,7 +87,7 @@ export default function Home() {
           >
             <Image
               src={src}
-              alt={`Shiv Shakti SS26 Campaign ${index + 1}`}
+              alt={`Shiv Women SS26 Campaign ${index + 1}`}
               fill
               priority={index === 0}
               sizes="100vw"
@@ -115,17 +115,17 @@ export default function Home() {
 
           <div className="mt-6 sm:mt-8 flex flex-col sm:flex-row items-stretch sm:items-center gap-3 sm:gap-4 w-full sm:w-auto max-w-xs sm:max-w-none px-4 sm:px-0">
             <Link
-              href="/shop/shakti"
+              href="/shop/women"
               className="group relative inline-flex items-center justify-center bg-white min-h-[46px] sm:min-h-[50px] px-8 sm:px-10 py-3.5 sm:py-4 text-[11px] sm:text-[12px] font-bold uppercase tracking-[0.22em] sm:tracking-[0.25em] text-black shadow-2xl transition-all hover:bg-black hover:text-white border border-white text-center"
             >
               <span>{t("hero.cta")}</span>
               <span className="ml-2 transition-transform duration-300 group-hover:translate-x-1.5">&rarr;</span>
             </Link>
             <Link
-              href="/shop/shiva"
+              href="/shop/men"
               className="inline-flex items-center justify-center bg-black/70 min-h-[46px] sm:min-h-[50px] px-6 sm:px-8 py-3.5 sm:py-4 text-[11px] sm:text-[12px] font-bold uppercase tracking-[0.22em] sm:tracking-[0.25em] text-white backdrop-blur-md border border-white/30 transition-all hover:bg-white hover:text-black text-center"
             >
-              <span>{t("home.shivaMen")}</span>
+              <span>{t("home.men")}</span>
             </Link>
           </div>
         </div>
@@ -181,7 +181,7 @@ export default function Home() {
             </h2>
           </div>
           <Link
-            href="/shop/shakti"
+            href="/shop/women"
             className="text-[11px] font-bold uppercase tracking-[0.18em] sm:tracking-[0.2em] text-black border-b border-black pb-0.5 hover:text-gray-600 transition-all"
           >
             View Complete Archive &rarr;
@@ -189,7 +189,7 @@ export default function Home() {
         </div>
 
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6">
-          <Link href="/shop/shakti" className="group block relative overflow-hidden aspect-[4/5] bg-neutral-100 border border-black/5">
+          <Link href="/shop/women" className="group block relative overflow-hidden aspect-[4/5] bg-neutral-100 border border-black/5">
             <Image
               src="/final-products/go01/go01-01.webp"
               alt="New Arrivals"
@@ -208,10 +208,10 @@ export default function Home() {
             </div>
           </Link>
 
-          <Link href="/shop/shakti" className="group block relative overflow-hidden aspect-[4/5] bg-neutral-100 border border-black/5">
+          <Link href="/shop/women" className="group block relative overflow-hidden aspect-[4/5] bg-neutral-100 border border-black/5">
             <Image
               src="/final-products/go06/go06-01.webp"
-              alt="Shakti Women"
+              alt="Women Women"
               fill
               sizes="(max-width: 640px) 50vw, (max-width: 1024px) 25vw, 25vw"
               className="object-cover object-top transition-transform duration-1000 group-hover:scale-105"
@@ -219,18 +219,18 @@ export default function Home() {
             <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/20 to-transparent opacity-85 group-hover:opacity-90 transition-opacity" />
             <div className="absolute bottom-3 left-3 right-3 sm:bottom-6 sm:left-6 sm:right-6 text-white">
               <span className="text-[9px] sm:text-[10px] font-bold uppercase tracking-[0.2em] sm:tracking-[0.22em] text-[#d946ef] block mb-0.5 sm:mb-1">
-                {t("home.shaktiWomen")}
+                {t("home.women")}
               </span>
               <h3 className="text-[15px] sm:text-[20px] font-serif uppercase tracking-[0.12em] sm:tracking-[0.16em] group-hover:translate-x-1.5 transition-transform">
-                Shakti Silhouettes
+                Women Silhouettes
               </h3>
             </div>
           </Link>
 
-          <Link href="/shop/shiva" className="group block relative overflow-hidden aspect-[4/5] bg-neutral-100 border border-black/5">
+          <Link href="/shop/men" className="group block relative overflow-hidden aspect-[4/5] bg-neutral-100 border border-black/5">
             <Image
               src="/final-products/go44/go44-01.webp"
-              alt="Shiva Men"
+              alt="Men Men"
               fill
               sizes="(max-width: 640px) 50vw, (max-width: 1024px) 25vw, 25vw"
               className="object-cover object-top transition-transform duration-1000 group-hover:scale-105"
@@ -238,10 +238,10 @@ export default function Home() {
             <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/20 to-transparent opacity-85 group-hover:opacity-90 transition-opacity" />
             <div className="absolute bottom-3 left-3 right-3 sm:bottom-6 sm:left-6 sm:right-6 text-white">
               <span className="text-[9px] sm:text-[10px] font-bold uppercase tracking-[0.2em] sm:tracking-[0.22em] text-[#e11d48] block mb-0.5 sm:mb-1">
-                {t("home.shivaMen")}
+                {t("home.men")}
               </span>
               <h3 className="text-[15px] sm:text-[20px] font-serif uppercase tracking-[0.12em] sm:tracking-[0.16em] group-hover:translate-x-1.5 transition-transform">
-                Shiva Avant-Garde
+                Men Avant-Garde
               </h3>
             </div>
           </Link>
@@ -297,17 +297,17 @@ export default function Home() {
             </button>
             <button
               type="button"
-              onClick={() => setActiveTab("shiva")}
-              className={`min-h-[42px] sm:min-h-0 px-3 sm:px-5 py-2 sm:py-2.5 transition-all text-center ${activeTab === "shiva" ? "bg-black text-white shadow-md" : "text-gray-600 hover:text-black"}`}
+              onClick={() => setActiveTab("men")}
+              className={`min-h-[42px] sm:min-h-0 px-3 sm:px-5 py-2 sm:py-2.5 transition-all text-center ${activeTab === "men" ? "bg-black text-white shadow-md" : "text-gray-600 hover:text-black"}`}
             >
-              {t("home.shivaMen")}
+              {t("home.men")}
             </button>
             <button
               type="button"
-              onClick={() => setActiveTab("shakti")}
-              className={`min-h-[42px] sm:min-h-0 px-3 sm:px-5 py-2 sm:py-2.5 transition-all text-center ${activeTab === "shakti" ? "bg-black text-white shadow-md" : "text-gray-600 hover:text-black"}`}
+              onClick={() => setActiveTab("women")}
+              className={`min-h-[42px] sm:min-h-0 px-3 sm:px-5 py-2 sm:py-2.5 transition-all text-center ${activeTab === "women" ? "bg-black text-white shadow-md" : "text-gray-600 hover:text-black"}`}
             >
-              {t("home.shaktiWomen")}
+              {t("home.women")}
             </button>
           </div>
         </div>
@@ -326,7 +326,7 @@ export default function Home() {
 
         <div className="w-full flex justify-center mt-12 sm:mt-16">
           <Link
-            href="/shop/shakti"
+            href="/shop/women"
             className="group relative inline-flex items-center justify-center border border-black bg-black text-white min-h-[48px] px-10 sm:px-12 py-4 sm:py-5 text-[11px] sm:text-[12px] font-bold uppercase tracking-[0.22em] transition-all hover:bg-white hover:text-black shadow-lg w-full sm:w-auto max-w-xs sm:max-w-none text-center"
           >
             {t("home.viewCatalogue")} &rarr;
@@ -334,15 +334,15 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 6. Split Lookbook Portals (`Shiva` & `Shakti`) */}
+      {/* 6. Split Lookbook Portals (`Men` & `Women`) */}
       <section className="w-full max-w-[1780px] mx-auto px-3 sm:px-8 py-12 sm:py-24 border-b border-black/10">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-14">
-          {/* Shiva Portal */}
+          {/* Men Portal */}
           <div className="flex flex-col group">
-            <Link href="/shop/shiva" className="block relative aspect-[3/4] w-full overflow-hidden bg-neutral-100 mb-4 sm:mb-6 border border-black/5">
+            <Link href="/shop/men" className="block relative aspect-[3/4] w-full overflow-hidden bg-neutral-100 mb-4 sm:mb-6 border border-black/5">
               <Image
                 src="/final-products/go44/go44-01.webp"
-                alt="Shiva Men Collection"
+                alt="Men Men Collection"
                 fill
                 sizes="(max-width: 768px) 100vw, 50vw"
                 className="object-cover object-[50%_15%] md:object-[50%_18%] transition-transform duration-[1500ms] ease-out group-hover:scale-105"
@@ -353,31 +353,31 @@ export default function Home() {
               <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-[#e11d48]">
                 {t("home.ss26Menswear")}
               </span>
-              <Link href="/shop/shiva">
+              <Link href="/shop/men">
                 <h4 className="text-[20px] sm:text-[28px] font-serif uppercase tracking-[0.14em] sm:tracking-[0.16em] text-black group-hover:underline underline-offset-4">
-                  {t("home.shivaDeconstructed")}
+                  {t("home.menDeconstructed")}
                 </h4>
               </Link>
               <p className="text-[12px] sm:text-[13px] text-gray-600 tracking-[0.04em] mt-1 leading-relaxed">
-                {t("home.shivaDesc")}
+                {t("home.menDesc")}
               </p>
               <div className="pt-2 sm:pt-3">
                 <Link
-                  href="/shop/shiva"
+                  href="/shop/men"
                   className="inline-block text-[11px] font-bold uppercase tracking-[0.2em] text-black border-b border-black pb-0.5 hover:text-gray-600 transition-all min-h-[36px] flex items-center"
                 >
-                  {t("home.exploreShiva")} &rarr;
+                  {t("home.exploreMen")} &rarr;
                 </Link>
               </div>
             </div>
           </div>
 
-          {/* Shakti Portal */}
+          {/* Women Portal */}
           <div className="flex flex-col group">
-            <Link href="/shop/shakti" className="block relative aspect-[3/4] w-full overflow-hidden bg-neutral-100 mb-4 sm:mb-6 border border-black/5">
+            <Link href="/shop/women" className="block relative aspect-[3/4] w-full overflow-hidden bg-neutral-100 mb-4 sm:mb-6 border border-black/5">
               <Image
                 src="/final-products/go01/go01-01.webp"
-                alt="Shakti Women Collection"
+                alt="Women Women Collection"
                 fill
                 sizes="(max-width: 768px) 100vw, 50vw"
                 className="object-cover object-[50%_15%] md:object-[50%_18%] transition-transform duration-[1500ms] ease-out group-hover:scale-105"
@@ -388,20 +388,20 @@ export default function Home() {
               <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-[#d946ef]">
                 {t("home.ss26Womenswear")}
               </span>
-              <Link href="/shop/shakti">
+              <Link href="/shop/women">
                 <h4 className="text-[20px] sm:text-[28px] font-serif uppercase tracking-[0.14em] sm:tracking-[0.16em] text-black group-hover:underline underline-offset-4">
-                  {t("home.shaktiSilhouettes")}
+                  {t("home.womenSilhouettes")}
                 </h4>
               </Link>
               <p className="text-[12px] sm:text-[13px] text-gray-600 tracking-[0.04em] mt-1 leading-relaxed">
-                {t("home.shaktiDesc")}
+                {t("home.womenDesc")}
               </p>
               <div className="pt-2 sm:pt-3">
                 <Link
-                  href="/shop/shakti"
+                  href="/shop/women"
                   className="inline-block text-[11px] font-bold uppercase tracking-[0.2em] text-black border-b border-black pb-0.5 hover:text-gray-600 transition-all min-h-[36px] flex items-center"
                 >
-                  {t("home.exploreShakti")} &rarr;
+                  {t("home.exploreWomen")} &rarr;
                 </Link>
               </div>
             </div>

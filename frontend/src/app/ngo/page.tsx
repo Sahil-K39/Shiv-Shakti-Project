@@ -5,7 +5,7 @@ import { ArrowRightIcon } from "@/components/ui/Icons";
 import NgoApplicationForm from "@/components/ngo/NgoApplicationForm";
 
 export const metadata: Metadata = {
-  title: "Shiv Shakti Project | NGO — Women Empowering Women",
+  title: "Shiv Women Project | NGO — Women Empowering Women",
   description:
     "Our mission is simple yet profound: Women giving work to women. We empower local female artisans through high-fashion craftsmanship and fair employment.",
 };
@@ -26,7 +26,7 @@ export default function NGOPage() {
         <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
         <div className="absolute inset-0 flex flex-col justify-end p-6 md:p-14 lg:p-20 text-white">
           <p className="mb-4 text-[10px] uppercase tracking-[0.3em] opacity-80 font-medium">
-            The Shakti Initiative
+            The Women Initiative
           </p>
           <h1 className="max-w-4xl text-[32px] md:text-[56px] lg:text-[72px] font-light uppercase leading-[1.1] tracking-tight">
             Women Giving Work <br /> to Women
@@ -44,7 +44,7 @@ export default function NGOPage() {
           </div>
           <div className="lg:col-span-7 space-y-8 text-[13px] md:text-[14px] uppercase leading-loose tracking-[0.14em] text-black/70">
             <p>
-              At the core of the Shiv Shakti Project lies a profound commitment to the divine feminine energy—Shakti. 
+              At the core of the Shiv Women Project lies a profound commitment to the divine feminine energy—Women. 
               Our non-profit initiative is built on a singular, powerful philosophy: Women giving work to women.
             </p>
             <p>

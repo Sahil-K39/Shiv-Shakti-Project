@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Shiv Shakti Project",
-  description: "Terms for using Shiv Shakti wholesale enquiry and product catalogue services.",
+  title: "Shiv Women Project",
+  description: "Terms for using Shiv Women wholesale enquiry and product catalogue services.",
 };
 
 export default function TermsPage() {
@@ -21,7 +21,7 @@ export default function TermsPage() {
             delivery terms are confirmed by email before order processing.
           </p>
           <p>
-            Payments should only be made using instructions sent from the official Shiv Shakti
+            Payments should only be made using instructions sent from the official Shiv Women
             support email after your enquiry is reviewed.
           </p>
         </div>

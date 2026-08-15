@@ -115,7 +115,7 @@ export default function ProductDetail() {
   };
 
   const wholesaleSubtotal = product.price * quantity;
-  const categoryHref = `/shop/${product.category?.toLowerCase() || "shakti"}`;
+  const categoryHref = `/shop/${product.category?.toLowerCase() || "women"}`;
 
   return (
     <main className="min-h-screen bg-white text-black px-4 pb-28 pt-6 sm:px-6 md:px-10 md:pb-24 md:pt-10 xl:px-14">

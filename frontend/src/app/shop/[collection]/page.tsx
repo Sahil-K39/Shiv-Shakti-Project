@@ -44,10 +44,10 @@ export default function ShopCollection() {
           transition={{ duration: 0.65, ease: [0.22, 1, 0.36, 1] }}
           className="text-[38px] sm:text-[44px] font-light uppercase tracking-[0.14em] text-black min-[600px]:text-[56px] md:text-[60px] md:tracking-[0.16em]"
         >
-          {collection === "shiva" ? t("shop.shivaCollection") : collection === "shakti" ? t("shop.shaktiCollection") : t("shop.allCollection")}
+          {collection === "men" ? t("shop.menCollection") : collection === "women" ? t("shop.womenCollection") : t("shop.allCollection")}
         </motion.h1>
         <p className="mx-auto mt-4 sm:mt-6 max-w-2xl px-6 text-[14px] sm:text-[18px] uppercase leading-relaxed tracking-[0.1em] text-gray-600 lg:text-[16px] lg:tracking-[0.14em] lg:text-gray-500">
-          {collection === "shiva" ? t("shop.shivaDesc") : collection === "shakti" ? t("shop.shaktiDesc") : t("shop.allDesc")}
+          {collection === "men" ? t("shop.menDesc") : collection === "women" ? t("shop.womenDesc") : t("shop.allDesc")}
         </p>
       </div>
 
@@ -93,31 +93,31 @@ export default function ShopCollection() {
             {t("shop.categoriesLabel")}
           </p>
           <div className="flex lg:flex-col gap-4 overflow-x-auto pb-2 lg:pb-0 text-[11px] sm:text-[12px] font-semibold uppercase tracking-[0.18em] text-gray-700 whitespace-nowrap">
-            <Link href="/shop/shakti" className="hover:text-black transition-colors">
+            <Link href="/shop/women" className="hover:text-black transition-colors">
               {t("home.newStuff")}
             </Link>
-            <Link href="/shop/shakti" className="hover:text-black transition-colors">
+            <Link href="/shop/women" className="hover:text-black transition-colors">
               {t("home.wholesaleBuying")}
             </Link>
-            <Link href="/shop/shiva" className={`hover:text-black transition-colors ${collection.toLowerCase() === 'shiva' ? 'text-black font-bold underline underline-offset-4' : ''}`}>
-              {t("home.shivaMen")}
+            <Link href="/shop/men" className={`hover:text-black transition-colors ${collection.toLowerCase() === 'men' ? 'text-black font-bold underline underline-offset-4' : ''}`}>
+              {t("home.men")}
             </Link>
-            <Link href="/shop/shakti" className={`hover:text-black transition-colors ${collection.toLowerCase() === 'shakti' ? 'text-black font-bold underline underline-offset-4' : ''}`}>
-              {t("home.shaktiWomen")}
+            <Link href="/shop/women" className={`hover:text-black transition-colors ${collection.toLowerCase() === 'women' ? 'text-black font-bold underline underline-offset-4' : ''}`}>
+              {t("home.women")}
             </Link>
-            <Link href="/shop/shakti" className="hover:text-black transition-colors text-gray-400">
+            <Link href="/shop/women" className="hover:text-black transition-colors text-gray-400">
               {t("home.armorCeremonial")}
             </Link>
-            <Link href="/shop/shiva" className="hover:text-black transition-colors text-gray-400">
+            <Link href="/shop/men" className="hover:text-black transition-colors text-gray-400">
               {t("home.deconstructed")}
             </Link>
-            <Link href="/shop/shakti" className="hover:text-black transition-colors text-gray-400">
+            <Link href="/shop/women" className="hover:text-black transition-colors text-gray-400">
               {t("home.knitsHeavy")}
             </Link>
-            <Link href="/shop/shiva" className="hover:text-black transition-colors text-gray-400">
+            <Link href="/shop/men" className="hover:text-black transition-colors text-gray-400">
               {t("home.knitsLight")}
             </Link>
-            <Link href="/shop/shakti" className="hover:text-black transition-colors text-gray-400">
+            <Link href="/shop/women" className="hover:text-black transition-colors text-gray-400">
               {t("home.robesCoats")}
             </Link>
           </div>

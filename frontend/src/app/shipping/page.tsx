@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Shiv Shakti Project",
+  title: "Shiv Women Project",
   description:
-    "Shipping, delivery, and return handling for Shiv Shakti wholesale enquiries.",
+    "Shipping, delivery, and return handling for Shiv Women wholesale enquiries.",
 };
 
 export default function ShippingPage() {

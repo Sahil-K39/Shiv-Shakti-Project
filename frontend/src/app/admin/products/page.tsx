@@ -14,7 +14,7 @@ const emptyForm: ProductInput = {
   description: "",
   price: 0,
   sale_price: 0,
-  category: "shakti",
+  category: "women",
   collection: "SS26",
   sizes: `["S/M","M/L"]`,
   colors: `["Default"]`,
@@ -29,8 +29,8 @@ const emptyForm: ProductInput = {
 };
 
 const categoryOptions = [
-  { value: "shakti", label: "Shakti" },
-  { value: "shiva", label: "Shiva" },
+  { value: "women", label: "Women" },
+  { value: "men", label: "Men" },
   { value: "accessories", label: "Accessories" },
   { value: "rudraksha", label: "Rudraksha" },
   { value: "malas", label: "Malas" },
@@ -150,7 +150,7 @@ function buildTemplateCSV() {
       "999",
       "0",
       "120",
-      "shakti",
+      "women",
       "BULK-SAMPLE-001",
       "/final-products/go01/go01-01.webp|/final-products/go01/go01-02.webp",
       "S/M|M/L",
@@ -295,7 +295,7 @@ function recordToProduct(record: Record<string, string>, index: number): Product
     description: recordValue(record, "description", "product_description"),
     price: Number.isFinite(price) ? price : 0,
     sale_price: Number.isFinite(salePrice) ? salePrice : 0,
-    category: recordValue(record, "category") || "shakti",
+    category: recordValue(record, "category") || "women",
     collection: recordValue(record, "collection") || "SS26",
     sizes: listField(recordValue(record, "sizes", "size") || "S/M|M/L"),
     colors: listField(recordValue(record, "colors", "color") || "Default"),

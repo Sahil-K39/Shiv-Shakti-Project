@@ -13,8 +13,8 @@ export default function MobileBottomNav() {
   const count = itemCount();
 
   const isHome = pathname === "/";
-  const isShakti = pathname.startsWith("/shop/shakti");
-  const isShiva = pathname.startsWith("/shop/shiva");
+  const isWomen = pathname.startsWith("/shop/women");
+  const isMen = pathname.startsWith("/shop/men");
   const isSearch = pathname === "/search";
 
   return (
@@ -35,30 +35,30 @@ export default function MobileBottomNav() {
         <span className="text-[10px] uppercase tracking-wider font-semibold leading-none">{t("nav.wholesale")}</span>
       </Link>
 
-      {/* Shakti Tab */}
+      {/* Women Tab */}
       <Link
-        href="/shop/shakti"
+        href="/shop/women"
         className={`flex flex-col items-center justify-center gap-1 min-w-[56px] py-1 transition-colors ${
-          isShakti ? "text-[#e11d48] font-bold" : "text-black/55 hover:text-black"
+          isWomen ? "text-[#e11d48] font-bold" : "text-black/55 hover:text-black"
         }`}
       >
-        <svg className="w-5 h-5" fill={isShakti ? "currentColor" : "none"} viewBox="0 0 24 24" stroke={isShakti ? "#e11d48" : "currentColor"} strokeWidth={isShakti ? 2.2 : 1.6}>
+        <svg className="w-5 h-5" fill={isWomen ? "currentColor" : "none"} viewBox="0 0 24 24" stroke={isWomen ? "#e11d48" : "currentColor"} strokeWidth={isWomen ? 2.2 : 1.6}>
           <path strokeLinecap="round" strokeLinejoin="round" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z" />
         </svg>
-        <span className="text-[10px] uppercase tracking-wider font-semibold leading-none">{t("nav.shakti")}</span>
+        <span className="text-[10px] uppercase tracking-wider font-semibold leading-none">{t("nav.women")}</span>
       </Link>
 
-      {/* Shiva Tab */}
+      {/* Men Tab */}
       <Link
-        href="/shop/shiva"
+        href="/shop/men"
         className={`flex flex-col items-center justify-center gap-1 min-w-[56px] py-1 transition-colors ${
-          isShiva ? "text-black font-bold" : "text-black/55 hover:text-black"
+          isMen ? "text-black font-bold" : "text-black/55 hover:text-black"
         }`}
       >
-        <svg className="w-5 h-5" fill={isShiva ? "currentColor" : "none"} viewBox="0 0 24 24" stroke="currentColor" strokeWidth={isShiva ? 2.2 : 1.6}>
+        <svg className="w-5 h-5" fill={isMen ? "currentColor" : "none"} viewBox="0 0 24 24" stroke="currentColor" strokeWidth={isMen ? 2.2 : 1.6}>
           <path strokeLinecap="round" strokeLinejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z" />
         </svg>
-        <span className="text-[10px] uppercase tracking-wider font-semibold leading-none">{t("nav.shiva")}</span>
+        <span className="text-[10px] uppercase tracking-wider font-semibold leading-none">{t("nav.men")}</span>
       </Link>
 
       {/* Search Tab */}

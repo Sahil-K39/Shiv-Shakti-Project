@@ -104,7 +104,7 @@ export default function ContentProtectionShield() {
 
       if (((isMacMeta || isCtrl) && isShift && e.key.toLowerCase() === "s") || (isAlt && (e.key === "PrintScreen" || e.keyCode === 44))) {
         e.preventDefault();
-        triggerDesktopShield("Snipping tool intercepted by Shiv Shakti Security Shield.");
+        triggerDesktopShield("Snipping tool intercepted by Shiv Women Security Shield.");
         return;
       }
 
@@ -189,7 +189,7 @@ export default function ContentProtectionShield() {
               Confidential Content Shield
             </h3>
             <p className="mt-3 text-xs leading-relaxed text-neutral-300">
-              Shiv Shakti wholesale articles, garment specifications, and imagery are protected under proprietary IP security. Screen capture and snipping overlays are disabled on desktop.
+              Shiv Women wholesale articles, garment specifications, and imagery are protected under proprietary IP security. Screen capture and snipping overlays are disabled on desktop.
             </p>
             <button
               type="button"
@@ -232,7 +232,7 @@ export default function ContentProtectionShield() {
                 {securityNotice}
               </span>
               <span className="text-[10px] text-neutral-400 uppercase tracking-wider font-mono">
-                Shiv Shakti IP Shield Active
+                Shiv Women IP Shield Active
               </span>
             </div>
           </motion.div>

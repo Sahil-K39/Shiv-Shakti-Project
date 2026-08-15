@@ -1,6 +1,6 @@
 import { CATEGORY_TRANSLATIONS_ALL } from "./productTranslationsAll86";
 
-// Comprehensive multi-language dictionary for Shiv Shakti SS26 Product Names & Fashion Terms
+// Comprehensive multi-language dictionary for Shiv Women SS26 Product Names & Fashion Terms
 export const PRODUCT_TRANSLATIONS: Record<string, Record<string, string>> = {
   // Products
   "Ivory Threadwork Vest Set": {
@@ -113,15 +113,15 @@ export const PRODUCT_TRANSLATIONS: Record<string, Record<string, string>> = {
     ru: "Полуночное платье с боковым разрезом",
     ur: "مڈنائیٹ سائیڈ سلٹ ڈریس",
   },
-  "SHIVA OVERSIZED TEE — ACID WASH": {
+  "MEN OVERSIZED TEE — ACID WASH": {
     hi: "शिवा ओवरसाइज़्ड टी — एसिड वॉश",
     ar: "تيشيرت شيفا واسع — غسيل حمضي",
-    es: "Camiseta oversize Shiva — lavado ácido",
-    fr: "T-shirt oversize Shiva — délavé acide",
-    de: "Shiva Oversized Shirt — Acid Wash",
+    es: "Camiseta oversize Men — lavado ácido",
+    fr: "T-shirt oversize Men — délavé acide",
+    de: "Men Oversized Shirt — Acid Wash",
     ja: "シヴァ オーバーサイズ Tシャツ — アシッドウォッシュ",
-    zh: "SHIVA 宽松酸洗重工T恤",
-    ru: "Футболка оверсайз Shiva — кислотная стирка",
+    zh: "MEN 宽松酸洗重工T恤",
+    ru: "Футболка оверсайз Men — кислотная стирка",
     ur: "شیوا اوور سائزڈ ٹی — ایسڈ واش",
   },
   "CYBERPUNK HOODIE — OBSIDIAN": {

@@ -53,3 +53,4 @@ Photoroom/
 .vercel
 *.mov
 *.mp4
+venv/

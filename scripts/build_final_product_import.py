@@ -97,12 +97,19 @@ def main() -> None:
 
     for index, folder in enumerate(folders, start=1):
         slug = f"shiv-shakti-final-style-{index:02d}"
-        name = STYLE_NAMES[index - 1]
+        if index <= len(STYLE_NAMES):
+            name = STYLE_NAMES[index - 1]
+            price = PRICES[index - 1]
+        else:
+            name = f"Avant-Garde Studio Piece {index:02d}"
+            price = 1499 + (index % 5) * 100
+
         images = [
             "/" + Path(item["destination"]).relative_to("frontend/public").as_posix()
             for item in manifest[folder]
         ]
-        price = PRICES[index - 1]
+        
+        cat = "women" if index % 2 != 0 else "men"
 
         products.append(
             {
@@ -111,7 +118,7 @@ def main() -> None:
                 "description": product_description(name, folder, len(images)),
                 "price": price,
                 "sale_price": 0,
-                "category": "shakti",
+                "category": cat,
                 "collection": "Final Products",
                 "sizes": json.dumps(["XS", "S", "M", "L", "XL", "Custom"]),
                 "colors": json.dumps(["Void Black", "Ivory", "Natural", "Mixed"]),

@@ -33,7 +33,7 @@ export default function AdminLoginPage() {
       <div className="mx-auto grid max-w-5xl overflow-hidden border border-black/10 md:grid-cols-[1fr_420px]">
         <div className="hidden bg-black p-10 text-white md:flex md:flex-col md:justify-end">
           <p className="mb-4 text-[10px] uppercase tracking-[0.24em] text-white/45">
-            Shiv Shakti Admin
+            Shiv Women Admin
           </p>
           <h1 className="text-[42px] font-light uppercase leading-none tracking-[0.12em]">
             Product Control

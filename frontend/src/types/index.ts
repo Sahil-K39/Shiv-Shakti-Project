@@ -9,7 +9,7 @@ export interface Product {
   sale_price?: number;
   is_on_sale?: boolean;
   currency: string;
-  category: "shakti" | "shiva" | string;
+  category: "women" | "men" | string;
   collection: string;
   sizes: string[] | string;
   colors: string[] | string;

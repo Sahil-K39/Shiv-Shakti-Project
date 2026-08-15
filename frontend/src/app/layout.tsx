@@ -11,7 +11,7 @@ import ContentProtectionShield from "@/components/security/ContentProtectionShie
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.shivshaktiproject.com"),
-  title: "Shiv Shakti Project",
+  title: "Shiv Women Project",
   description:
     "Avant-garde clothing for the post-apocalyptic era. Deconstructed silhouettes, ritual textures, and ceremonial armor designed for the Council of Light.",
   keywords: ["fashion", "avant-garde", "luxury", "neo-primitive", "post-apocalyptic"],
@@ -33,17 +33,17 @@ export const metadata: Metadata = {
     ],
   },
   openGraph: {
-    title: "Shiv Shakti Project \u2014 SS26 Wholesale Buying Room",
+    title: "Shiv Women Project \u2014 SS26 Wholesale Buying Room",
     description:
       "Premium wholesale fashion. Deconstructed silhouettes, ritual textures, and limited seasonal releases.",
     url: "https://www.shivshaktiproject.com",
-    siteName: "Shiv Shakti Project",
+    siteName: "Shiv Women Project",
     images: [
       {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Shiv Shakti SS26 Collection",
+        alt: "Shiv Women SS26 Collection",
       },
     ],
     locale: "en_IN",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Shiv Shakti Project \u2014 SS26 Wholesale Buying Room",
+    title: "Shiv Women Project \u2014 SS26 Wholesale Buying Room",
     description:
       "Premium wholesale fashion. Deconstructed silhouettes, ritual textures, and limited seasonal releases.",
     images: ["/og-image.jpg"],

@@ -33,8 +33,8 @@ export default function Footer() {
         <div className="space-y-4">
           <h4 className="text-[12px] tracking-[0.3em] text-black font-semibold uppercase mb-6">{t("footer.collections")}</h4>
           <ul className="space-y-3 text-[11px] tracking-[0.1em] text-gray-600 uppercase">
-            <li><Link href="/shop/shakti" className="hover:text-black transition-colors">{t("footer.shakti")}</Link></li>
-            <li><Link href="/shop/shiva" className="hover:text-black transition-colors">{t("footer.shiva")}</Link></li>
+            <li><Link href="/shop/women" className="hover:text-black transition-colors">{t("footer.women")}</Link></li>
+            <li><Link href="/shop/men" className="hover:text-black transition-colors">{t("footer.men")}</Link></li>
             <li><Link href="/fabric-selling" className="hover:text-black transition-colors">{t("footer.fabricSelling")}</Link></li>
             <li><Link href="/council" className="hover:text-black transition-colors">{t("footer.theCouncil")}</Link></li>
           </ul>
