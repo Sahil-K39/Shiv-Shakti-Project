@@ -2,15 +2,12 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import Image from "next/image";
 import type { Product } from "@/types";
 import { getAllProducts } from "@/lib/productData";
-import { useLanguage } from "@/context/LanguageContext";
 import ProductCarousel from "@/components/home/ProductCarousel";
 import ValuesSection from "@/components/home/ValuesSection";
 
 export default function Home() {
-  const { t } = useLanguage();
   const [products, setProducts] = useState<Product[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 

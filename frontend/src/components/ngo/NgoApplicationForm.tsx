@@ -34,7 +34,8 @@ export default function NgoApplicationForm() {
       );
       setForm(initialForm);
       setTimeout(() => setStatus("idle"), 5000);
-    } catch (error: any) {
+    } catch (err) {
+      const error = err as Error;
       console.error(error);
       setStatus("error");
       setFeedback(error.message || "Failed to submit application. Please try again later.");
