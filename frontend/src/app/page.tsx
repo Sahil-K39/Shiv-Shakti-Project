@@ -37,9 +37,9 @@ export default function Home() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 min-h-[400px]">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 h-[600px] md:h-[650px]">
           {/* About Shiv Shakti */}
-          <Link href="/council" className="group flex flex-col justify-end h-full bg-black border border-black/10 transition-colors p-8 md:p-12 shadow-sm relative overflow-hidden min-h-[350px]">
+          <Link href="/council" className="group flex flex-col justify-end h-full bg-black border border-black/10 transition-colors p-8 md:p-12 shadow-sm relative overflow-hidden">
             <Image
               src="/logos/logo1.webp"
               alt="Shiv Shakti"
@@ -60,7 +60,7 @@ export default function Home() {
           </Link>
 
           {/* About Fabric */}
-          <Link href="/fabric-selling" className="group flex flex-col justify-end h-full bg-black border border-black/10 transition-colors p-8 md:p-12 shadow-sm relative overflow-hidden min-h-[350px]">
+          <Link href="/fabric-selling" className="group flex flex-col justify-end h-full bg-black border border-black/10 transition-colors p-8 md:p-12 shadow-sm relative overflow-hidden">
             <Image
               src="/logos/logo2.webp"
               alt="Fabric"
@@ -81,7 +81,7 @@ export default function Home() {
           </Link>
 
           {/* NGO */}
-          <Link href="/ngo" className="group flex flex-col justify-end h-full bg-black border border-black transition-colors p-8 md:p-12 shadow-lg relative overflow-hidden min-h-[350px]">
+          <Link href="/ngo" className="group flex flex-col justify-end h-full bg-black border border-black transition-colors p-8 md:p-12 shadow-lg relative overflow-hidden">
             <Image
               src="/ngo/hero.jpg"
               alt="Women Artisans"
