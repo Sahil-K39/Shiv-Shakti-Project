@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Shiv Shakti Style GO-02",
       "slug": "go_02",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -12,10 +12,27 @@
       "images": [
         "/final-products/go_02/go_02-01.webp",
         "/final-products/go_02/go_02-02.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Shiv Shakti Style GO-03",
       "slug": "go_03",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -27,10 +44,27 @@
         "/final-products/go_03/go_03-01.webp",
         "/final-products/go_03/go_03-02.webp",
         "/final-products/go_03/go_03-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Shiv Shakti Style GO-04",
       "slug": "go_04",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -42,10 +76,27 @@
         "/final-products/go_04/go_04-01.webp",
         "/final-products/go_04/go_04-02.webp",
         "/final-products/go_04/go_04-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Shiv Shakti Style GO-05",
       "slug": "go_05",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -57,10 +108,27 @@
         "/final-products/go_05/go_05-01.webp",
         "/final-products/go_05/go_05-02.webp",
         "/final-products/go_05/go_05-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Shiv Shakti Style GO-06",
       "slug": "go_06",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -72,10 +140,27 @@
         "/final-products/go_06/go_06-01.webp",
         "/final-products/go_06/go_06-02.webp",
         "/final-products/go_06/go_06-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "6",
+      "id": 6,
       "name": "Shiv Shakti Style GO-07",
       "slug": "go_07",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -87,10 +172,27 @@
         "/final-products/go_07/go_07-01.webp",
         "/final-products/go_07/go_07-02.webp",
         "/final-products/go_07/go_07-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "7",
+      "id": 7,
       "name": "Shiv Shakti Style GO-08",
       "slug": "go_08",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -102,10 +204,27 @@
         "/final-products/go_08/go_08-01.webp",
         "/final-products/go_08/go_08-02.webp",
         "/final-products/go_08/go_08-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "8",
+      "id": 8,
       "name": "Shiv Shakti Style GO-09",
       "slug": "go_09",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -117,10 +236,27 @@
         "/final-products/go_09/go_09-01.webp",
         "/final-products/go_09/go_09-02.webp",
         "/final-products/go_09/go_09-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "9",
+      "id": 9,
       "name": "Shiv Shakti Style GO-10",
       "slug": "go_10",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -132,10 +268,27 @@
         "/final-products/go_10/go_10-01.webp",
         "/final-products/go_10/go_10-02.webp",
         "/final-products/go_10/go_10-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "10",
+      "id": 10,
       "name": "Shiv Shakti Style GO-11",
       "slug": "go_11",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -147,10 +300,27 @@
         "/final-products/go_11/go_11-01.webp",
         "/final-products/go_11/go_11-02.webp",
         "/final-products/go_11/go_11-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "11",
+      "id": 11,
       "name": "Shiv Shakti Style GO-12",
       "slug": "go_12",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -162,10 +332,27 @@
         "/final-products/go_12/go_12-01.webp",
         "/final-products/go_12/go_12-02.webp",
         "/final-products/go_12/go_12-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "12",
+      "id": 12,
       "name": "Shiv Shakti Style GO-13",
       "slug": "go_13",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -177,10 +364,27 @@
         "/final-products/go_13/go_13-01.webp",
         "/final-products/go_13/go_13-02.webp",
         "/final-products/go_13/go_13-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "13",
+      "id": 13,
       "name": "Shiv Shakti Style GO-14",
       "slug": "go_14",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -192,10 +396,27 @@
         "/final-products/go_14/go_14-01.webp",
         "/final-products/go_14/go_14-02.webp",
         "/final-products/go_14/go_14-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "14",
+      "id": 14,
       "name": "Shiv Shakti Style GO-15",
       "slug": "go_15",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -207,10 +428,27 @@
         "/final-products/go_15/go_15-01.webp",
         "/final-products/go_15/go_15-02.webp",
         "/final-products/go_15/go_15-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "15",
+      "id": 15,
       "name": "Shiv Shakti Style GO-16",
       "slug": "go_16",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -222,10 +460,27 @@
         "/final-products/go_16/go_16-01.webp",
         "/final-products/go_16/go_16-02.webp",
         "/final-products/go_16/go_16-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "16",
+      "id": 16,
       "name": "Shiv Shakti Style GO-17",
       "slug": "go_17",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -237,10 +492,27 @@
         "/final-products/go_17/go_17-01.webp",
         "/final-products/go_17/go_17-02.webp",
         "/final-products/go_17/go_17-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "17",
+      "id": 17,
       "name": "Shiv Shakti Style GO-18",
       "slug": "go_18",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -252,10 +524,27 @@
         "/final-products/go_18/go_18-01.webp",
         "/final-products/go_18/go_18-02.webp",
         "/final-products/go_18/go_18-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "18",
+      "id": 18,
       "name": "Shiv Shakti Style GO-19",
       "slug": "go_19",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -267,10 +556,27 @@
         "/final-products/go_19/go_19-01.webp",
         "/final-products/go_19/go_19-02.webp",
         "/final-products/go_19/go_19-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "19",
+      "id": 19,
       "name": "Shiv Shakti Style GO-20",
       "slug": "go_20",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -282,10 +588,27 @@
         "/final-products/go_20/go_20-01.webp",
         "/final-products/go_20/go_20-02.webp",
         "/final-products/go_20/go_20-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "20",
+      "id": 20,
       "name": "Shiv Shakti Style GO-21",
       "slug": "go_21",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -297,10 +620,27 @@
         "/final-products/go_21/go_21-01.webp",
         "/final-products/go_21/go_21-02.webp",
         "/final-products/go_21/go_21-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "21",
+      "id": 21,
       "name": "Shiv Shakti Style GO-22",
       "slug": "go_22",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -312,10 +652,27 @@
         "/final-products/go_22/go_22-01.webp",
         "/final-products/go_22/go_22-02.webp",
         "/final-products/go_22/go_22-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "22",
+      "id": 22,
       "name": "Shiv Shakti Style GO-23",
       "slug": "go_23",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -327,10 +684,27 @@
         "/final-products/go_23/go_23-01.webp",
         "/final-products/go_23/go_23-02.webp",
         "/final-products/go_23/go_23-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "23",
+      "id": 23,
       "name": "Shiv Shakti Style GO-24",
       "slug": "go_24",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -342,10 +716,27 @@
         "/final-products/go_24/go_24-01.webp",
         "/final-products/go_24/go_24-02.webp",
         "/final-products/go_24/go_24-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "24",
+      "id": 24,
       "name": "Shiv Shakti Style GO-25",
       "slug": "go_25",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -357,10 +748,27 @@
         "/final-products/go_25/go_25-01.webp",
         "/final-products/go_25/go_25-02.webp",
         "/final-products/go_25/go_25-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "25",
+      "id": 25,
       "name": "Shiv Shakti Style GO-26",
       "slug": "go_26",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -372,10 +780,27 @@
         "/final-products/go_26/go_26-01.webp",
         "/final-products/go_26/go_26-02.webp",
         "/final-products/go_26/go_26-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "26",
+      "id": 26,
       "name": "Shiv Shakti Style GO-27",
       "slug": "go_27",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -387,10 +812,27 @@
         "/final-products/go_27/go_27-01.webp",
         "/final-products/go_27/go_27-02.webp",
         "/final-products/go_27/go_27-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "27",
+      "id": 27,
       "name": "Shiv Shakti Style GO-28",
       "slug": "go_28",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -402,10 +844,27 @@
         "/final-products/go_28/go_28-01.webp",
         "/final-products/go_28/go_28-02.webp",
         "/final-products/go_28/go_28-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "28",
+      "id": 28,
       "name": "Shiv Shakti Style GO-29",
       "slug": "go_29",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -417,10 +876,27 @@
         "/final-products/go_29/go_29-01.webp",
         "/final-products/go_29/go_29-02.webp",
         "/final-products/go_29/go_29-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "29",
+      "id": 29,
       "name": "Shiv Shakti Style GO-30",
       "slug": "go_30",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -432,10 +908,27 @@
         "/final-products/go_30/go_30-01.webp",
         "/final-products/go_30/go_30-02.webp",
         "/final-products/go_30/go_30-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "30",
+      "id": 30,
       "name": "Shiv Shakti Style GO-31",
       "slug": "go_31",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -447,10 +940,27 @@
         "/final-products/go_31/go_31-01.webp",
         "/final-products/go_31/go_31-02.webp",
         "/final-products/go_31/go_31-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "31",
+      "id": 31,
       "name": "Shiv Shakti Style GO-32",
       "slug": "go_32",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -462,10 +972,27 @@
         "/final-products/go_32/go_32-01.webp",
         "/final-products/go_32/go_32-02.webp",
         "/final-products/go_32/go_32-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "32",
+      "id": 32,
       "name": "Shiv Shakti Style GO-33",
       "slug": "go_33",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -477,10 +1004,27 @@
         "/final-products/go_33/go_33-01.webp",
         "/final-products/go_33/go_33-02.webp",
         "/final-products/go_33/go_33-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "33",
+      "id": 33,
       "name": "Shiv Shakti Style GO-34",
       "slug": "go_34",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -492,10 +1036,27 @@
         "/final-products/go_34/go_34-01.webp",
         "/final-products/go_34/go_34-02.webp",
         "/final-products/go_34/go_34-03.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "34",
+      "id": 34,
       "name": "Shiv Shakti Style GO-35",
       "slug": "go_35",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -506,10 +1067,27 @@
       "images": [
         "/final-products/go_35/go_35-01.webp",
         "/final-products/go_35/go_35-02.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "35",
+      "id": 35,
       "name": "Shiv Shakti Style GO-36",
       "slug": "go_36",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -520,10 +1098,27 @@
       "images": [
         "/final-products/go_36/go_36-01.webp",
         "/final-products/go_36/go_36-02.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "36",
+      "id": 36,
       "name": "Shiv Shakti Style GO-37",
       "slug": "go_37",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -534,10 +1129,27 @@
       "images": [
         "/final-products/go_37/go_37-01.webp",
         "/final-products/go_37/go_37-02.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "37",
+      "id": 37,
       "name": "Shiv Shakti Style GO-38",
       "slug": "go_38",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -548,10 +1160,27 @@
       "images": [
         "/final-products/go_38/go_38-01.webp",
         "/final-products/go_38/go_38-02.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "38",
+      "id": 38,
       "name": "Shiv Shakti Style GO-39",
       "slug": "go_39",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -562,10 +1191,27 @@
       "images": [
         "/final-products/go_39/go_39-01.webp",
         "/final-products/go_39/go_39-02.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "39",
+      "id": 39,
       "name": "Shiv Shakti Style GO-40",
       "slug": "go_40",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -576,10 +1222,27 @@
       "images": [
         "/final-products/go_40/go_40-01.webp",
         "/final-products/go_40/go_40-02.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "40",
+      "id": 40,
       "name": "Shiv Shakti Style GO-41",
       "slug": "go_41",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -590,10 +1253,27 @@
       "images": [
         "/final-products/go_41/go_41-01.webp",
         "/final-products/go_41/go_41-02.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "41",
+      "id": 41,
       "name": "Shiv Shakti Style GO-42",
       "slug": "go_42",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -604,10 +1284,27 @@
       "images": [
         "/final-products/go_42/go_42-01.webp",
         "/final-products/go_42/go_42-02.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "42",
+      "id": 42,
       "name": "Shiv Shakti Style GO-43",
       "slug": "go_43",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -618,10 +1315,27 @@
       "images": [
         "/final-products/go_43/go_43-01.webp",
         "/final-products/go_43/go_43-02.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "43",
+      "id": 43,
       "name": "Shiv Shakti Style GO-44",
       "slug": "go_44",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -632,10 +1346,27 @@
       "images": [
         "/final-products/go_44/go_44-01.webp",
         "/final-products/go_44/go_44-02.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "44",
+      "id": 44,
       "name": "Shiv Shakti Style GO-45",
       "slug": "go_45",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -646,10 +1377,27 @@
       "images": [
         "/final-products/go_45/go_45-01.webp",
         "/final-products/go_45/go_45-02.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "45",
+      "id": 45,
       "name": "Shiv Shakti Style GO-46",
       "slug": "go_46",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -660,10 +1408,27 @@
       "images": [
         "/final-products/go_46/go_46-01.webp",
         "/final-products/go_46/go_46-02.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "46",
+      "id": 46,
       "name": "Shiv Shakti Style GO-47",
       "slug": "go_47",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -674,10 +1439,27 @@
       "images": [
         "/final-products/go_47/go_47-01.webp",
         "/final-products/go_47/go_47-02.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "47",
+      "id": 47,
       "name": "Shiv Shakti Style GO-42",
       "slug": "go_42",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -685,10 +1467,27 @@
       "sku": "SS-FINAL-GO-42",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "48",
+      "id": 48,
       "name": "Shiv Shakti Style GO-44",
       "slug": "go_44",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -696,10 +1495,27 @@
       "sku": "SS-FINAL-GO-44",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "49",
+      "id": 49,
       "name": "Shiv Shakti Style GO-45",
       "slug": "go_45",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -707,10 +1523,27 @@
       "sku": "SS-FINAL-GO-45",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "50",
+      "id": 50,
       "name": "Shiv Shakti Style GO-46",
       "slug": "go_46",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -718,10 +1551,27 @@
       "sku": "SS-FINAL-GO-46",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "51",
+      "id": 51,
       "name": "Shiv Shakti Style GO-47",
       "slug": "go_47",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -729,10 +1579,27 @@
       "sku": "SS-FINAL-GO-47",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "52",
+      "id": 52,
       "name": "Shiv Shakti Style GO-48",
       "slug": "go_48",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -740,10 +1607,27 @@
       "sku": "SS-FINAL-GO-48",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "53",
+      "id": 53,
       "name": "Shiv Shakti Style GO-49",
       "slug": "go_49",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -751,10 +1635,27 @@
       "sku": "SS-FINAL-GO-49",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "54",
+      "id": 54,
       "name": "Shiv Shakti Style GO-50",
       "slug": "go_50",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -762,10 +1663,27 @@
       "sku": "SS-FINAL-GO-50",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "55",
+      "id": 55,
       "name": "Shiv Shakti Style GO-51",
       "slug": "go_51",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -773,10 +1691,27 @@
       "sku": "SS-FINAL-GO-51",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "56",
+      "id": 56,
       "name": "Shiv Shakti Style GO-52",
       "slug": "go_52",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -784,10 +1719,27 @@
       "sku": "SS-FINAL-GO-52",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "57",
+      "id": 57,
       "name": "Shiv Shakti Style GO-53",
       "slug": "go_53",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -795,10 +1747,27 @@
       "sku": "SS-FINAL-GO-53",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "58",
+      "id": 58,
       "name": "Shiv Shakti Style GO-54",
       "slug": "go_54",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -806,10 +1775,27 @@
       "sku": "SS-FINAL-GO-54",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "59",
+      "id": 59,
       "name": "Shiv Shakti Style GO-55",
       "slug": "go_55",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -817,10 +1803,27 @@
       "sku": "SS-FINAL-GO-55",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "60",
+      "id": 60,
       "name": "Shiv Shakti Style GO-56",
       "slug": "go_56",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -828,10 +1831,27 @@
       "sku": "SS-FINAL-GO-56",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "61",
+      "id": 61,
       "name": "Shiv Shakti Style GO-57",
       "slug": "go_57",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -839,10 +1859,27 @@
       "sku": "SS-FINAL-GO-57",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "62",
+      "id": 62,
       "name": "Shiv Shakti Style GO-58",
       "slug": "go_58",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -850,10 +1887,27 @@
       "sku": "SS-FINAL-GO-58",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "63",
+      "id": 63,
       "name": "Shiv Shakti Style GO-59",
       "slug": "go_59",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -861,10 +1915,27 @@
       "sku": "SS-FINAL-GO-59",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "64",
+      "id": 64,
       "name": "Shiv Shakti Style GO-60",
       "slug": "go_60",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -872,10 +1943,27 @@
       "sku": "SS-FINAL-GO-60",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "65",
+      "id": 65,
       "name": "Shiv Shakti Style GO-61",
       "slug": "go_61",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -883,10 +1971,27 @@
       "sku": "SS-FINAL-GO-61",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "66",
+      "id": 66,
       "name": "Shiv Shakti Style GO-62",
       "slug": "go_62",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -894,10 +1999,27 @@
       "sku": "SS-FINAL-GO-62",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "67",
+      "id": 67,
       "name": "Shiv Shakti Style GO-63",
       "slug": "go_63",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -905,10 +2027,27 @@
       "sku": "SS-FINAL-GO-63",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "68",
+      "id": 68,
       "name": "Shiv Shakti Style GO-63-1",
       "slug": "go_63_1",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -916,10 +2055,27 @@
       "sku": "SS-FINAL-GO-63-1",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "69",
+      "id": 69,
       "name": "Shiv Shakti Style GO-64",
       "slug": "go_64",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -927,10 +2083,27 @@
       "sku": "SS-FINAL-GO-64",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "70",
+      "id": 70,
       "name": "Shiv Shakti Style GO-66",
       "slug": "go_66",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -938,10 +2111,27 @@
       "sku": "SS-FINAL-GO-66",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "71",
+      "id": 71,
       "name": "Shiv Shakti Style GO-67",
       "slug": "go_67",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -949,10 +2139,27 @@
       "sku": "SS-FINAL-GO-67",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "72",
+      "id": 72,
       "name": "Shiv Shakti Style GO-68",
       "slug": "go_68",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -960,10 +2167,27 @@
       "sku": "SS-FINAL-GO-68",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "73",
+      "id": 73,
       "name": "Shiv Shakti Style GO-69",
       "slug": "go_69",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -971,10 +2195,27 @@
       "sku": "SS-FINAL-GO-69",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "74",
+      "id": 74,
       "name": "Shiv Shakti Style GO-70",
       "slug": "go_70",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -982,10 +2223,27 @@
       "sku": "SS-FINAL-GO-70",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "75",
+      "id": 75,
       "name": "Shiv Shakti Style GO-71",
       "slug": "go_71",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -993,10 +2251,27 @@
       "sku": "SS-FINAL-GO-71",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "76",
+      "id": 76,
       "name": "Shiv Shakti Style GO-72",
       "slug": "go_72",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1004,10 +2279,27 @@
       "sku": "SS-FINAL-GO-72",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "77",
+      "id": 77,
       "name": "Shiv Shakti Style GO-73",
       "slug": "go_73",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1015,10 +2307,27 @@
       "sku": "SS-FINAL-GO-73",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "78",
+      "id": 78,
       "name": "Shiv Shakti Style GO-74",
       "slug": "go_74",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1026,10 +2335,27 @@
       "sku": "SS-FINAL-GO-74",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "79",
+      "id": 79,
       "name": "Shiv Shakti Style GO-75",
       "slug": "go_75",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1037,10 +2363,27 @@
       "sku": "SS-FINAL-GO-75",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "80",
+      "id": 80,
       "name": "Shiv Shakti Style GO-76",
       "slug": "go_76",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1048,10 +2391,27 @@
       "sku": "SS-FINAL-GO-76",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "81",
+      "id": 81,
       "name": "Shiv Shakti Style GO-77",
       "slug": "go_77",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1059,10 +2419,27 @@
       "sku": "SS-FINAL-GO-77",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "82",
+      "id": 82,
       "name": "Shiv Shakti Style GO-78",
       "slug": "go_78",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1070,10 +2447,27 @@
       "sku": "SS-FINAL-GO-78",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "83",
+      "id": 83,
       "name": "Shiv Shakti Style GO-79",
       "slug": "go_79",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1081,10 +2475,27 @@
       "sku": "SS-FINAL-GO-79",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "84",
+      "id": 84,
       "name": "Shiv Shakti Style GO-80",
       "slug": "go_80",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1092,10 +2503,27 @@
       "sku": "SS-FINAL-GO-80",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "85",
+      "id": 85,
       "name": "Shiv Shakti Style GO-81",
       "slug": "go_81",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1103,10 +2531,27 @@
       "sku": "SS-FINAL-GO-81",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "86",
+      "id": 86,
       "name": "Shiv Shakti Style GO-82",
       "slug": "go_82",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1114,10 +2559,27 @@
       "sku": "SS-FINAL-GO-82",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "87",
+      "id": 87,
       "name": "Shiv Shakti Style GO-84",
       "slug": "go_84",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1125,10 +2587,27 @@
       "sku": "SS-FINAL-GO-84",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "88",
+      "id": 88,
       "name": "Shiv Shakti Style GO-85",
       "slug": "go_85",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1136,10 +2615,27 @@
       "sku": "SS-FINAL-GO-85",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "89",
+      "id": 89,
       "name": "Shiv Shakti Style GO-85-1",
       "slug": "go_85_1",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1147,10 +2643,27 @@
       "sku": "SS-FINAL-GO-85-1",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "90",
+      "id": 90,
       "name": "Shiv Shakti Style GO-86",
       "slug": "go_86",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1158,10 +2671,27 @@
       "sku": "SS-FINAL-GO-86",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "91",
+      "id": 91,
       "name": "Shiv Shakti Style GO-87",
       "slug": "go_87",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1169,10 +2699,27 @@
       "sku": "SS-FINAL-GO-87",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "92",
+      "id": 92,
       "name": "Shiv Shakti Style GO-88",
       "slug": "go_88",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1180,10 +2727,27 @@
       "sku": "SS-FINAL-GO-88",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "93",
+      "id": 93,
       "name": "Shiv Shakti Style GO-89",
       "slug": "go_89",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1191,10 +2755,27 @@
       "sku": "SS-FINAL-GO-89",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "94",
+      "id": 94,
       "name": "Shiv Shakti Style GO-90",
       "slug": "go_90",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1202,10 +2783,27 @@
       "sku": "SS-FINAL-GO-90",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "95",
+      "id": 95,
       "name": "Shiv Shakti Style GO-91",
       "slug": "go_91",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1213,10 +2811,27 @@
       "sku": "SS-FINAL-GO-91",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "96",
+      "id": 96,
       "name": "Shiv Shakti Style GO-92",
       "slug": "go_92",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1224,10 +2839,27 @@
       "sku": "SS-FINAL-GO-92",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "97",
+      "id": 97,
       "name": "Shiv Shakti Style GO-93",
       "slug": "go_93",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1235,10 +2867,27 @@
       "sku": "SS-FINAL-GO-93",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "98",
+      "id": 98,
       "name": "Shiv Shakti Style AUG1-GROUP-01",
       "slug": "aug1_group_01",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1253,10 +2902,27 @@
         "/final-products/aug1_group_01/aug1_group_01-04.webp",
         "/final-products/aug1_group_01/aug1_group_01-05.webp",
         "/final-products/aug1_group_01/aug1_group_01-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "99",
+      "id": 99,
       "name": "Shiv Shakti Style AUG1-GROUP-02",
       "slug": "aug1_group_02",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1271,10 +2937,27 @@
         "/final-products/aug1_group_02/aug1_group_02-04.webp",
         "/final-products/aug1_group_02/aug1_group_02-05.webp",
         "/final-products/aug1_group_02/aug1_group_02-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "100",
+      "id": 100,
       "name": "Shiv Shakti Style AUG1-GROUP-03",
       "slug": "aug1_group_03",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1289,10 +2972,27 @@
         "/final-products/aug1_group_03/aug1_group_03-04.webp",
         "/final-products/aug1_group_03/aug1_group_03-05.webp",
         "/final-products/aug1_group_03/aug1_group_03-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "101",
+      "id": 101,
       "name": "Shiv Shakti Style AUG1-GROUP-04",
       "slug": "aug1_group_04",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1307,10 +3007,27 @@
         "/final-products/aug1_group_04/aug1_group_04-04.webp",
         "/final-products/aug1_group_04/aug1_group_04-05.webp",
         "/final-products/aug1_group_04/aug1_group_04-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "102",
+      "id": 102,
       "name": "Shiv Shakti Style AUG1-GROUP-05",
       "slug": "aug1_group_05",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1325,10 +3042,27 @@
         "/final-products/aug1_group_05/aug1_group_05-04.webp",
         "/final-products/aug1_group_05/aug1_group_05-05.webp",
         "/final-products/aug1_group_05/aug1_group_05-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "103",
+      "id": 103,
       "name": "Shiv Shakti Style AUG1-GROUP-06",
       "slug": "aug1_group_06",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1343,10 +3077,27 @@
         "/final-products/aug1_group_06/aug1_group_06-04.webp",
         "/final-products/aug1_group_06/aug1_group_06-05.webp",
         "/final-products/aug1_group_06/aug1_group_06-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "104",
+      "id": 104,
       "name": "Shiv Shakti Style AUG1-GROUP-07",
       "slug": "aug1_group_07",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1361,10 +3112,27 @@
         "/final-products/aug1_group_07/aug1_group_07-04.webp",
         "/final-products/aug1_group_07/aug1_group_07-05.webp",
         "/final-products/aug1_group_07/aug1_group_07-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "105",
+      "id": 105,
       "name": "Shiv Shakti Style AUG1-GROUP-08",
       "slug": "aug1_group_08",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1379,10 +3147,27 @@
         "/final-products/aug1_group_08/aug1_group_08-04.webp",
         "/final-products/aug1_group_08/aug1_group_08-05.webp",
         "/final-products/aug1_group_08/aug1_group_08-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "106",
+      "id": 106,
       "name": "Shiv Shakti Style AUG1-GROUP-09",
       "slug": "aug1_group_09",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1397,10 +3182,27 @@
         "/final-products/aug1_group_09/aug1_group_09-04.webp",
         "/final-products/aug1_group_09/aug1_group_09-05.webp",
         "/final-products/aug1_group_09/aug1_group_09-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "107",
+      "id": 107,
       "name": "Shiv Shakti Style AUG1-GROUP-10",
       "slug": "aug1_group_10",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1413,10 +3215,27 @@
         "/final-products/aug1_group_10/aug1_group_10-02.webp",
         "/final-products/aug1_group_10/aug1_group_10-03.webp",
         "/final-products/aug1_group_10/aug1_group_10-04.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "108",
+      "id": 108,
       "name": "Shiv Shakti Style AUG8-GROUP-01",
       "slug": "aug8_group_01",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1431,10 +3250,27 @@
         "/final-products/aug8_group_01/aug8_group_01-04.webp",
         "/final-products/aug8_group_01/aug8_group_01-05.webp",
         "/final-products/aug8_group_01/aug8_group_01-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "109",
+      "id": 109,
       "name": "Shiv Shakti Style AUG8-GROUP-02",
       "slug": "aug8_group_02",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1449,10 +3285,27 @@
         "/final-products/aug8_group_02/aug8_group_02-04.webp",
         "/final-products/aug8_group_02/aug8_group_02-05.webp",
         "/final-products/aug8_group_02/aug8_group_02-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "110",
+      "id": 110,
       "name": "Shiv Shakti Style AUG8-GROUP-03",
       "slug": "aug8_group_03",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1467,10 +3320,27 @@
         "/final-products/aug8_group_03/aug8_group_03-04.webp",
         "/final-products/aug8_group_03/aug8_group_03-05.webp",
         "/final-products/aug8_group_03/aug8_group_03-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "111",
+      "id": 111,
       "name": "Shiv Shakti Style AUG8-GROUP-04",
       "slug": "aug8_group_04",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1485,10 +3355,27 @@
         "/final-products/aug8_group_04/aug8_group_04-04.webp",
         "/final-products/aug8_group_04/aug8_group_04-05.webp",
         "/final-products/aug8_group_04/aug8_group_04-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "112",
+      "id": 112,
       "name": "Shiv Shakti Style AUG8-GROUP-05",
       "slug": "aug8_group_05",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1503,10 +3390,27 @@
         "/final-products/aug8_group_05/aug8_group_05-04.webp",
         "/final-products/aug8_group_05/aug8_group_05-05.webp",
         "/final-products/aug8_group_05/aug8_group_05-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "113",
+      "id": 113,
       "name": "Shiv Shakti Style AUG8-GROUP-06",
       "slug": "aug8_group_06",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1521,10 +3425,27 @@
         "/final-products/aug8_group_06/aug8_group_06-04.webp",
         "/final-products/aug8_group_06/aug8_group_06-05.webp",
         "/final-products/aug8_group_06/aug8_group_06-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "114",
+      "id": 114,
       "name": "Shiv Shakti Style AUG8-GROUP-07",
       "slug": "aug8_group_07",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1539,10 +3460,27 @@
         "/final-products/aug8_group_07/aug8_group_07-04.webp",
         "/final-products/aug8_group_07/aug8_group_07-05.webp",
         "/final-products/aug8_group_07/aug8_group_07-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "115",
+      "id": 115,
       "name": "Shiv Shakti Style AUG8-GROUP-08",
       "slug": "aug8_group_08",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1557,10 +3495,27 @@
         "/final-products/aug8_group_08/aug8_group_08-04.webp",
         "/final-products/aug8_group_08/aug8_group_08-05.webp",
         "/final-products/aug8_group_08/aug8_group_08-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "116",
+      "id": 116,
       "name": "Shiv Shakti Style AUG8-GROUP-09",
       "slug": "aug8_group_09",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1575,10 +3530,27 @@
         "/final-products/aug8_group_09/aug8_group_09-04.webp",
         "/final-products/aug8_group_09/aug8_group_09-05.webp",
         "/final-products/aug8_group_09/aug8_group_09-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "117",
+      "id": 117,
       "name": "Shiv Shakti Style AUG8-GROUP-10",
       "slug": "aug8_group_10",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1593,10 +3565,27 @@
         "/final-products/aug8_group_10/aug8_group_10-04.webp",
         "/final-products/aug8_group_10/aug8_group_10-05.webp",
         "/final-products/aug8_group_10/aug8_group_10-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "118",
+      "id": 118,
       "name": "Shiv Shakti Style AUG8-GROUP-11",
       "slug": "aug8_group_11",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1611,10 +3600,27 @@
         "/final-products/aug8_group_11/aug8_group_11-04.webp",
         "/final-products/aug8_group_11/aug8_group_11-05.webp",
         "/final-products/aug8_group_11/aug8_group_11-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "119",
+      "id": 119,
       "name": "Shiv Shakti Style AUG8-GROUP-12",
       "slug": "aug8_group_12",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1629,10 +3635,27 @@
         "/final-products/aug8_group_12/aug8_group_12-04.webp",
         "/final-products/aug8_group_12/aug8_group_12-05.webp",
         "/final-products/aug8_group_12/aug8_group_12-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "120",
+      "id": 120,
       "name": "Shiv Shakti Style AUG8-GROUP-13",
       "slug": "aug8_group_13",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1647,10 +3670,27 @@
         "/final-products/aug8_group_13/aug8_group_13-04.webp",
         "/final-products/aug8_group_13/aug8_group_13-05.webp",
         "/final-products/aug8_group_13/aug8_group_13-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "121",
+      "id": 121,
       "name": "Shiv Shakti Style AUG8-GROUP-14",
       "slug": "aug8_group_14",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1665,10 +3705,27 @@
         "/final-products/aug8_group_14/aug8_group_14-04.webp",
         "/final-products/aug8_group_14/aug8_group_14-05.webp",
         "/final-products/aug8_group_14/aug8_group_14-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "122",
+      "id": 122,
       "name": "Shiv Shakti Style AUG8-GROUP-15",
       "slug": "aug8_group_15",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1683,10 +3740,27 @@
         "/final-products/aug8_group_15/aug8_group_15-04.webp",
         "/final-products/aug8_group_15/aug8_group_15-05.webp",
         "/final-products/aug8_group_15/aug8_group_15-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "123",
+      "id": 123,
       "name": "Shiv Shakti Style AUG8-GROUP-16",
       "slug": "aug8_group_16",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1701,10 +3775,27 @@
         "/final-products/aug8_group_16/aug8_group_16-04.webp",
         "/final-products/aug8_group_16/aug8_group_16-05.webp",
         "/final-products/aug8_group_16/aug8_group_16-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "124",
+      "id": 124,
       "name": "Shiv Shakti Style AUG8-GROUP-17",
       "slug": "aug8_group_17",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1719,10 +3810,27 @@
         "/final-products/aug8_group_17/aug8_group_17-04.webp",
         "/final-products/aug8_group_17/aug8_group_17-05.webp",
         "/final-products/aug8_group_17/aug8_group_17-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "125",
+      "id": 125,
       "name": "Shiv Shakti Style AUG8-GROUP-18",
       "slug": "aug8_group_18",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1737,10 +3845,27 @@
         "/final-products/aug8_group_18/aug8_group_18-04.webp",
         "/final-products/aug8_group_18/aug8_group_18-05.webp",
         "/final-products/aug8_group_18/aug8_group_18-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "126",
+      "id": 126,
       "name": "Shiv Shakti Style AUG8-GROUP-19",
       "slug": "aug8_group_19",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1755,10 +3880,27 @@
         "/final-products/aug8_group_19/aug8_group_19-04.webp",
         "/final-products/aug8_group_19/aug8_group_19-05.webp",
         "/final-products/aug8_group_19/aug8_group_19-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "127",
+      "id": 127,
       "name": "Shiv Shakti Style AUG8-GROUP-20",
       "slug": "aug8_group_20",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1773,10 +3915,27 @@
         "/final-products/aug8_group_20/aug8_group_20-04.webp",
         "/final-products/aug8_group_20/aug8_group_20-05.webp",
         "/final-products/aug8_group_20/aug8_group_20-06.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     },
     {
-      "id": "128",
+      "id": 128,
       "name": "Shiv Shakti Style AUG8-GROUP-21",
       "slug": "aug8_group_21",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
@@ -1790,7 +3949,24 @@
         "/final-products/aug8_group_21/aug8_group_21-03.webp",
         "/final-products/aug8_group_21/aug8_group_21-04.webp",
         "/final-products/aug8_group_21/aug8_group_21-05.webp"
-      ]
+      ],
+      "currency": "INR",
+      "collection": "SS26",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "Void Black"
+      ],
+      "featured": false,
+      "created_at": "2026-08-16T00:00:00Z",
+      "updated_at": "2026-08-16T00:00:00Z",
+      "is_active": true,
+      "quantity": 50
     }
   ]
 }
