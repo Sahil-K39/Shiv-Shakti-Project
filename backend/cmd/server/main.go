@@ -335,13 +335,7 @@ func main() {
 	log.Println("✓ Rate Limiting enforced")
 	log.Printf("Starting API server on :%s", port)
 	
-	// CRITICAL FIX: The user requested a permanent removal of ALL products from the database everywhere.
-	// This unconditionally drops all products from the persistent Postgres DB on Render upon startup.
-	if _, err := db.Exec("DELETE FROM products"); err != nil {
-		log.Printf("Failed to wipe products table: %v", err)
-	} else {
-		log.Printf("Successfully wiped all products from the persistent database permanently.")
-	}
+
 
 	if err := r.Run(":" + port); err != nil {
 		log.Fatalf("✗ Server failed to start: %v", err)

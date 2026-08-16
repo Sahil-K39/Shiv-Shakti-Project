@@ -348,9 +348,33 @@ func isUniqueConstraintError(err error) bool {
 }
 
 func (h *ProductHandler) ListAll(c *gin.Context) {
+	rows, err := store.Query(h.db,
+		"SELECT "+productSelectColumns+" FROM products WHERE is_active = ? ORDER BY id ASC",
+		true,
+	)
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "database_error"})
+		return
+	}
+	defer rows.Close()
+
+	products := []models.Product{}
+	for rows.Next() {
+		var p models.Product
+		if err := scanProduct(rows, &p); err != nil {
+			c.JSON(http.StatusInternalServerError, gin.H{"error": "database_error"})
+			return
+		}
+		products = append(products, p)
+	}
+	if err := rows.Err(); err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "database_error"})
+		return
+	}
+
 	c.JSON(http.StatusOK, gin.H{
-		"products": []models.Product{},
-		"total":    0,
+		"products": products,
+		"total":    len(products),
 	})
 }
 
