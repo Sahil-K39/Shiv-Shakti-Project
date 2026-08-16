@@ -6,8 +6,6 @@ node_modules
 /Final Products/
 /Products/
 /Photoroom/
-*.mov
-*.mp4
 *.zip
 backend
 data
