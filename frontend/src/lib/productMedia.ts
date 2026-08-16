@@ -44,16 +44,31 @@ export function parseList(value: string[] | string | null | undefined): string[]
 }
 
 export function getProductImages(product: Product): string[] {
-  // The user requested to remove all product images from the website
-  return ["/placeholder.svg"];
+  // Use the product's own images if available
+  const parsed = parseList(product.images);
+  if (parsed.length) {
+    return parsed;
+  }
+  // Use explicit image aliases for known products as fallback
+  const aliasImages = productImageAliases[product.slug];
+  if (Array.isArray(aliasImages) && aliasImages.length) {
+    return aliasImages.map(toWebp);
+  }
+  // Fallback to category images when product has none
+  return (categoryFallbacks[product.category?.toLowerCase()] ?? [
+    getRandomProductImage(),
+  ]).map(toWebp);
 }
 
 export function getCartItemImage(images: string[] | string | null | undefined) {
-  return "/placeholder.svg";
+  return toWebp(parseList(images)[0] || getRandomProductImage());
 }
 
 export function getCategoryFallbackImage(category: string | null | undefined) {
-  return "/placeholder.svg";
+  return toWebp(
+    categoryFallbacks[category?.toLowerCase() ?? ""]?.[0] ||
+    getRandomProductImage()
+  );
 }
 
 export function getColorSwatch(color: string) {
