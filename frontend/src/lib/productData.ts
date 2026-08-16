@@ -88,6 +88,7 @@ async function doFetch(): Promise<Product[]> {
     try {
       const data = await productsAPI.listAll();
       const valid = (data.products ?? []).filter(visibleProduct);
+      console.log("local build log: listAll returned", data?.products?.length, "valid=", valid.length);
       if (valid.length > 0) {
         memoryCache = valid;
         if (typeof window !== "undefined") {

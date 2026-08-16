@@ -174,34 +174,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 4. Shop by Category (Psylo Style Circles) */}
-      <section className="w-full py-16 bg-white border-b border-black/10">
-        <div className="max-w-[1400px] mx-auto px-4 md:px-8">
-          <div className="flex flex-wrap justify-center gap-8 md:gap-16">
-            {[
-              { name: "Tops", image: "/logos/logo2.webp", link: "/shop/women?category=tops" },
-              { name: "Bottoms", image: "/logos/logo1.webp", link: "/shop/women?category=bottoms" },
-              { name: "Outerwear", image: "/ngo/artisan-3.jpg", link: "/shop/women?category=outerwear" },
-              { name: "Accessories", image: "/ngo/artisan-2.jpg", link: "/shop/women?category=accessories" },
-            ].map((cat, idx) => (
-              <Link href={cat.link} key={idx} className="group flex flex-col items-center gap-4">
-                <div className="w-24 h-24 md:w-32 md:h-32 rounded-full overflow-hidden relative border border-black/10">
-                  <Image
-                    src={cat.image}
-                    alt={cat.name}
-                    fill
-                    className="object-cover transition-transform duration-700 group-hover:scale-110 grayscale group-hover:grayscale-0"
-                    sizes="128px"
-                  />
-                </div>
-                <span className="text-[11px] font-bold uppercase tracking-[0.2em] text-black group-hover:underline underline-offset-4">
-                  {cat.name}
-                </span>
-              </Link>
-            ))}
-          </div>
-        </div>
-      </section>
+
 
       {/* 5. New Arrivals (Psylo Style Horizontal Track) */}
       <section className="w-full py-16 md:py-24 bg-[#fbfaf8]">
