@@ -6,6 +6,7 @@ import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import type { Product } from "@/types";
 import { formatPriceINR } from "@/lib/pricing";
+import { getProductImages } from "@/lib/productMedia";
 
 interface ProductCarouselProps {
   products: Product[];
@@ -47,9 +48,9 @@ export default function ProductCarousel({ products }: ProductCarouselProps) {
             className="absolute inset-0"
           >
             <Link href={`/product/${currentProduct.slug}`} className="block w-full h-full relative group">
-              {currentProduct.images[0] && (
+              {getProductImages(currentProduct)[0] && (
                 <Image
-                  src={currentProduct.images[0]}
+                  src={getProductImages(currentProduct)[0]}
                   alt={currentProduct.name}
                   fill
                   sizes="(max-width: 768px) 100vw, 600px"

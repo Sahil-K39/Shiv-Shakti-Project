@@ -12,9 +12,38 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go01/go01-01.webp\", \"/final-products/go01/go01-02.webp\", \"/final-products/go01/go01-03.webp\", \"/final-products/go01/go01-04.webp\", \"/final-products/go01/go01-05.webp\", \"/final-products/go01/go01-06.webp\", \"/final-products/go01/go01-07.webp\", \"/final-products/go01/go01-08.webp\", \"/final-products/go01/go01-09.webp\", \"/final-products/go01/go01-10.webp\", \"/final-products/go01/go01-11.webp\", \"/final-products/go01/go01-12.webp\", \"/final-products/go01/go01-13.webp\", \"/final-products/go01/go01-14.webp\", \"/final-products/go01/go01-15.webp\", \"/final-products/go01/go01-16.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go01/go01-01.webp",
+        "/final-products/go01/go01-02.webp",
+        "/final-products/go01/go01-03.webp",
+        "/final-products/go01/go01-04.webp",
+        "/final-products/go01/go01-05.webp",
+        "/final-products/go01/go01-06.webp",
+        "/final-products/go01/go01-07.webp",
+        "/final-products/go01/go01-08.webp",
+        "/final-products/go01/go01-09.webp",
+        "/final-products/go01/go01-10.webp",
+        "/final-products/go01/go01-11.webp",
+        "/final-products/go01/go01-12.webp",
+        "/final-products/go01/go01-13.webp",
+        "/final-products/go01/go01-14.webp",
+        "/final-products/go01/go01-15.webp",
+        "/final-products/go01/go01-16.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -25,7 +54,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.082700",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 52,
@@ -39,9 +68,29 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go02/go02-01.webp\", \"/final-products/go02/go02-02.webp\", \"/final-products/go02/go02-03.webp\", \"/final-products/go02/go02-04.webp\", \"/final-products/go02/go02-05.webp\", \"/final-products/go02/go02-06.webp\", \"/final-products/go02/go02-07.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go02/go02-01.webp",
+        "/final-products/go02/go02-02.webp",
+        "/final-products/go02/go02-03.webp",
+        "/final-products/go02/go02-04.webp",
+        "/final-products/go02/go02-05.webp",
+        "/final-products/go02/go02-06.webp",
+        "/final-products/go02/go02-07.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -52,7 +101,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083030",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 53,
@@ -66,9 +115,30 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go03/go03-01.webp\", \"/final-products/go03/go03-02.webp\", \"/final-products/go03/go03-03.webp\", \"/final-products/go03/go03-04.webp\", \"/final-products/go03/go03-05.webp\", \"/final-products/go03/go03-06.webp\", \"/final-products/go03/go03-07.webp\", \"/final-products/go03/go03-08.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go03/go03-01.webp",
+        "/final-products/go03/go03-02.webp",
+        "/final-products/go03/go03-03.webp",
+        "/final-products/go03/go03-04.webp",
+        "/final-products/go03/go03-05.webp",
+        "/final-products/go03/go03-06.webp",
+        "/final-products/go03/go03-07.webp",
+        "/final-products/go03/go03-08.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -79,7 +149,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083046",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 54,
@@ -93,9 +163,30 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go04/go04-01.webp\", \"/final-products/go04/go04-02.webp\", \"/final-products/go04/go04-03.webp\", \"/final-products/go04/go04-04.webp\", \"/final-products/go04/go04-05.webp\", \"/final-products/go04/go04-06.webp\", \"/final-products/go04/go04-07.webp\", \"/final-products/go04/go04-08.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go04/go04-01.webp",
+        "/final-products/go04/go04-02.webp",
+        "/final-products/go04/go04-03.webp",
+        "/final-products/go04/go04-04.webp",
+        "/final-products/go04/go04-05.webp",
+        "/final-products/go04/go04-06.webp",
+        "/final-products/go04/go04-07.webp",
+        "/final-products/go04/go04-08.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -106,7 +197,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083057",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 55,
@@ -120,9 +211,29 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go05/go05-01.webp\", \"/final-products/go05/go05-02.webp\", \"/final-products/go05/go05-03.webp\", \"/final-products/go05/go05-04.webp\", \"/final-products/go05/go05-05.webp\", \"/final-products/go05/go05-06.webp\", \"/final-products/go05/go05-07.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go05/go05-01.webp",
+        "/final-products/go05/go05-02.webp",
+        "/final-products/go05/go05-03.webp",
+        "/final-products/go05/go05-04.webp",
+        "/final-products/go05/go05-05.webp",
+        "/final-products/go05/go05-06.webp",
+        "/final-products/go05/go05-07.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -133,7 +244,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083066",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 56,
@@ -147,9 +258,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go06/go06-01.webp\", \"/final-products/go06/go06-02.webp\", \"/final-products/go06/go06-03.webp\", \"/final-products/go06/go06-04.webp\", \"/final-products/go06/go06-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go06/go06-01.webp",
+        "/final-products/go06/go06-02.webp",
+        "/final-products/go06/go06-03.webp",
+        "/final-products/go06/go06-04.webp",
+        "/final-products/go06/go06-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -160,7 +289,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083077",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 57,
@@ -174,9 +303,28 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go07/go07-01.webp\", \"/final-products/go07/go07-02.webp\", \"/final-products/go07/go07-03.webp\", \"/final-products/go07/go07-04.webp\", \"/final-products/go07/go07-05.webp\", \"/final-products/go07/go07-06.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go07/go07-01.webp",
+        "/final-products/go07/go07-02.webp",
+        "/final-products/go07/go07-03.webp",
+        "/final-products/go07/go07-04.webp",
+        "/final-products/go07/go07-05.webp",
+        "/final-products/go07/go07-06.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -187,7 +335,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083086",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 58,
@@ -201,9 +349,28 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go08/go08-01.webp\", \"/final-products/go08/go08-02.webp\", \"/final-products/go08/go08-03.webp\", \"/final-products/go08/go08-04.webp\", \"/final-products/go08/go08-05.webp\", \"/final-products/go08/go08-06.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go08/go08-01.webp",
+        "/final-products/go08/go08-02.webp",
+        "/final-products/go08/go08-03.webp",
+        "/final-products/go08/go08-04.webp",
+        "/final-products/go08/go08-05.webp",
+        "/final-products/go08/go08-06.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -214,7 +381,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083094",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 59,
@@ -228,9 +395,30 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go09/go09-01.webp\", \"/final-products/go09/go09-02.webp\", \"/final-products/go09/go09-03.webp\", \"/final-products/go09/go09-04.webp\", \"/final-products/go09/go09-05.webp\", \"/final-products/go09/go09-06.webp\", \"/final-products/go09/go09-07.webp\", \"/final-products/go09/go09-08.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go09/go09-01.webp",
+        "/final-products/go09/go09-02.webp",
+        "/final-products/go09/go09-03.webp",
+        "/final-products/go09/go09-04.webp",
+        "/final-products/go09/go09-05.webp",
+        "/final-products/go09/go09-06.webp",
+        "/final-products/go09/go09-07.webp",
+        "/final-products/go09/go09-08.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -241,7 +429,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083102",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 60,
@@ -255,9 +443,29 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go10/go10-01.webp\", \"/final-products/go10/go10-02.webp\", \"/final-products/go10/go10-03.webp\", \"/final-products/go10/go10-04.webp\", \"/final-products/go10/go10-05.webp\", \"/final-products/go10/go10-06.webp\", \"/final-products/go10/go10-07.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go10/go10-01.webp",
+        "/final-products/go10/go10-02.webp",
+        "/final-products/go10/go10-03.webp",
+        "/final-products/go10/go10-04.webp",
+        "/final-products/go10/go10-05.webp",
+        "/final-products/go10/go10-06.webp",
+        "/final-products/go10/go10-07.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -268,7 +476,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083110",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 61,
@@ -282,9 +490,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go11/go11-01.webp\", \"/final-products/go11/go11-02.webp\", \"/final-products/go11/go11-03.webp\", \"/final-products/go11/go11-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go11/go11-01.webp",
+        "/final-products/go11/go11-02.webp",
+        "/final-products/go11/go11-03.webp",
+        "/final-products/go11/go11-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -295,7 +520,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083118",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 62,
@@ -309,9 +534,28 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go12/go12-01.webp\", \"/final-products/go12/go12-02.webp\", \"/final-products/go12/go12-03.webp\", \"/final-products/go12/go12-04.webp\", \"/final-products/go12/go12-05.webp\", \"/final-products/go12/go12-06.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go12/go12-01.webp",
+        "/final-products/go12/go12-02.webp",
+        "/final-products/go12/go12-03.webp",
+        "/final-products/go12/go12-04.webp",
+        "/final-products/go12/go12-05.webp",
+        "/final-products/go12/go12-06.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -322,7 +566,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083126",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 63,
@@ -336,9 +580,29 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go13/go13-01.webp\", \"/final-products/go13/go13-02.webp\", \"/final-products/go13/go13-03.webp\", \"/final-products/go13/go13-04.webp\", \"/final-products/go13/go13-05.webp\", \"/final-products/go13/go13-06.webp\", \"/final-products/go13/go13-07.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go13/go13-01.webp",
+        "/final-products/go13/go13-02.webp",
+        "/final-products/go13/go13-03.webp",
+        "/final-products/go13/go13-04.webp",
+        "/final-products/go13/go13-05.webp",
+        "/final-products/go13/go13-06.webp",
+        "/final-products/go13/go13-07.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -349,7 +613,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083134",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 64,
@@ -363,9 +627,30 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go14/go14-01.webp\", \"/final-products/go14/go14-02.webp\", \"/final-products/go14/go14-03.webp\", \"/final-products/go14/go14-04.webp\", \"/final-products/go14/go14-05.webp\", \"/final-products/go14/go14-06.webp\", \"/final-products/go14/go14-07.webp\", \"/final-products/go14/go14-08.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go14/go14-01.webp",
+        "/final-products/go14/go14-02.webp",
+        "/final-products/go14/go14-03.webp",
+        "/final-products/go14/go14-04.webp",
+        "/final-products/go14/go14-05.webp",
+        "/final-products/go14/go14-06.webp",
+        "/final-products/go14/go14-07.webp",
+        "/final-products/go14/go14-08.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -376,7 +661,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083142",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 65,
@@ -390,9 +675,28 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go15/go15-01.webp\", \"/final-products/go15/go15-02.webp\", \"/final-products/go15/go15-03.webp\", \"/final-products/go15/go15-04.webp\", \"/final-products/go15/go15-05.webp\", \"/final-products/go15/go15-06.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go15/go15-01.webp",
+        "/final-products/go15/go15-02.webp",
+        "/final-products/go15/go15-03.webp",
+        "/final-products/go15/go15-04.webp",
+        "/final-products/go15/go15-05.webp",
+        "/final-products/go15/go15-06.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -403,7 +707,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083150",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 66,
@@ -417,9 +721,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go16/go16-01.webp\", \"/final-products/go16/go16-02.webp\", \"/final-products/go16/go16-03.webp\", \"/final-products/go16/go16-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go16/go16-01.webp",
+        "/final-products/go16/go16-02.webp",
+        "/final-products/go16/go16-03.webp",
+        "/final-products/go16/go16-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -430,7 +751,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083158",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 67,
@@ -444,9 +765,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go17/go17-01.webp\", \"/final-products/go17/go17-02.webp\", \"/final-products/go17/go17-03.webp\", \"/final-products/go17/go17-04.webp\", \"/final-products/go17/go17-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go17/go17-01.webp",
+        "/final-products/go17/go17-02.webp",
+        "/final-products/go17/go17-03.webp",
+        "/final-products/go17/go17-04.webp",
+        "/final-products/go17/go17-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -457,7 +796,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083166",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 68,
@@ -471,9 +810,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go18/go18-01.webp\", \"/final-products/go18/go18-02.webp\", \"/final-products/go18/go18-03.webp\", \"/final-products/go18/go18-04.webp\", \"/final-products/go18/go18-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go18/go18-01.webp",
+        "/final-products/go18/go18-02.webp",
+        "/final-products/go18/go18-03.webp",
+        "/final-products/go18/go18-04.webp",
+        "/final-products/go18/go18-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -484,7 +841,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083174",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 69,
@@ -498,9 +855,33 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go19/go19-01.webp\", \"/final-products/go19/go19-02.webp\", \"/final-products/go19/go19-03.webp\", \"/final-products/go19/go19-04.webp\", \"/final-products/go19/go19-05.webp\", \"/final-products/go19/go19-06.webp\", \"/final-products/go19/go19-07.webp\", \"/final-products/go19/go19-08.webp\", \"/final-products/go19/go19-09.webp\", \"/final-products/go19/go19-10.webp\", \"/final-products/go19/go19-11.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go19/go19-01.webp",
+        "/final-products/go19/go19-02.webp",
+        "/final-products/go19/go19-03.webp",
+        "/final-products/go19/go19-04.webp",
+        "/final-products/go19/go19-05.webp",
+        "/final-products/go19/go19-06.webp",
+        "/final-products/go19/go19-07.webp",
+        "/final-products/go19/go19-08.webp",
+        "/final-products/go19/go19-09.webp",
+        "/final-products/go19/go19-10.webp",
+        "/final-products/go19/go19-11.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -511,7 +892,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083184",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 70,
@@ -525,9 +906,28 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go20/go20-01.webp\", \"/final-products/go20/go20-02.webp\", \"/final-products/go20/go20-03.webp\", \"/final-products/go20/go20-04.webp\", \"/final-products/go20/go20-05.webp\", \"/final-products/go20/go20-06.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go20/go20-01.webp",
+        "/final-products/go20/go20-02.webp",
+        "/final-products/go20/go20-03.webp",
+        "/final-products/go20/go20-04.webp",
+        "/final-products/go20/go20-05.webp",
+        "/final-products/go20/go20-06.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -538,7 +938,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083192",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 71,
@@ -552,9 +952,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go21/go21-01.webp\", \"/final-products/go21/go21-02.webp\", \"/final-products/go21/go21-03.webp\", \"/final-products/go21/go21-04.webp\", \"/final-products/go21/go21-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go21/go21-01.webp",
+        "/final-products/go21/go21-02.webp",
+        "/final-products/go21/go21-03.webp",
+        "/final-products/go21/go21-04.webp",
+        "/final-products/go21/go21-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -565,7 +983,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083200",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 72,
@@ -579,9 +997,33 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go22/go22-01.webp\", \"/final-products/go22/go22-02.webp\", \"/final-products/go22/go22-03.webp\", \"/final-products/go22/go22-04.webp\", \"/final-products/go22/go22-05.webp\", \"/final-products/go22/go22-06.webp\", \"/final-products/go22/go22-07.webp\", \"/final-products/go22/go22-08.webp\", \"/final-products/go22/go22-09.webp\", \"/final-products/go22/go22-10.webp\", \"/final-products/go22/go22-11.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go22/go22-01.webp",
+        "/final-products/go22/go22-02.webp",
+        "/final-products/go22/go22-03.webp",
+        "/final-products/go22/go22-04.webp",
+        "/final-products/go22/go22-05.webp",
+        "/final-products/go22/go22-06.webp",
+        "/final-products/go22/go22-07.webp",
+        "/final-products/go22/go22-08.webp",
+        "/final-products/go22/go22-09.webp",
+        "/final-products/go22/go22-10.webp",
+        "/final-products/go22/go22-11.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -592,7 +1034,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083208",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 73,
@@ -606,9 +1048,28 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go23/go23-01.webp\", \"/final-products/go23/go23-02.webp\", \"/final-products/go23/go23-03.webp\", \"/final-products/go23/go23-04.webp\", \"/final-products/go23/go23-05.webp\", \"/final-products/go23/go23-06.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go23/go23-01.webp",
+        "/final-products/go23/go23-02.webp",
+        "/final-products/go23/go23-03.webp",
+        "/final-products/go23/go23-04.webp",
+        "/final-products/go23/go23-05.webp",
+        "/final-products/go23/go23-06.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -619,7 +1080,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083217",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 74,
@@ -633,9 +1094,28 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go24/go24-01.webp\", \"/final-products/go24/go24-02.webp\", \"/final-products/go24/go24-03.webp\", \"/final-products/go24/go24-04.webp\", \"/final-products/go24/go24-05.webp\", \"/final-products/go24/go24-06.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go24/go24-01.webp",
+        "/final-products/go24/go24-02.webp",
+        "/final-products/go24/go24-03.webp",
+        "/final-products/go24/go24-04.webp",
+        "/final-products/go24/go24-05.webp",
+        "/final-products/go24/go24-06.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -646,7 +1126,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083225",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 75,
@@ -660,9 +1140,32 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go25/go25-01.webp\", \"/final-products/go25/go25-02.webp\", \"/final-products/go25/go25-03.webp\", \"/final-products/go25/go25-04.webp\", \"/final-products/go25/go25-05.webp\", \"/final-products/go25/go25-06.webp\", \"/final-products/go25/go25-07.webp\", \"/final-products/go25/go25-08.webp\", \"/final-products/go25/go25-09.webp\", \"/final-products/go25/go25-10.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go25/go25-01.webp",
+        "/final-products/go25/go25-02.webp",
+        "/final-products/go25/go25-03.webp",
+        "/final-products/go25/go25-04.webp",
+        "/final-products/go25/go25-05.webp",
+        "/final-products/go25/go25-06.webp",
+        "/final-products/go25/go25-07.webp",
+        "/final-products/go25/go25-08.webp",
+        "/final-products/go25/go25-09.webp",
+        "/final-products/go25/go25-10.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -673,7 +1176,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083233",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 76,
@@ -687,9 +1190,28 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go26/go26-01.webp\", \"/final-products/go26/go26-02.webp\", \"/final-products/go26/go26-03.webp\", \"/final-products/go26/go26-04.webp\", \"/final-products/go26/go26-05.webp\", \"/final-products/go26/go26-06.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go26/go26-01.webp",
+        "/final-products/go26/go26-02.webp",
+        "/final-products/go26/go26-03.webp",
+        "/final-products/go26/go26-04.webp",
+        "/final-products/go26/go26-05.webp",
+        "/final-products/go26/go26-06.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -700,7 +1222,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083241",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 77,
@@ -714,9 +1236,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go27/go27-01.webp\", \"/final-products/go27/go27-02.webp\", \"/final-products/go27/go27-03.webp\", \"/final-products/go27/go27-04.webp\", \"/final-products/go27/go27-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go27/go27-01.webp",
+        "/final-products/go27/go27-02.webp",
+        "/final-products/go27/go27-03.webp",
+        "/final-products/go27/go27-04.webp",
+        "/final-products/go27/go27-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -727,7 +1267,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083250",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 78,
@@ -741,9 +1281,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go28/go28-01.webp\", \"/final-products/go28/go28-02.webp\", \"/final-products/go28/go28-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go28/go28-01.webp",
+        "/final-products/go28/go28-02.webp",
+        "/final-products/go28/go28-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -754,7 +1310,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083258",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 79,
@@ -768,9 +1324,28 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go29/go29-01.webp\", \"/final-products/go29/go29-02.webp\", \"/final-products/go29/go29-03.webp\", \"/final-products/go29/go29-04.webp\", \"/final-products/go29/go29-05.webp\", \"/final-products/go29/go29-06.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go29/go29-01.webp",
+        "/final-products/go29/go29-02.webp",
+        "/final-products/go29/go29-03.webp",
+        "/final-products/go29/go29-04.webp",
+        "/final-products/go29/go29-05.webp",
+        "/final-products/go29/go29-06.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -781,7 +1356,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083266",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 80,
@@ -795,9 +1370,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go30/go30-01.webp\", \"/final-products/go30/go30-02.webp\", \"/final-products/go30/go30-03.webp\", \"/final-products/go30/go30-04.webp\", \"/final-products/go30/go30-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go30/go30-01.webp",
+        "/final-products/go30/go30-02.webp",
+        "/final-products/go30/go30-03.webp",
+        "/final-products/go30/go30-04.webp",
+        "/final-products/go30/go30-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -808,7 +1401,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083274",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 81,
@@ -822,9 +1415,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go31/go31-01.webp\", \"/final-products/go31/go31-02.webp\", \"/final-products/go31/go31-03.webp\", \"/final-products/go31/go31-04.webp\", \"/final-products/go31/go31-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go31/go31-01.webp",
+        "/final-products/go31/go31-02.webp",
+        "/final-products/go31/go31-03.webp",
+        "/final-products/go31/go31-04.webp",
+        "/final-products/go31/go31-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -835,7 +1446,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083283",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 82,
@@ -849,9 +1460,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go32/go32-01.webp\", \"/final-products/go32/go32-02.webp\", \"/final-products/go32/go32-03.webp\", \"/final-products/go32/go32-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go32/go32-01.webp",
+        "/final-products/go32/go32-02.webp",
+        "/final-products/go32/go32-03.webp",
+        "/final-products/go32/go32-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -862,7 +1490,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083291",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 83,
@@ -876,9 +1504,30 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go33/go33-01.webp\", \"/final-products/go33/go33-02.webp\", \"/final-products/go33/go33-03.webp\", \"/final-products/go33/go33-04.webp\", \"/final-products/go33/go33-05.webp\", \"/final-products/go33/go33-06.webp\", \"/final-products/go33/go33-07.webp\", \"/final-products/go33/go33-08.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go33/go33-01.webp",
+        "/final-products/go33/go33-02.webp",
+        "/final-products/go33/go33-03.webp",
+        "/final-products/go33/go33-04.webp",
+        "/final-products/go33/go33-05.webp",
+        "/final-products/go33/go33-06.webp",
+        "/final-products/go33/go33-07.webp",
+        "/final-products/go33/go33-08.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -889,7 +1538,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083301",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 84,
@@ -903,9 +1552,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go34/go34-01.webp\", \"/final-products/go34/go34-02.webp\", \"/final-products/go34/go34-03.webp\", \"/final-products/go34/go34-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go34/go34-01.webp",
+        "/final-products/go34/go34-02.webp",
+        "/final-products/go34/go34-03.webp",
+        "/final-products/go34/go34-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -916,7 +1582,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083310",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 85,
@@ -930,9 +1596,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go35/go35-01.webp\", \"/final-products/go35/go35-02.webp\", \"/final-products/go35/go35-03.webp\", \"/final-products/go35/go35-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go35/go35-01.webp",
+        "/final-products/go35/go35-02.webp",
+        "/final-products/go35/go35-03.webp",
+        "/final-products/go35/go35-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -943,7 +1626,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083318",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 86,
@@ -957,9 +1640,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go36/go36-01.webp\", \"/final-products/go36/go36-02.webp\", \"/final-products/go36/go36-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go36/go36-01.webp",
+        "/final-products/go36/go36-02.webp",
+        "/final-products/go36/go36-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -970,7 +1669,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083325",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 87,
@@ -984,9 +1683,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go37/go37-01.webp\", \"/final-products/go37/go37-02.webp\", \"/final-products/go37/go37-03.webp\", \"/final-products/go37/go37-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go37/go37-01.webp",
+        "/final-products/go37/go37-02.webp",
+        "/final-products/go37/go37-03.webp",
+        "/final-products/go37/go37-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -997,7 +1713,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083336",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 88,
@@ -1011,9 +1727,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go38/go38-01.webp\", \"/final-products/go38/go38-02.webp\", \"/final-products/go38/go38-03.webp\", \"/final-products/go38/go38-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go38/go38-01.webp",
+        "/final-products/go38/go38-02.webp",
+        "/final-products/go38/go38-03.webp",
+        "/final-products/go38/go38-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1024,7 +1757,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083344",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 89,
@@ -1038,9 +1771,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go39/go39-01.webp\", \"/final-products/go39/go39-02.webp\", \"/final-products/go39/go39-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go39/go39-01.webp",
+        "/final-products/go39/go39-02.webp",
+        "/final-products/go39/go39-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1051,7 +1800,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083352",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 90,
@@ -1065,9 +1814,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go40/go40-01.webp\", \"/final-products/go40/go40-02.webp\", \"/final-products/go40/go40-03.webp\", \"/final-products/go40/go40-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go40/go40-01.webp",
+        "/final-products/go40/go40-02.webp",
+        "/final-products/go40/go40-03.webp",
+        "/final-products/go40/go40-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1078,7 +1844,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083361",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 91,
@@ -1092,9 +1858,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go41/go41-01.webp\", \"/final-products/go41/go41-02.webp\", \"/final-products/go41/go41-03.webp\", \"/final-products/go41/go41-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go41/go41-01.webp",
+        "/final-products/go41/go41-02.webp",
+        "/final-products/go41/go41-03.webp",
+        "/final-products/go41/go41-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1105,7 +1888,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083369",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 92,
@@ -1119,9 +1902,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go42/go42-01.webp\", \"/final-products/go42/go42-02.webp\", \"/final-products/go42/go42-03.webp\", \"/final-products/go42/go42-04.webp\", \"/final-products/go42/go42-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go42/go42-01.webp",
+        "/final-products/go42/go42-02.webp",
+        "/final-products/go42/go42-03.webp",
+        "/final-products/go42/go42-04.webp",
+        "/final-products/go42/go42-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1132,7 +1933,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083378",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 93,
@@ -1146,9 +1947,28 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_42/go_42-01.webp\", \"/final-products/go_42/go_42-02.webp\", \"/final-products/go_42/go_42-03.webp\", \"/final-products/go_42/go_42-04.webp\", \"/final-products/go_42/go_42-05.webp\", \"/final-products/go_42/go_42-06.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_42/go_42-01.webp",
+        "/final-products/go_42/go_42-02.webp",
+        "/final-products/go_42/go_42-03.webp",
+        "/final-products/go_42/go_42-04.webp",
+        "/final-products/go_42/go_42-05.webp",
+        "/final-products/go_42/go_42-06.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1159,7 +1979,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083386",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 94,
@@ -1173,9 +1993,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go43/go43-01.webp\", \"/final-products/go43/go43-02.webp\", \"/final-products/go43/go43-03.webp\", \"/final-products/go43/go43-04.webp\", \"/final-products/go43/go43-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go43/go43-01.webp",
+        "/final-products/go43/go43-02.webp",
+        "/final-products/go43/go43-03.webp",
+        "/final-products/go43/go43-04.webp",
+        "/final-products/go43/go43-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1186,7 +2024,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083395",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 95,
@@ -1200,9 +2038,30 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go44/go44-01.webp\", \"/final-products/go44/go44-02.webp\", \"/final-products/go44/go44-03.webp\", \"/final-products/go44/go44-04.webp\", \"/final-products/go44/go44-05.webp\", \"/final-products/go44/go44-06.webp\", \"/final-products/go44/go44-07.webp\", \"/final-products/go44/go44-08.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go44/go44-01.webp",
+        "/final-products/go44/go44-02.webp",
+        "/final-products/go44/go44-03.webp",
+        "/final-products/go44/go44-04.webp",
+        "/final-products/go44/go44-05.webp",
+        "/final-products/go44/go44-06.webp",
+        "/final-products/go44/go44-07.webp",
+        "/final-products/go44/go44-08.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1213,7 +2072,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083403",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 96,
@@ -1227,9 +2086,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_44/go_44-01.webp\", \"/final-products/go_44/go_44-02.webp\", \"/final-products/go_44/go_44-03.webp\", \"/final-products/go_44/go_44-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_44/go_44-01.webp",
+        "/final-products/go_44/go_44-02.webp",
+        "/final-products/go_44/go_44-03.webp",
+        "/final-products/go_44/go_44-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1240,7 +2116,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083412",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 97,
@@ -1254,9 +2130,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go45/go45-01.webp\", \"/final-products/go45/go45-02.webp\", \"/final-products/go45/go45-03.webp\", \"/final-products/go45/go45-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go45/go45-01.webp",
+        "/final-products/go45/go45-02.webp",
+        "/final-products/go45/go45-03.webp",
+        "/final-products/go45/go45-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1267,7 +2160,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083420",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 98,
@@ -1281,9 +2174,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_45/go_45-01.webp\", \"/final-products/go_45/go_45-02.webp\", \"/final-products/go_45/go_45-03.webp\", \"/final-products/go_45/go_45-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_45/go_45-01.webp",
+        "/final-products/go_45/go_45-02.webp",
+        "/final-products/go_45/go_45-03.webp",
+        "/final-products/go_45/go_45-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1294,7 +2204,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083429",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 99,
@@ -1308,9 +2218,29 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go46/go46-01.webp\", \"/final-products/go46/go46-02.webp\", \"/final-products/go46/go46-03.webp\", \"/final-products/go46/go46-04.webp\", \"/final-products/go46/go46-05.webp\", \"/final-products/go46/go46-06.webp\", \"/final-products/go46/go46-07.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go46/go46-01.webp",
+        "/final-products/go46/go46-02.webp",
+        "/final-products/go46/go46-03.webp",
+        "/final-products/go46/go46-04.webp",
+        "/final-products/go46/go46-05.webp",
+        "/final-products/go46/go46-06.webp",
+        "/final-products/go46/go46-07.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1321,7 +2251,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083437",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 100,
@@ -1335,9 +2265,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_46/go_46-01.webp\", \"/final-products/go_46/go_46-02.webp\", \"/final-products/go_46/go_46-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_46/go_46-01.webp",
+        "/final-products/go_46/go_46-02.webp",
+        "/final-products/go_46/go_46-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1348,7 +2294,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083445",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 101,
@@ -1362,9 +2308,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go47/go47-01.webp\", \"/final-products/go47/go47-02.webp\", \"/final-products/go47/go47-03.webp\", \"/final-products/go47/go47-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go47/go47-01.webp",
+        "/final-products/go47/go47-02.webp",
+        "/final-products/go47/go47-03.webp",
+        "/final-products/go47/go47-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1375,7 +2338,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083454",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 102,
@@ -1389,9 +2352,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_47/go_47-01.webp\", \"/final-products/go_47/go_47-02.webp\", \"/final-products/go_47/go_47-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_47/go_47-01.webp",
+        "/final-products/go_47/go_47-02.webp",
+        "/final-products/go_47/go_47-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1402,7 +2381,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083463",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 103,
@@ -1416,9 +2395,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_48/go_48-01.webp\", \"/final-products/go_48/go_48-02.webp\", \"/final-products/go_48/go_48-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_48/go_48-01.webp",
+        "/final-products/go_48/go_48-02.webp",
+        "/final-products/go_48/go_48-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1429,7 +2424,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083471",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 104,
@@ -1443,9 +2438,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_49/go_49-01.webp\", \"/final-products/go_49/go_49-02.webp\", \"/final-products/go_49/go_49-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_49/go_49-01.webp",
+        "/final-products/go_49/go_49-02.webp",
+        "/final-products/go_49/go_49-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1456,7 +2467,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083480",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 105,
@@ -1470,9 +2481,31 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_50/go_50-01.webp\", \"/final-products/go_50/go_50-02.webp\", \"/final-products/go_50/go_50-03.webp\", \"/final-products/go_50/go_50-04.webp\", \"/final-products/go_50/go_50-05.webp\", \"/final-products/go_50/go_50-06.webp\", \"/final-products/go_50/go_50-07.webp\", \"/final-products/go_50/go_50-08.webp\", \"/final-products/go_50/go_50-09.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_50/go_50-01.webp",
+        "/final-products/go_50/go_50-02.webp",
+        "/final-products/go_50/go_50-03.webp",
+        "/final-products/go_50/go_50-04.webp",
+        "/final-products/go_50/go_50-05.webp",
+        "/final-products/go_50/go_50-06.webp",
+        "/final-products/go_50/go_50-07.webp",
+        "/final-products/go_50/go_50-08.webp",
+        "/final-products/go_50/go_50-09.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1483,7 +2516,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083490",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 106,
@@ -1497,9 +2530,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_51/go_51-01.webp\", \"/final-products/go_51/go_51-02.webp\", \"/final-products/go_51/go_51-03.webp\", \"/final-products/go_51/go_51-04.webp\", \"/final-products/go_51/go_51-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_51/go_51-01.webp",
+        "/final-products/go_51/go_51-02.webp",
+        "/final-products/go_51/go_51-03.webp",
+        "/final-products/go_51/go_51-04.webp",
+        "/final-products/go_51/go_51-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1510,7 +2561,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083498",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 107,
@@ -1524,9 +2575,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_52/go_52-01.webp\", \"/final-products/go_52/go_52-02.webp\", \"/final-products/go_52/go_52-03.webp\", \"/final-products/go_52/go_52-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_52/go_52-01.webp",
+        "/final-products/go_52/go_52-02.webp",
+        "/final-products/go_52/go_52-03.webp",
+        "/final-products/go_52/go_52-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1537,7 +2605,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083509",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 108,
@@ -1551,9 +2619,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_53/go_53-01.webp\", \"/final-products/go_53/go_53-02.webp\", \"/final-products/go_53/go_53-03.webp\", \"/final-products/go_53/go_53-04.webp\", \"/final-products/go_53/go_53-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_53/go_53-01.webp",
+        "/final-products/go_53/go_53-02.webp",
+        "/final-products/go_53/go_53-03.webp",
+        "/final-products/go_53/go_53-04.webp",
+        "/final-products/go_53/go_53-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1564,7 +2650,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083518",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 109,
@@ -1578,9 +2664,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_54/go_54-01.webp\", \"/final-products/go_54/go_54-02.webp\", \"/final-products/go_54/go_54-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_54/go_54-01.webp",
+        "/final-products/go_54/go_54-02.webp",
+        "/final-products/go_54/go_54-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1591,7 +2693,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083527",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 110,
@@ -1605,9 +2707,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_55/go_55-01.webp\", \"/final-products/go_55/go_55-02.webp\", \"/final-products/go_55/go_55-03.webp\", \"/final-products/go_55/go_55-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_55/go_55-01.webp",
+        "/final-products/go_55/go_55-02.webp",
+        "/final-products/go_55/go_55-03.webp",
+        "/final-products/go_55/go_55-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1618,7 +2737,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083536",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 111,
@@ -1632,9 +2751,28 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_56/go_56-01.webp\", \"/final-products/go_56/go_56-02.webp\", \"/final-products/go_56/go_56-03.webp\", \"/final-products/go_56/go_56-04.webp\", \"/final-products/go_56/go_56-05.webp\", \"/final-products/go_56/go_56-06.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_56/go_56-01.webp",
+        "/final-products/go_56/go_56-02.webp",
+        "/final-products/go_56/go_56-03.webp",
+        "/final-products/go_56/go_56-04.webp",
+        "/final-products/go_56/go_56-05.webp",
+        "/final-products/go_56/go_56-06.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1645,7 +2783,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083545",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 112,
@@ -1659,9 +2797,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_57/go_57-01.webp\", \"/final-products/go_57/go_57-02.webp\", \"/final-products/go_57/go_57-03.webp\", \"/final-products/go_57/go_57-04.webp\", \"/final-products/go_57/go_57-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_57/go_57-01.webp",
+        "/final-products/go_57/go_57-02.webp",
+        "/final-products/go_57/go_57-03.webp",
+        "/final-products/go_57/go_57-04.webp",
+        "/final-products/go_57/go_57-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1672,7 +2828,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083554",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 113,
@@ -1686,9 +2842,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_58/go_58-01.webp\", \"/final-products/go_58/go_58-02.webp\", \"/final-products/go_58/go_58-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_58/go_58-01.webp",
+        "/final-products/go_58/go_58-02.webp",
+        "/final-products/go_58/go_58-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1699,7 +2871,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083563",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 114,
@@ -1713,9 +2885,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_59/go_59-01.webp\", \"/final-products/go_59/go_59-02.webp\", \"/final-products/go_59/go_59-03.webp\", \"/final-products/go_59/go_59-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_59/go_59-01.webp",
+        "/final-products/go_59/go_59-02.webp",
+        "/final-products/go_59/go_59-03.webp",
+        "/final-products/go_59/go_59-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1726,7 +2915,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083572",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 115,
@@ -1740,9 +2929,29 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_60/go_60-01.webp\", \"/final-products/go_60/go_60-02.webp\", \"/final-products/go_60/go_60-03.webp\", \"/final-products/go_60/go_60-04.webp\", \"/final-products/go_60/go_60-05.webp\", \"/final-products/go_60/go_60-06.webp\", \"/final-products/go_60/go_60-07.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_60/go_60-01.webp",
+        "/final-products/go_60/go_60-02.webp",
+        "/final-products/go_60/go_60-03.webp",
+        "/final-products/go_60/go_60-04.webp",
+        "/final-products/go_60/go_60-05.webp",
+        "/final-products/go_60/go_60-06.webp",
+        "/final-products/go_60/go_60-07.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1753,7 +2962,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083581",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 116,
@@ -1767,9 +2976,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_61/go_61-01.webp\", \"/final-products/go_61/go_61-02.webp\", \"/final-products/go_61/go_61-03.webp\", \"/final-products/go_61/go_61-04.webp\", \"/final-products/go_61/go_61-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_61/go_61-01.webp",
+        "/final-products/go_61/go_61-02.webp",
+        "/final-products/go_61/go_61-03.webp",
+        "/final-products/go_61/go_61-04.webp",
+        "/final-products/go_61/go_61-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1780,7 +3007,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083591",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 117,
@@ -1794,9 +3021,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_62/go_62-01.webp\", \"/final-products/go_62/go_62-02.webp\", \"/final-products/go_62/go_62-03.webp\", \"/final-products/go_62/go_62-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_62/go_62-01.webp",
+        "/final-products/go_62/go_62-02.webp",
+        "/final-products/go_62/go_62-03.webp",
+        "/final-products/go_62/go_62-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1807,7 +3051,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083601",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 118,
@@ -1821,9 +3065,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_63/go_63-01.webp\", \"/final-products/go_63/go_63-02.webp\", \"/final-products/go_63/go_63-03.webp\", \"/final-products/go_63/go_63-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_63/go_63-01.webp",
+        "/final-products/go_63/go_63-02.webp",
+        "/final-products/go_63/go_63-03.webp",
+        "/final-products/go_63/go_63-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1834,7 +3095,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083610",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 119,
@@ -1848,9 +3109,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_64/go_64-01.webp\", \"/final-products/go_64/go_64-02.webp\", \"/final-products/go_64/go_64-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_64/go_64-01.webp",
+        "/final-products/go_64/go_64-02.webp",
+        "/final-products/go_64/go_64-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1861,7 +3138,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083620",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 120,
@@ -1875,9 +3152,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_66/go_66-01.webp\", \"/final-products/go_66/go_66-02.webp\", \"/final-products/go_66/go_66-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_66/go_66-01.webp",
+        "/final-products/go_66/go_66-02.webp",
+        "/final-products/go_66/go_66-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1888,7 +3181,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083629",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 121,
@@ -1902,9 +3195,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_67/go_67-01.webp\", \"/final-products/go_67/go_67-02.webp\", \"/final-products/go_67/go_67-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_67/go_67-01.webp",
+        "/final-products/go_67/go_67-02.webp",
+        "/final-products/go_67/go_67-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1915,7 +3224,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083638",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 122,
@@ -1929,9 +3238,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_68/go_68-01.webp\", \"/final-products/go_68/go_68-02.webp\", \"/final-products/go_68/go_68-03.webp\", \"/final-products/go_68/go_68-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_68/go_68-01.webp",
+        "/final-products/go_68/go_68-02.webp",
+        "/final-products/go_68/go_68-03.webp",
+        "/final-products/go_68/go_68-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1942,7 +3268,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083648",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 123,
@@ -1956,9 +3282,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_69/go_69-01.webp\", \"/final-products/go_69/go_69-02.webp\", \"/final-products/go_69/go_69-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_69/go_69-01.webp",
+        "/final-products/go_69/go_69-02.webp",
+        "/final-products/go_69/go_69-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1969,7 +3311,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083658",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 124,
@@ -1983,9 +3325,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_70/go_70-01.webp\", \"/final-products/go_70/go_70-02.webp\", \"/final-products/go_70/go_70-03.webp\", \"/final-products/go_70/go_70-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_70/go_70-01.webp",
+        "/final-products/go_70/go_70-02.webp",
+        "/final-products/go_70/go_70-03.webp",
+        "/final-products/go_70/go_70-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -1996,7 +3355,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083667",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 125,
@@ -2010,9 +3369,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_71/go_71-01.webp\", \"/final-products/go_71/go_71-02.webp\", \"/final-products/go_71/go_71-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_71/go_71-01.webp",
+        "/final-products/go_71/go_71-02.webp",
+        "/final-products/go_71/go_71-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2023,7 +3398,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083677",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 126,
@@ -2037,9 +3412,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_72/go_72-01.webp\", \"/final-products/go_72/go_72-02.webp\", \"/final-products/go_72/go_72-03.webp\", \"/final-products/go_72/go_72-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_72/go_72-01.webp",
+        "/final-products/go_72/go_72-02.webp",
+        "/final-products/go_72/go_72-03.webp",
+        "/final-products/go_72/go_72-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2050,7 +3442,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083687",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 127,
@@ -2064,9 +3456,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_73/go_73-01.webp\", \"/final-products/go_73/go_73-02.webp\", \"/final-products/go_73/go_73-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_73/go_73-01.webp",
+        "/final-products/go_73/go_73-02.webp",
+        "/final-products/go_73/go_73-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2077,7 +3485,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083699",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 128,
@@ -2091,9 +3499,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_74/go_74-01.webp\", \"/final-products/go_74/go_74-02.webp\", \"/final-products/go_74/go_74-03.webp\", \"/final-products/go_74/go_74-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_74/go_74-01.webp",
+        "/final-products/go_74/go_74-02.webp",
+        "/final-products/go_74/go_74-03.webp",
+        "/final-products/go_74/go_74-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2104,7 +3529,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083711",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 129,
@@ -2118,9 +3543,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_75/go_75-01.webp\", \"/final-products/go_75/go_75-02.webp\", \"/final-products/go_75/go_75-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_75/go_75-01.webp",
+        "/final-products/go_75/go_75-02.webp",
+        "/final-products/go_75/go_75-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2131,7 +3572,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083723",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 130,
@@ -2145,9 +3586,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_76/go_76-01.webp\", \"/final-products/go_76/go_76-02.webp\", \"/final-products/go_76/go_76-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_76/go_76-01.webp",
+        "/final-products/go_76/go_76-02.webp",
+        "/final-products/go_76/go_76-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2158,7 +3615,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083733",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 131,
@@ -2172,9 +3629,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_77/go_77-01.webp\", \"/final-products/go_77/go_77-02.webp\", \"/final-products/go_77/go_77-03.webp\", \"/final-products/go_77/go_77-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_77/go_77-01.webp",
+        "/final-products/go_77/go_77-02.webp",
+        "/final-products/go_77/go_77-03.webp",
+        "/final-products/go_77/go_77-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2185,7 +3659,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083742",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 132,
@@ -2199,9 +3673,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_78/go_78-01.webp\", \"/final-products/go_78/go_78-02.webp\", \"/final-products/go_78/go_78-03.webp\", \"/final-products/go_78/go_78-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_78/go_78-01.webp",
+        "/final-products/go_78/go_78-02.webp",
+        "/final-products/go_78/go_78-03.webp",
+        "/final-products/go_78/go_78-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2212,7 +3703,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083753",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 133,
@@ -2226,9 +3717,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_79/go_79-01.webp\", \"/final-products/go_79/go_79-02.webp\", \"/final-products/go_79/go_79-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_79/go_79-01.webp",
+        "/final-products/go_79/go_79-02.webp",
+        "/final-products/go_79/go_79-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2239,7 +3746,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083763",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 134,
@@ -2253,9 +3760,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_80/go_80-01.webp\", \"/final-products/go_80/go_80-02.webp\", \"/final-products/go_80/go_80-03.webp\", \"/final-products/go_80/go_80-04.webp\", \"/final-products/go_80/go_80-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_80/go_80-01.webp",
+        "/final-products/go_80/go_80-02.webp",
+        "/final-products/go_80/go_80-03.webp",
+        "/final-products/go_80/go_80-04.webp",
+        "/final-products/go_80/go_80-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2266,7 +3791,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083773",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 135,
@@ -2280,9 +3805,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_81/go_81-01.webp\", \"/final-products/go_81/go_81-02.webp\", \"/final-products/go_81/go_81-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_81/go_81-01.webp",
+        "/final-products/go_81/go_81-02.webp",
+        "/final-products/go_81/go_81-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2293,7 +3834,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083784",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 136,
@@ -2307,9 +3848,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_82/go_82-01.webp\", \"/final-products/go_82/go_82-02.webp\", \"/final-products/go_82/go_82-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_82/go_82-01.webp",
+        "/final-products/go_82/go_82-02.webp",
+        "/final-products/go_82/go_82-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2320,7 +3877,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083794",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 137,
@@ -2334,9 +3891,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_84/go_84-01.webp\", \"/final-products/go_84/go_84-02.webp\", \"/final-products/go_84/go_84-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_84/go_84-01.webp",
+        "/final-products/go_84/go_84-02.webp",
+        "/final-products/go_84/go_84-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2347,7 +3920,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083805",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 138,
@@ -2361,9 +3934,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_85/go_85-01.webp\", \"/final-products/go_85/go_85-02.webp\", \"/final-products/go_85/go_85-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_85/go_85-01.webp",
+        "/final-products/go_85/go_85-02.webp",
+        "/final-products/go_85/go_85-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2374,7 +3963,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083815",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 139,
@@ -2388,9 +3977,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_86/go_86-01.webp\", \"/final-products/go_86/go_86-02.webp\", \"/final-products/go_86/go_86-03.webp\", \"/final-products/go_86/go_86-04.webp\", \"/final-products/go_86/go_86-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_86/go_86-01.webp",
+        "/final-products/go_86/go_86-02.webp",
+        "/final-products/go_86/go_86-03.webp",
+        "/final-products/go_86/go_86-04.webp",
+        "/final-products/go_86/go_86-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2401,7 +4008,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083826",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 140,
@@ -2415,9 +4022,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_87/go_87-01.webp\", \"/final-products/go_87/go_87-02.webp\", \"/final-products/go_87/go_87-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_87/go_87-01.webp",
+        "/final-products/go_87/go_87-02.webp",
+        "/final-products/go_87/go_87-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2428,7 +4051,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083836",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 141,
@@ -2442,9 +4065,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_88/go_88-01.webp\", \"/final-products/go_88/go_88-02.webp\", \"/final-products/go_88/go_88-03.webp\", \"/final-products/go_88/go_88-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_88/go_88-01.webp",
+        "/final-products/go_88/go_88-02.webp",
+        "/final-products/go_88/go_88-03.webp",
+        "/final-products/go_88/go_88-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2455,7 +4095,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083847",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 142,
@@ -2469,9 +4109,26 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_89/go_89-01.webp\", \"/final-products/go_89/go_89-02.webp\", \"/final-products/go_89/go_89-03.webp\", \"/final-products/go_89/go_89-04.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_89/go_89-01.webp",
+        "/final-products/go_89/go_89-02.webp",
+        "/final-products/go_89/go_89-03.webp",
+        "/final-products/go_89/go_89-04.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2482,7 +4139,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083859",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 143,
@@ -2496,9 +4153,28 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_90/go_90-01.webp\", \"/final-products/go_90/go_90-02.webp\", \"/final-products/go_90/go_90-03.webp\", \"/final-products/go_90/go_90-04.webp\", \"/final-products/go_90/go_90-05.webp\", \"/final-products/go_90/go_90-06.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_90/go_90-01.webp",
+        "/final-products/go_90/go_90-02.webp",
+        "/final-products/go_90/go_90-03.webp",
+        "/final-products/go_90/go_90-04.webp",
+        "/final-products/go_90/go_90-05.webp",
+        "/final-products/go_90/go_90-06.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2509,7 +4185,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083870",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 144,
@@ -2523,9 +4199,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_91/go_91-01.webp\", \"/final-products/go_91/go_91-02.webp\", \"/final-products/go_91/go_91-03.webp\", \"/final-products/go_91/go_91-04.webp\", \"/final-products/go_91/go_91-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_91/go_91-01.webp",
+        "/final-products/go_91/go_91-02.webp",
+        "/final-products/go_91/go_91-03.webp",
+        "/final-products/go_91/go_91-04.webp",
+        "/final-products/go_91/go_91-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2536,7 +4230,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083880",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 145,
@@ -2550,9 +4244,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_92/go_92-01.webp\", \"/final-products/go_92/go_92-02.webp\", \"/final-products/go_92/go_92-03.webp\", \"/final-products/go_92/go_92-04.webp\", \"/final-products/go_92/go_92-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_92/go_92-01.webp",
+        "/final-products/go_92/go_92-02.webp",
+        "/final-products/go_92/go_92-03.webp",
+        "/final-products/go_92/go_92-04.webp",
+        "/final-products/go_92/go_92-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2563,7 +4275,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083891",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 146,
@@ -2577,9 +4289,24 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_93/go_93-01.webp\", \"/final-products/go_93/go_93-02.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_93/go_93-01.webp",
+        "/final-products/go_93/go_93-02.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2590,7 +4317,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083902",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 147,
@@ -2604,9 +4331,25 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_63_1/go_63_1-01.webp\", \"/final-products/go_63_1/go_63_1-02.webp\", \"/final-products/go_63_1/go_63_1-03.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_63_1/go_63_1-01.webp",
+        "/final-products/go_63_1/go_63_1-02.webp",
+        "/final-products/go_63_1/go_63_1-03.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2617,7 +4360,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083913",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 148,
@@ -2631,9 +4374,27 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/go_85_1/go_85_1-01.webp\", \"/final-products/go_85_1/go_85_1-02.webp\", \"/final-products/go_85_1/go_85_1-03.webp\", \"/final-products/go_85_1/go_85_1-04.webp\", \"/final-products/go_85_1/go_85_1-05.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/go_85_1/go_85_1-01.webp",
+        "/final-products/go_85_1/go_85_1-02.webp",
+        "/final-products/go_85_1/go_85_1-03.webp",
+        "/final-products/go_85_1/go_85_1-04.webp",
+        "/final-products/go_85_1/go_85_1-05.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2644,7 +4405,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083924",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 149,
@@ -2658,9 +4419,147 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-01.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-02.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-03.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-04.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-05.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-06.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-07.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-08.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-09.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-10.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-100.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-101.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-102.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-103.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-104.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-105.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-106.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-107.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-108.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-109.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-11.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-110.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-111.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-112.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-113.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-114.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-115.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-116.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-117.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-118.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-119.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-12.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-120.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-121.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-122.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-123.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-124.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-125.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-13.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-14.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-15.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-16.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-17.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-18.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-19.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-20.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-21.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-22.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-23.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-24.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-25.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-26.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-27.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-28.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-29.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-30.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-31.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-32.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-33.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-34.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-35.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-36.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-37.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-38.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-39.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-40.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-41.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-42.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-43.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-44.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-45.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-46.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-47.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-48.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-49.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-50.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-51.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-52.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-53.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-54.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-55.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-56.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-57.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-58.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-59.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-60.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-61.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-62.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-63.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-64.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-65.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-66.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-67.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-68.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-69.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-70.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-71.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-72.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-73.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-74.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-75.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-76.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-77.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-78.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-79.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-80.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-81.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-82.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-83.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-84.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-85.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-86.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-87.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-88.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-89.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-90.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-91.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-92.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-93.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-94.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-95.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-96.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-97.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-98.webp\", \"/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-99.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-01.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-02.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-03.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-04.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-05.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-06.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-07.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-08.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-09.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-10.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-100.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-101.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-102.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-103.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-104.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-105.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-106.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-107.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-108.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-109.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-11.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-110.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-111.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-112.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-113.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-114.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-115.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-116.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-117.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-118.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-119.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-12.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-120.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-121.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-122.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-123.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-124.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-125.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-13.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-14.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-15.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-16.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-17.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-18.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-19.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-20.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-21.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-22.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-23.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-24.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-25.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-26.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-27.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-28.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-29.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-30.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-31.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-32.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-33.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-34.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-35.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-36.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-37.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-38.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-39.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-40.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-41.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-42.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-43.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-44.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-45.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-46.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-47.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-48.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-49.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-50.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-51.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-52.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-53.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-54.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-55.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-56.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-57.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-58.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-59.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-60.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-61.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-62.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-63.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-64.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-65.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-66.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-67.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-68.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-69.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-70.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-71.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-72.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-73.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-74.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-75.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-76.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-77.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-78.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-79.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-80.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-81.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-82.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-83.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-84.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-85.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-86.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-87.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-88.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-89.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-90.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-91.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-92.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-93.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-94.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-95.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-96.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-97.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-98.webp",
+        "/final-products/aug 8, 2026 03_16_45 pm/aug 8, 2026 03_16_45 pm-99.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2671,7 +4570,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083945",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     },
     {
       "id": 150,
@@ -2685,9 +4584,80 @@
       "is_on_sale": false,
       "currency": "INR",
       "collection": "Final Products",
-      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\", \"Custom\"]",
-      "colors": "[\"Void Black\", \"Ivory\", \"Natural\", \"Mixed\"]",
-      "images": "[\"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-01.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-02.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-03.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-04.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-05.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-06.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-07.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-08.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-09.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-10.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-11.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-12.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-13.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-14.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-15.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-16.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-17.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-18.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-19.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-20.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-21.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-22.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-23.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-24.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-25.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-26.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-27.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-28.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-29.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-30.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-31.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-32.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-33.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-34.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-35.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-36.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-37.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-38.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-39.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-40.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-41.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-42.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-43.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-44.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-45.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-46.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-47.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-48.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-49.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-50.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-51.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-52.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-53.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-54.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-55.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-56.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-57.webp\", \"/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-58.webp\"]",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "Custom"
+      ],
+      "colors": [
+        "Void Black",
+        "Ivory",
+        "Natural",
+        "Mixed"
+      ],
+      "images": [
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-01.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-02.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-03.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-04.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-05.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-06.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-07.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-08.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-09.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-10.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-11.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-12.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-13.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-14.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-15.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-16.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-17.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-18.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-19.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-20.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-21.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-22.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-23.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-24.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-25.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-26.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-27.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-28.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-29.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-30.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-31.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-32.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-33.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-34.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-35.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-36.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-37.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-38.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-39.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-40.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-41.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-42.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-43.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-44.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-45.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-46.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-47.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-48.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-49.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-50.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-51.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-52.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-53.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-54.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-55.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-56.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-57.webp",
+        "/final-products/aug 1, 2026 08_03_55 pm (1)/aug 1, 2026 08_03_55 pm (1)-58.webp"
+      ],
       "in_stock": true,
       "featured": false,
       "quantity": 120,
@@ -2698,7 +4668,7 @@
       "sale_start_date": null,
       "sale_end_date": null,
       "updated_at": "2026-08-15 22:40:37.083968",
-      "created_at": "2026-08-16T05:01:04.139999+00:00"
+      "created_at": "2026-08-16T05:05:48.560577+00:00"
     }
   ],
   "total": 100
