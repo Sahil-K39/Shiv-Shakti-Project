@@ -1,7 +1,8 @@
 import os
 import glob
-import subprocess
 import json
+import shutil
+from PIL import Image
 import shutil
 
 BASE_DIR = "/Users/sahil/Documents/Shiv Shakti"
@@ -54,8 +55,9 @@ def add_product(slug, name_suffix, sku_suffix, images):
     product_id_counter += 1
 
 def convert_image(src, dst):
-    # print(f"Converting {src} to {dst}")
-    subprocess.run(["sips", "-s", "format", "webp", src, "--out", dst], check=True, capture_output=True)
+    img = Image.open(src)
+    img = img.convert("RGB")
+    img.save(dst, "WEBP", quality=85)
 
 def copy_image(src, dst):
     # print(f"Copying {src} to {dst}")
