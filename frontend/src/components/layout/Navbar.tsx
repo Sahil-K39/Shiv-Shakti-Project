@@ -25,7 +25,7 @@ const navLinks: Array<{ href: string; key?: TranslationKey; label?: string }> = 
   { href: "/shop/women", key: "nav.women" },
   { href: "/fabric-selling", key: "nav.fabric" },
   { href: "/council", key: "nav.council" },
-  { href: "/ngo", label: "NGO" },
+  { href: "/ngo", label: "Shiv Shakti Project" },
 ];
 
 export default function Navbar() {

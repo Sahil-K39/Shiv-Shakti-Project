@@ -5,7 +5,7 @@ import { ArrowRightIcon } from "@/components/ui/Icons";
 import NgoApplicationForm from "@/components/ngo/NgoApplicationForm";
 
 export const metadata: Metadata = {
-  title: "Shiv Shakti Project | NGO — Women Empowering Women",
+  title: "Shiv Shakti Project | Women Empowering Women",
   description:
     "Our mission is simple yet profound: Women giving work to women. We empower local female artisans through high-fashion craftsmanship and fair employment.",
 };

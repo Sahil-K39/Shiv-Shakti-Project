@@ -61,10 +61,10 @@ export default function AdminNGOPage() {
           Community Intake
         </p>
         <h1 className="text-[32px] font-light uppercase tracking-[0.12em]">
-          NGO Forms
+          Shiv Shakti Project Forms
         </h1>
         <p className="mt-3 max-w-2xl text-[12px] uppercase leading-relaxed tracking-[0.12em] text-black/45">
-          NGO partnership interest details from the public form.
+          Shiv Shakti Project partnership interest details from the public form.
         </p>
       </div>
 
@@ -144,7 +144,7 @@ export default function AdminNGOPage() {
         </table>
         {filteredInterests.length === 0 && (
           <p className="p-8 text-center text-[12px] uppercase tracking-[0.14em] text-black/45">
-            No NGO forms match this search.
+            No Shiv Shakti Project forms match this search.
           </p>
         )}
       </div>

@@ -47,7 +47,7 @@ export default function Footer() {
             <li><Link href="/terms" className="hover:text-black transition-colors">{t("footer.termsOfService")}</Link></li>
             <li><Link href="/privacy" className="hover:text-black transition-colors">{t("footer.privacyPolicy")}</Link></li>
             <li><Link href="/contact" className="hover:text-black transition-colors">{t("footer.contactLink")}</Link></li>
-            <li><Link href="/ngo" className="hover:text-black transition-colors">NGO</Link></li>
+            <li><Link href="/ngo" className="hover:text-black transition-colors">Shiv Shakti Project</Link></li>
           </ul>
         </div>
 
