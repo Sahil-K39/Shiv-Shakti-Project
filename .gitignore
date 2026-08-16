@@ -6,7 +6,7 @@ build/
 bin/
 
 # Databases
-*.db
+# *.db (Removed to allow shiv_shakti.db deployment to Render)
 *.db-shm
 *.db-wal
 sqlite_data/
