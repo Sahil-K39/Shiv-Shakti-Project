@@ -51,6 +51,4 @@ Final Products/
 Photoroom/
 .env
 .vercel
-*.mov
-*.mp4
 venv/
