@@ -15,14 +15,15 @@ export default function NGOPage() {
     <main className="bg-white text-black">
       {/* Hero Section */}
       <section className="relative h-[60vh] md:h-[80vh] w-full overflow-hidden bg-black">
-        <Image
-          src="/ngo/hero.jpg"
-          alt="Indian female artisans working together in a minimalist studio"
-          fill
-          priority
-          className="object-cover opacity-80"
-          sizes="100vw"
-        />
+        <video 
+          autoPlay 
+          muted 
+          loop 
+          playsInline 
+          className="absolute inset-0 w-full h-full object-cover opacity-60"
+        >
+          <source src="/videos/NGO.mp4" type="video/mp4" />
+        </video>
         <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
         <div className="absolute inset-0 flex flex-col justify-end p-6 md:p-14 lg:p-20 text-white">
           <p className="mb-4 text-[10px] uppercase tracking-[0.3em] opacity-80 font-medium">

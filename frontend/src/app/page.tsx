@@ -27,6 +27,32 @@ export default function Home() {
   return (
     <div className="w-full bg-[#fbfaf8] text-black min-h-screen">
       
+      {/* Hero Video Section */}
+      <section className="relative h-[80vh] md:h-screen w-full overflow-hidden bg-black">
+        <video 
+          autoPlay 
+          muted 
+          loop 
+          playsInline 
+          className="absolute inset-0 w-full h-full object-cover opacity-70"
+        >
+          <source src="/videos/Complete.mp4" type="video/mp4" />
+        </video>
+        <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-black/40 z-0" />
+        
+        <div className="absolute inset-0 flex flex-col items-center justify-center text-center p-6 text-white z-10">
+          <h1 className="text-[40px] md:text-[70px] lg:text-[90px] font-light uppercase tracking-[0.15em] mb-4 drop-shadow-lg">
+            Shiv Shakti
+          </h1>
+          <p className="text-[12px] md:text-[14px] uppercase tracking-[0.3em] font-medium opacity-90 mb-8">
+            The SS26 Collection
+          </p>
+          <Link href="/shop/all" className="border border-white px-8 py-4 text-[12px] uppercase tracking-[0.2em] hover:bg-white hover:text-black transition-colors backdrop-blur-sm">
+            Explore Collection
+          </Link>
+        </div>
+      </section>
+
       {/* 1. The Ethos Grid (Our World) */}
       <section className="w-full max-w-[1400px] mx-auto px-4 md:px-8 pt-[100px] pb-12 md:pb-20">
         <div className="text-center mb-8 md:mb-12">
