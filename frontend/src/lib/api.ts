@@ -721,24 +721,37 @@ export const adminAPI = {
 };
 
 export const productsAPI = {
-  listAll: async () => {
-    const prods = getLocalProducts();
-    return { products: prods, total: prods.length };
-  },
+  listAll: () =>
+    tryOrLocal(
+      () => apiFetch<{ products: Product[]; total: number }>("/api/products"),
+      () => {
+        const prods = getLocalProducts();
+        return { products: prods, total: prods.length };
+      }
+    ),
 
-  getById: async (id: number) => {
-    const prods = getLocalProducts();
-    const found = prods.find((p) => p.id === id);
-    if (!found) throw new Error("Product not found");
-    return found;
-  },
+  getById: (id: number) =>
+    tryOrLocal(
+      () => apiFetch<Product>(`/api/products/${id}`),
+      () => {
+        const prods = getLocalProducts();
+        const found = prods.find((p) => p.id === id);
+        if (!found) throw new Error("Product not found");
+        return found;
+      }
+    ),
 
-  getByCategory: async (category: string) => {
-    const prods = getLocalProducts().filter(
-      (p) => p.category?.toLowerCase() === category.toLowerCase()
-    );
-    return { products: prods, total: prods.length };
-  },
+  getByCategory: (category: string) =>
+    tryOrLocal(
+      () =>
+        apiFetch<{ products: Product[]; total: number }>(`/api/products/category/${category}`),
+      () => {
+        const prods = getLocalProducts().filter(
+          (p) => p.category?.toLowerCase() === category.toLowerCase()
+        );
+        return { products: prods, total: prods.length };
+      }
+    ),
 };
 
 export const cartAPI = {
