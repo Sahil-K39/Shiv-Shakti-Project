@@ -36,6 +36,7 @@ const retiredProductSlugs = new Set([
 ]);
 
 function visibleProduct(product: Product) {
+  if (typeof product.category !== "string") return false;
   return product.is_active !== false && !retiredProductSlugs.has(product.slug);
 }
 
