@@ -62,8 +62,8 @@ function getLocalProducts(): Product[] {
   try {
     const saved =
       localStorage.getItem("shiv_shakti_custom_admin_products") ||
-      localStorage.getItem("shiv_shakti_products_swr_v4") ||
-      sessionStorage.getItem("shiv_shakti_products_swr_v4");
+      localStorage.getItem("shiv_shakti_products_swr_v5") ||
+      sessionStorage.getItem("shiv_shakti_products_swr_v5");
     if (saved) {
       const parsed = JSON.parse(saved);
       if (Array.isArray(parsed) && parsed.length > 0) {
@@ -78,8 +78,8 @@ function saveLocalProducts(products: Product[]) {
   if (typeof window === "undefined") return;
   try {
     localStorage.setItem("shiv_shakti_custom_admin_products", JSON.stringify(products));
-    localStorage.setItem("shiv_shakti_products_swr_v4", JSON.stringify(products));
-    sessionStorage.setItem("shiv_shakti_products_swr_v4", JSON.stringify(products));
+    localStorage.setItem("shiv_shakti_products_swr_v5", JSON.stringify(products));
+    sessionStorage.setItem("shiv_shakti_products_swr_v5", JSON.stringify(products));
   } catch {}
 }
 
