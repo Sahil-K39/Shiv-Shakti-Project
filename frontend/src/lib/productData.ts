@@ -44,8 +44,8 @@ export const fallbackProducts: Product[] = (initialData.products as Product[]).f
 
 let memoryCache: Product[] | null = null;
 let fetchPromise: Promise<Product[]> | null = null;
-export const CACHE_KEY = "shiv_shakti_products_swr_v6";
-export const ADMIN_CACHE_KEY = "shiv_shakti_custom_admin_products_v2";
+export const CACHE_KEY = "shiv_shakti_products_swr_v7";
+export const ADMIN_CACHE_KEY = "shiv_shakti_custom_admin_products_v3";
 
 export async function getAllProducts(forceRefresh = false): Promise<Product[]> {
   if (memoryCache && !forceRefresh) {

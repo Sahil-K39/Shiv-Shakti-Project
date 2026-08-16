@@ -61,9 +61,9 @@ function getLocalProducts(): Product[] {
   if (typeof window === "undefined") return initialData.products as Product[];
   try {
     const saved =
-      localStorage.getItem("shiv_shakti_custom_admin_products_v2") ||
-      localStorage.getItem("shiv_shakti_products_swr_v6") ||
-      sessionStorage.getItem("shiv_shakti_products_swr_v6");
+      localStorage.getItem("shiv_shakti_custom_admin_products_v3") ||
+      localStorage.getItem("shiv_shakti_products_swr_v7") ||
+      sessionStorage.getItem("shiv_shakti_products_swr_v7");
     if (saved) {
       const parsed = JSON.parse(saved);
       if (Array.isArray(parsed) && parsed.length > 0) {
@@ -77,9 +77,9 @@ function getLocalProducts(): Product[] {
 function saveLocalProducts(products: Product[]) {
   if (typeof window === "undefined") return;
   try {
-    localStorage.setItem("shiv_shakti_custom_admin_products_v2", JSON.stringify(products));
-    localStorage.setItem("shiv_shakti_products_swr_v6", JSON.stringify(products));
-    sessionStorage.setItem("shiv_shakti_products_swr_v6", JSON.stringify(products));
+    localStorage.setItem("shiv_shakti_custom_admin_products_v3", JSON.stringify(products));
+    localStorage.setItem("shiv_shakti_products_swr_v7", JSON.stringify(products));
+    sessionStorage.setItem("shiv_shakti_products_swr_v7", JSON.stringify(products));
   } catch {}
 }
 
