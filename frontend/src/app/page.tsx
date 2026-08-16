@@ -28,8 +28,8 @@ export default function Home() {
     <div className="w-full bg-[#fbfaf8] text-black min-h-screen">
       
       {/* 1. The Ethos Grid (Our World) */}
-      <section className="w-full max-w-[1400px] mx-auto px-4 md:px-8 py-12 md:py-20 mt-[80px]">
-        <div className="text-center mb-12">
+      <section className="w-full max-w-[1400px] mx-auto px-4 md:px-8 pt-[100px] pb-12 md:pb-20">
+        <div className="text-center mb-8 md:mb-12">
           <h2 className="text-[20px] md:text-[28px] font-light uppercase tracking-[0.15em] text-black mb-2">
             Our World
           </h2>
@@ -42,8 +42,8 @@ export default function Home() {
           {/* About Shiv Shakti */}
           <Link href="/council" className="group flex flex-col justify-end h-[350px] md:h-full bg-black transition-colors p-8 shadow-sm relative overflow-hidden">
             <Image
-              src="/logos/logo1.webp"
-              alt="Shiv Shakti"
+              src="/final-products/go_51/go_51-01.webp"
+              alt="Shiv Shakti Council"
               fill
               className="object-cover object-center absolute inset-0 z-0 transition-transform duration-700 group-hover:scale-105 opacity-50 group-hover:opacity-40"
             />
@@ -63,8 +63,8 @@ export default function Home() {
           {/* About Fabric */}
           <Link href="/fabric-selling" className="group flex flex-col justify-end h-[350px] md:h-full bg-black transition-colors p-8 shadow-sm relative overflow-hidden">
             <Image
-              src="/logos/logo2.webp"
-              alt="Fabric"
+              src="/ngo/artisan-2.jpg"
+              alt="Raw Materials and Fabric"
               fill
               className="object-cover object-center absolute inset-0 z-0 transition-transform duration-700 group-hover:scale-105 opacity-50 group-hover:opacity-40"
             />
