@@ -48,69 +48,9 @@ export const CACHE_KEY = "shiv_shakti_products_swr_v5";
 export const ADMIN_CACHE_KEY = "shiv_shakti_custom_admin_products_v2";
 
 export async function getAllProducts(forceRefresh = false): Promise<Product[]> {
-  if (memoryCache && !forceRefresh) {
-    return memoryCache;
-  }
-
-  if (typeof window !== "undefined" && !forceRefresh) {
-    try {
-      const saved = sessionStorage.getItem(CACHE_KEY) || localStorage.getItem(CACHE_KEY);
-      if (saved) {
-        const parsed = JSON.parse(saved);
-        if (Array.isArray(parsed) && parsed.length > 0) {
-          memoryCache = parsed.filter(visibleProduct);
-          revalidateInBackground();
-          return memoryCache;
-        }
-      }
-    } catch {
-      // ignore storage errors
-    }
-  }
-
-  if (fetchPromise) {
-    return fetchPromise;
-  }
-
-  if (!memoryCache && typeof window !== "undefined" && !forceRefresh) {
-    memoryCache = fallbackProducts;
-    revalidateInBackground();
-    return memoryCache;
-  }
-
-  return doFetch();
-}
-
-async function doFetch(): Promise<Product[]> {
-  if (fetchPromise) return fetchPromise;
-
-  fetchPromise = (async () => {
-    try {
-      const data = await productsAPI.listAll();
-      const valid = (data.products ?? []).filter(visibleProduct);
-      if (valid.length > 0) {
-        memoryCache = valid;
-        if (typeof window !== "undefined") {
-          try {
-            sessionStorage.setItem(CACHE_KEY, JSON.stringify(valid));
-            localStorage.setItem(CACHE_KEY, JSON.stringify(valid));
-          } catch {
-            // storage might be full
-          }
-        }
-      }
-      return memoryCache ?? fallbackProducts;
-    } catch {
-      return memoryCache ?? fallbackProducts;
-    } finally {
-      fetchPromise = null;
-    }
-  })();
-
-  return fetchPromise;
+  return [];
 }
 
 function revalidateInBackground() {
-  if (fetchPromise) return;
-  doFetch().catch(() => {});
+  return;
 }
