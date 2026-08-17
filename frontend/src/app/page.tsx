@@ -69,7 +69,7 @@ export default function Home() {
           {/* About Shiv Shakti */}
           <Link href="/council" className="group flex flex-col justify-end h-[350px] md:h-full bg-black transition-colors p-8 shadow-sm relative overflow-hidden">
             <Image
-              src="/ngo/artisan-3.jpg"
+              src="/logos/logo1.webp"
               alt="Shiv Shakti Council"
               fill
               className="object-cover object-center absolute inset-0 z-0 transition-transform duration-700 group-hover:scale-105 opacity-50 group-hover:opacity-40"
@@ -90,7 +90,7 @@ export default function Home() {
           {/* About Fabric */}
           <Link href="/fabric-selling" className="group flex flex-col justify-end h-[350px] md:h-full bg-black transition-colors p-8 shadow-sm relative overflow-hidden">
             <Image
-              src="/ngo/artisan-2.jpg"
+              src="/fabric/fabric-007.jpg"
               alt="Raw Materials and Fabric"
               fill
               className="object-cover object-center absolute inset-0 z-0 transition-transform duration-700 group-hover:scale-105 opacity-50 group-hover:opacity-40"
