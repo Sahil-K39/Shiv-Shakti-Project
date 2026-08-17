@@ -69,7 +69,7 @@ export default function Home() {
           {/* About Shiv Shakti */}
           <Link href="/council" className="group flex flex-col justify-end h-[350px] md:h-full bg-black transition-colors p-8 shadow-sm relative overflow-hidden">
             <Image
-              src="/final-products/go_51/go_51-01.webp"
+              src="/ngo/artisan-3.jpg"
               alt="Shiv Shakti Council"
               fill
               className="object-cover object-center absolute inset-0 z-0 transition-transform duration-700 group-hover:scale-105 opacity-50 group-hover:opacity-40"
@@ -111,7 +111,7 @@ export default function Home() {
           {/* NGO */}
           <Link href="/ngo" className="group flex flex-col justify-end h-[350px] md:h-full bg-black transition-colors p-8 shadow-sm relative overflow-hidden">
             <Image
-              src="/ngo/hero.jpg"
+              src="/ngo/artisan-1.jpg"
               alt="Women Artisans"
               fill
               className="object-cover object-center absolute inset-0 z-0 transition-transform duration-700 group-hover:scale-105 opacity-50 group-hover:opacity-40 grayscale"
