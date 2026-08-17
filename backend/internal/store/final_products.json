@@ -1,12 +1,12 @@
 {
   "products": [
     {
-      "name": "Shiv Shakti Style GO-02",
+      "name": "Obsidian Tunic",
       "slug": "go_02",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1866,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -18,12 +18,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-03",
+      "name": "Asymmetric Tunic",
       "slug": "go_03",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2624,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -35,12 +35,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-04",
+      "name": "Draped Tunic",
       "slug": "go_04",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2410,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -52,12 +52,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-05",
+      "name": "Raw Tunic",
       "slug": "go_05",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1645,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -69,12 +69,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-06",
+      "name": "Deconstructed Tunic",
       "slug": "go_06",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1527,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -86,12 +86,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-07",
+      "name": "Layered Tunic",
       "slug": "go_07",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2633,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -103,12 +103,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-08",
+      "name": "Woven Tunic",
       "slug": "go_08",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1887,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -120,12 +120,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-09",
+      "name": "Nomad Tunic",
       "slug": "go_09",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2702,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -137,12 +137,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-10",
+      "name": "Ceremonial Tunic",
       "slug": "go_10",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2788,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -154,12 +154,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-11",
+      "name": "Void Tunic",
       "slug": "go_11",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2400,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -171,12 +171,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-12",
+      "name": "Monochrome Tunic",
       "slug": "go_12",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2241,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -188,12 +188,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-13",
+      "name": "Torn Tunic",
       "slug": "go_13",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2079,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -205,12 +205,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-14",
+      "name": "Tactile Tunic",
       "slug": "go_14",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2148,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -222,12 +222,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-15",
+      "name": "Earthy Tunic",
       "slug": "go_15",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1688,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -239,12 +239,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-16",
+      "name": "Oversized Tunic",
       "slug": "go_16",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1947,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -256,12 +256,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-17",
+      "name": "Obsidian Coat",
       "slug": "go_17",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2501,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -273,12 +273,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-18",
+      "name": "Asymmetric Coat",
       "slug": "go_18",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1163,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -290,12 +290,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-19",
+      "name": "Draped Coat",
       "slug": "go_19",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2450,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -307,12 +307,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-20",
+      "name": "Raw Coat",
       "slug": "go_20",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2706,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -324,12 +324,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-21",
+      "name": "Deconstructed Coat",
       "slug": "go_21",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1876,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -341,12 +341,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-22",
+      "name": "Layered Coat",
       "slug": "go_22",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1305,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -358,12 +358,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-23",
+      "name": "Woven Coat",
       "slug": "go_23",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1144,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -375,12 +375,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-24",
+      "name": "Nomad Coat",
       "slug": "go_24",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2693,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -392,12 +392,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-25",
+      "name": "Ceremonial Coat",
       "slug": "go_25",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2451,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -409,12 +409,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-26",
+      "name": "Void Coat",
       "slug": "go_26",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2638,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -426,12 +426,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-27",
+      "name": "Monochrome Coat",
       "slug": "go_27",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2722,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -443,12 +443,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-28",
+      "name": "Torn Coat",
       "slug": "go_28",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 854,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -460,12 +460,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-29",
+      "name": "Tactile Coat",
       "slug": "go_29",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1020,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -477,12 +477,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-30",
+      "name": "Earthy Coat",
       "slug": "go_30",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1835,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -494,12 +494,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-31",
+      "name": "Oversized Coat",
       "slug": "go_31",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2572,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -511,12 +511,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-32",
+      "name": "Obsidian Wrap",
       "slug": "go_32",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2283,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -528,12 +528,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-33",
+      "name": "Asymmetric Wrap",
       "slug": "go_33",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2239,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -545,12 +545,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-34",
+      "name": "Draped Wrap",
       "slug": "go_34",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1980,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -562,12 +562,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-35",
+      "name": "Raw Wrap",
       "slug": "go_35",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2033,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -579,12 +579,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-36",
+      "name": "Deconstructed Wrap",
       "slug": "go_36",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1032,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -596,12 +596,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-37",
+      "name": "Layered Wrap",
       "slug": "go_37",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2012,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -613,12 +613,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-38",
+      "name": "Woven Wrap",
       "slug": "go_38",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2068,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -630,12 +630,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-39",
+      "name": "Nomad Wrap",
       "slug": "go_39",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2524,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -647,12 +647,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-40",
+      "name": "Ceremonial Wrap",
       "slug": "go_40",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1556,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -664,12 +664,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-41",
+      "name": "Void Wrap",
       "slug": "go_41",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2431,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -681,12 +681,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-42",
+      "name": "Monochrome Wrap",
       "slug": "go_42",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1113,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -698,12 +698,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-43",
+      "name": "Torn Wrap",
       "slug": "go_43",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2140,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -715,12 +715,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-44",
+      "name": "Tactile Wrap",
       "slug": "go_44",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1282,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -732,12 +732,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-45",
+      "name": "Earthy Wrap",
       "slug": "go_45",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 846,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -749,12 +749,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-46",
+      "name": "Oversized Wrap",
       "slug": "go_46",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1934,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -766,12 +766,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-47",
+      "name": "Obsidian Kimono",
       "slug": "go_47",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2323,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -783,12 +783,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-42",
+      "name": "Asymmetric Kimono",
       "slug": "go_42",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2437,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -800,12 +800,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-44",
+      "name": "Draped Kimono",
       "slug": "go_44",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2484,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -817,12 +817,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-45",
+      "name": "Raw Kimono",
       "slug": "go_45",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 990,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -834,12 +834,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-46",
+      "name": "Deconstructed Kimono",
       "slug": "go_46",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2192,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -851,12 +851,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-47",
+      "name": "Layered Kimono",
       "slug": "go_47",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1423,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -868,12 +868,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-48",
+      "name": "Woven Kimono",
       "slug": "go_48",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2471,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -885,12 +885,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-49",
+      "name": "Nomad Kimono",
       "slug": "go_49",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2330,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -902,12 +902,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-50",
+      "name": "Ceremonial Kimono",
       "slug": "go_50",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1057,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -919,12 +919,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-51",
+      "name": "Void Kimono",
       "slug": "go_51",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1240,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -936,12 +936,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-52",
+      "name": "Monochrome Kimono",
       "slug": "go_52",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 968,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -953,12 +953,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-53",
+      "name": "Torn Kimono",
       "slug": "go_53",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2530,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -970,12 +970,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-54",
+      "name": "Tactile Kimono",
       "slug": "go_54",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1861,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -987,12 +987,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-55",
+      "name": "Earthy Kimono",
       "slug": "go_55",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1180,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1004,12 +1004,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-56",
+      "name": "Oversized Kimono",
       "slug": "go_56",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2308,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1021,12 +1021,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-57",
+      "name": "Obsidian Trousers",
       "slug": "go_57",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2661,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1038,12 +1038,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-58",
+      "name": "Asymmetric Trousers",
       "slug": "go_58",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1640,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1055,12 +1055,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-59",
+      "name": "Draped Trousers",
       "slug": "go_59",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1330,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1072,12 +1072,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-60",
+      "name": "Raw Trousers",
       "slug": "go_60",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1501,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1089,12 +1089,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-61",
+      "name": "Deconstructed Trousers",
       "slug": "go_61",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1246,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1106,12 +1106,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-62",
+      "name": "Layered Trousers",
       "slug": "go_62",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2793,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1123,12 +1123,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-63",
+      "name": "Woven Trousers",
       "slug": "go_63",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2292,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1140,12 +1140,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-63-1",
+      "name": "Nomad Trousers",
       "slug": "go_63_1",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2603,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1157,12 +1157,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-64",
+      "name": "Ceremonial Trousers",
       "slug": "go_64",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2359,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1174,12 +1174,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-66",
+      "name": "Void Trousers",
       "slug": "go_66",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2452,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1191,12 +1191,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-67",
+      "name": "Monochrome Trousers",
       "slug": "go_67",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 982,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1208,12 +1208,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-68",
+      "name": "Torn Trousers",
       "slug": "go_68",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2667,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1225,12 +1225,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-69",
+      "name": "Tactile Trousers",
       "slug": "go_69",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1664,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1242,12 +1242,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-70",
+      "name": "Earthy Trousers",
       "slug": "go_70",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2754,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1259,12 +1259,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-71",
+      "name": "Oversized Trousers",
       "slug": "go_71",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2581,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1276,12 +1276,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-72",
+      "name": "Obsidian Cloak",
       "slug": "go_72",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2483,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1293,12 +1293,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-73",
+      "name": "Asymmetric Cloak",
       "slug": "go_73",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2114,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1310,12 +1310,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-74",
+      "name": "Draped Cloak",
       "slug": "go_74",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2716,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1327,12 +1327,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-75",
+      "name": "Raw Cloak",
       "slug": "go_75",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1499,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1344,12 +1344,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-76",
+      "name": "Deconstructed Cloak",
       "slug": "go_76",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 967,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1361,12 +1361,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-77",
+      "name": "Layered Cloak",
       "slug": "go_77",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2430,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1378,12 +1378,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-78",
+      "name": "Woven Cloak",
       "slug": "go_78",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1950,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1395,12 +1395,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-79",
+      "name": "Nomad Cloak",
       "slug": "go_79",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 907,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1412,12 +1412,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-80",
+      "name": "Ceremonial Cloak",
       "slug": "go_80",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1234,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1429,12 +1429,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-81",
+      "name": "Void Cloak",
       "slug": "go_81",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2575,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1446,12 +1446,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-82",
+      "name": "Monochrome Cloak",
       "slug": "go_82",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2067,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1463,12 +1463,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-84",
+      "name": "Torn Cloak",
       "slug": "go_84",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1163,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1480,12 +1480,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-85",
+      "name": "Tactile Cloak",
       "slug": "go_85",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1657,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1497,12 +1497,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-85-1",
+      "name": "Earthy Cloak",
       "slug": "go_85_1",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2383,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1514,12 +1514,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-86",
+      "name": "Oversized Cloak",
       "slug": "go_86",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1346,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1531,12 +1531,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-87",
+      "name": "Obsidian Vest",
       "slug": "go_87",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1934,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1548,12 +1548,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-88",
+      "name": "Asymmetric Vest",
       "slug": "go_88",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 831,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1565,12 +1565,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-89",
+      "name": "Draped Vest",
       "slug": "go_89",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1136,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1582,12 +1582,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-90",
+      "name": "Raw Vest",
       "slug": "go_90",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1644,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1599,12 +1599,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-91",
+      "name": "Deconstructed Vest",
       "slug": "go_91",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2041,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1616,12 +1616,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-92",
+      "name": "Layered Vest",
       "slug": "go_92",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1781,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1633,12 +1633,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style GO-93",
+      "name": "Woven Vest",
       "slug": "go_93",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1906,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1650,12 +1650,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG1-GROUP-01",
+      "name": "Nomad Vest",
       "slug": "aug1_group_01",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1825,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1667,12 +1667,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG1-GROUP-02",
+      "name": "Ceremonial Vest",
       "slug": "aug1_group_02",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2003,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1684,12 +1684,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG1-GROUP-03",
+      "name": "Void Vest",
       "slug": "aug1_group_03",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2490,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1701,12 +1701,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG1-GROUP-04",
+      "name": "Monochrome Vest",
       "slug": "aug1_group_04",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 826,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1718,12 +1718,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG1-GROUP-05",
+      "name": "Torn Vest",
       "slug": "aug1_group_05",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2118,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1735,12 +1735,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG1-GROUP-06",
+      "name": "Tactile Vest",
       "slug": "aug1_group_06",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1813,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1752,12 +1752,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG1-GROUP-07",
+      "name": "Earthy Vest",
       "slug": "aug1_group_07",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1106,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1769,12 +1769,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG1-GROUP-08",
+      "name": "Oversized Vest",
       "slug": "aug1_group_08",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2279,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1786,12 +1786,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG1-GROUP-09",
+      "name": "Obsidian Pullover",
       "slug": "aug1_group_09",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2313,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1803,12 +1803,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG1-GROUP-10",
+      "name": "Asymmetric Pullover",
       "slug": "aug1_group_10",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1006,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1820,12 +1820,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-01",
+      "name": "Draped Pullover",
       "slug": "aug8_group_01",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2248,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1837,12 +1837,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-02",
+      "name": "Raw Pullover",
       "slug": "aug8_group_02",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2525,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1854,12 +1854,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-03",
+      "name": "Deconstructed Pullover",
       "slug": "aug8_group_03",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2191,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1871,12 +1871,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-04",
+      "name": "Layered Pullover",
       "slug": "aug8_group_04",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2645,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1888,12 +1888,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-05",
+      "name": "Woven Pullover",
       "slug": "aug8_group_05",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2679,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1905,12 +1905,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-06",
+      "name": "Nomad Pullover",
       "slug": "aug8_group_06",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1435,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1922,12 +1922,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-07",
+      "name": "Ceremonial Pullover",
       "slug": "aug8_group_07",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2412,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1939,12 +1939,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-08",
+      "name": "Void Pullover",
       "slug": "aug8_group_08",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2228,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1956,12 +1956,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-09",
+      "name": "Monochrome Pullover",
       "slug": "aug8_group_09",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1608,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1973,12 +1973,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-10",
+      "name": "Torn Pullover",
       "slug": "aug8_group_10",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1238,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -1990,12 +1990,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-11",
+      "name": "Tactile Pullover",
       "slug": "aug8_group_11",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2182,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -2007,12 +2007,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-12",
+      "name": "Earthy Pullover",
       "slug": "aug8_group_12",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1965,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -2024,12 +2024,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-13",
+      "name": "Oversized Pullover",
       "slug": "aug8_group_13",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1168,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -2041,12 +2041,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-14",
+      "name": "Obsidian Cardigan",
       "slug": "aug8_group_14",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2111,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -2058,12 +2058,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-15",
+      "name": "Asymmetric Cardigan",
       "slug": "aug8_group_15",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1043,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -2075,12 +2075,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-16",
+      "name": "Draped Cardigan",
       "slug": "aug8_group_16",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 880,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -2092,12 +2092,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-17",
+      "name": "Raw Cardigan",
       "slug": "aug8_group_17",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2655,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -2109,12 +2109,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-18",
+      "name": "Deconstructed Cardigan",
       "slug": "aug8_group_18",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1640,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -2126,12 +2126,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-19",
+      "name": "Layered Cardigan",
       "slug": "aug8_group_19",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1512,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "unisex",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -2143,12 +2143,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-20",
+      "name": "Woven Cardigan",
       "slug": "aug8_group_20",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2227,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "men",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
@@ -2160,12 +2160,12 @@
       "sale_active": false
     },
     {
-      "name": "Shiv Shakti Style AUG8-GROUP-21",
+      "name": "Nomad Cardigan",
       "slug": "aug8_group_21",
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2328,
       "sale_price": 0,
-      "category": "shakti",
+      "category": "women",
       "collection": "Core Collection",
       "sizes": "[\"XS\",\"S\",\"M\",\"L\",\"XL\"]",
       "colors": "[\"Void Black\"]",
