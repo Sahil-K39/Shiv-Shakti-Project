@@ -64,17 +64,16 @@ export default function NGOPage() {
 
       {/* Artisan Gallery Grid */}
       <section className="w-full px-4 md:px-10 lg:px-14 pb-24 md:pb-40">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
+        <div className="columns-1 md:columns-2 lg:columns-4 gap-4 md:gap-6 space-y-4 md:space-y-6">
           {[1, 2, 3, 4, 5, 6, 7, 8].map((i) => (
-            <div key={i} className={`relative aspect-[3/4] w-full overflow-hidden bg-neutral-100 group ${i > 4 ? 'lg:mt-12' : ''}`}>
-              <Image
+            <div key={i} className={`relative w-full overflow-hidden bg-neutral-100 group break-inside-avoid ${i > 4 ? 'lg:mt-12' : ''}`}>
+              <img
                 src={`/ngo/women/artisan-${i}.jpg`}
                 alt={`Female artisan ${i} at Shiv Shakti project`}
-                fill
-                className="object-cover transition-transform duration-700 ease-out group-hover:scale-105"
-                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 25vw"
+                className="w-full h-auto object-contain transition-transform duration-700 ease-out group-hover:scale-105"
+                loading="lazy"
               />
-              <div className="absolute inset-0 bg-black/10 opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
+              <div className="absolute inset-0 bg-black/10 opacity-0 transition-opacity duration-500 group-hover:opacity-100 pointer-events-none" />
             </div>
           ))}
         </div>
