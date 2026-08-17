@@ -34,10 +34,11 @@ export default function Home() {
           muted 
           loop 
           playsInline 
-          className="absolute inset-0 w-full h-full object-cover opacity-70"
+          className="absolute inset-0 w-full h-full object-cover"
         >
           <source src="/videos/Complete.mp4" type="video/mp4" />
         </video>
+        <div className="absolute inset-0 bg-black/40 z-0" />
         <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-black/40 z-0" />
         
         <div className="absolute inset-0 flex flex-col items-center justify-center text-center p-6 text-white z-10">
@@ -133,46 +134,7 @@ export default function Home() {
       {/* 2. Values Section */}
       <ValuesSection />
 
-      {/* 3. Hero Section (Psylo Style) */}
-      <section className="relative w-full h-[85vh] min-h-[600px] bg-black overflow-hidden flex items-center justify-center">
-        {/* Background Image */}
-        <div className="absolute inset-0 z-0">
-          <Image
-            src="/ngo/hero.jpg"
-            alt="Avant-Garde Post-Apocalyptic Fashion"
-            fill
-            className="object-cover object-top opacity-60"
-            sizes="100vw"
-          />
-          {/* Gradients for text legibility */}
-          <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-black/20" />
-        </div>
 
-        {/* Hero Content */}
-        <div className="relative z-10 text-center px-4 max-w-4xl mx-auto flex flex-col items-center">
-          <h1 className="text-[32px] md:text-[56px] lg:text-[72px] font-light uppercase tracking-tight text-white leading-[1.1] mb-6">
-            Avant-Garde <br/>
-            <span className="text-white/80">Post-Apocalyptic Fashion</span>
-          </h1>
-          <p className="text-[12px] md:text-[14px] uppercase tracking-[0.2em] text-gray-300 mb-10 max-w-2xl leading-relaxed">
-            Ethically handmade. Deconstructed silhouettes inspired by ancient rituals and futuristic survival.
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
-            <Link
-              href="/shop/women"
-              className="group flex min-h-[56px] items-center justify-center bg-white px-10 text-[12px] uppercase tracking-[0.2em] text-black transition-all hover:bg-white/90 font-bold"
-            >
-              Shop Women
-            </Link>
-            <Link
-              href="/shop/men"
-              className="group flex min-h-[56px] items-center justify-center border border-white bg-transparent px-10 text-[12px] uppercase tracking-[0.2em] text-white transition-all hover:bg-white hover:text-black font-bold"
-            >
-              Shop Men
-            </Link>
-          </div>
-        </div>
-      </section>
 
 
 

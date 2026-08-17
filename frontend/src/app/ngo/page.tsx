@@ -20,10 +20,11 @@ export default function NGOPage() {
           muted 
           loop 
           playsInline 
-          className="absolute inset-0 w-full h-full object-cover opacity-60"
+          className="absolute inset-0 w-full h-full object-cover"
         >
           <source src="/videos/NGO.mp4" type="video/mp4" />
         </video>
+        <div className="absolute inset-0 bg-black/40 z-0" />
         <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
         <div className="absolute inset-0 flex flex-col justify-end p-6 md:p-14 lg:p-20 text-white">
           <p className="mb-4 text-[10px] uppercase tracking-[0.3em] opacity-80 font-medium">
