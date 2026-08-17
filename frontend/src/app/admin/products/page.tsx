@@ -15,7 +15,7 @@ const emptyForm: ProductInput = {
   price: 0,
   sale_price: 0,
   category: "women",
-  collection: "SS26",
+  collection: "Core",
   sizes: `["S/M","M/L"]`,
   colors: `["Default"]`,
   images: "[]",
@@ -161,7 +161,7 @@ function buildTemplateCSV() {
       "",
       "",
       "sample-bulk-dress",
-      "SS26",
+      "Core",
     ],
   ];
 
@@ -296,7 +296,7 @@ function recordToProduct(record: Record<string, string>, index: number): Product
     price: Number.isFinite(price) ? price : 0,
     sale_price: Number.isFinite(salePrice) ? salePrice : 0,
     category: recordValue(record, "category") || "women",
-    collection: recordValue(record, "collection") || "SS26",
+    collection: recordValue(record, "collection") || "Core",
     sizes: listField(recordValue(record, "sizes", "size") || "S/M|M/L"),
     colors: listField(recordValue(record, "colors", "color") || "Default"),
     images: listField(images),

@@ -1,0 +1,9 @@
+2026/08/17 13:13:06 ✓ Database initialized successfully
+2026/08/17 13:13:06 ⚠ SMTP_HOST or SMTP_USERNAME not configured. Email service running in MOCK mode (logging to stdout).
+2026/08/17 13:13:06 ⚠ SMTP_HOST or SMTP_USERNAME not configured. Email service running in MOCK mode (logging to stdout).
+2026/08/17 13:13:06 ✓ API running on http://localhost:8080
+2026/08/17 13:13:06 ✓ JWT Authentication enabled
+2026/08/17 13:13:06 ✓ CSRF Protection active
+2026/08/17 13:13:06 ✓ Rate Limiting enforced
+2026/08/17 13:13:06 ✓ Secure HTTP headers set
+2026/08/17 13:13:06 ✗ Server failed to start: listen tcp :8080: bind: address already in use

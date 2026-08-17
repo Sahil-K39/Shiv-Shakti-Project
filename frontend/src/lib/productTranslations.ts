@@ -1,6 +1,6 @@
 import { CATEGORY_TRANSLATIONS_ALL } from "./productTranslationsAll86";
 
-// Comprehensive multi-language dictionary for Shiv Shakti SS26 Product Names & Fashion Terms
+// Comprehensive multi-language dictionary for Shiv Shakti Core Product Names & Fashion Terms
 export const PRODUCT_TRANSLATIONS: Record<string, Record<string, string>> = {
   // Products
   "Ivory Threadwork Vest Set": {

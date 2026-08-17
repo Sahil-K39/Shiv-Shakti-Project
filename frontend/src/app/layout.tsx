@@ -18,22 +18,22 @@ export const metadata: Metadata = {
   manifest: "/manifest.webmanifest",
   icons: {
     icon: [
-      { url: "/favicon.ico?v=trident-emblem-ss26-large" },
-      { url: "/icon.png?v=trident-emblem-ss26-large", type: "image/png", sizes: "512x512" },
+      { url: "/favicon.ico?v=trident-emblem-core-large" },
+      { url: "/icon.png?v=trident-emblem-core-large", type: "image/png", sizes: "512x512" },
     ],
     apple: [
-      { url: "/apple-icon.png?v=trident-emblem-ss26-large", type: "image/png", sizes: "180x180" },
-      { url: "/apple-touch-icon.png?v=trident-emblem-ss26-large", type: "image/png", sizes: "180x180" },
+      { url: "/apple-icon.png?v=trident-emblem-core-large", type: "image/png", sizes: "180x180" },
+      { url: "/apple-touch-icon.png?v=trident-emblem-core-large", type: "image/png", sizes: "180x180" },
     ],
     other: [
       {
         rel: "apple-touch-icon-precomposed",
-        url: "/apple-touch-icon-precomposed.png?v=trident-emblem-ss26-large",
+        url: "/apple-touch-icon-precomposed.png?v=trident-emblem-core-large",
       },
     ],
   },
   openGraph: {
-    title: "Shiv Shakti Project \u2014 SS26 Wholesale Buying Room",
+    title: "Shiv Shakti Project \u2014 Core Wholesale Buying Room",
     description:
       "Premium wholesale fashion. Deconstructed silhouettes, ritual textures, and limited seasonal releases.",
     url: "https://www.shivshaktiproject.com",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Shiv Shakti SS26 Collection",
+        alt: "Shiv Shakti Core Collection",
       },
     ],
     locale: "en_IN",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Shiv Shakti Project \u2014 SS26 Wholesale Buying Room",
+    title: "Shiv Shakti Project \u2014 Core Wholesale Buying Room",
     description:
       "Premium wholesale fashion. Deconstructed silhouettes, ritual textures, and limited seasonal releases.",
     images: ["/og-image.jpg"],

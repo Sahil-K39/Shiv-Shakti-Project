@@ -46,7 +46,7 @@ export default function Home() {
             Shiv Shakti
           </h1>
           <p className="text-[12px] md:text-[14px] uppercase tracking-[0.3em] font-medium opacity-90 mb-8">
-            The SS26 Collection
+            The Core Collection
           </p>
           <Link href="/shop/all" className="border border-white px-8 py-4 text-[12px] uppercase tracking-[0.2em] hover:bg-white hover:text-black transition-colors backdrop-blur-sm">
             Explore Collection
@@ -147,7 +147,7 @@ export default function Home() {
                 New Arrivals
               </h2>
               <p className="text-[11px] uppercase tracking-[0.2em] text-gray-500">
-                Latest from the SS26 Collection
+                Latest from the Core Collection
               </p>
             </div>
             <Link

@@ -1,0 +1,14 @@
+2026/08/17 13:13:23 ✓ SQLite database initialized successfully
+2026/08/17 13:13:23 Running one-time migration: Randomizing product prices...
+2026/08/17 13:13:23 ✓ Successfully randomized product prices in the database.
+2026/08/17 13:13:23 ✓ Synced final product catalogue: 0 created, 128 updated, 0 deleted, 0 hidden
+2026/08/17 13:13:23 ⚠ SMTP settings are incomplete. Email service running in MOCK mode (logging to stdout).
+2026/08/17 13:13:23 ⚠ SMTP settings are incomplete. Email service running in MOCK mode (logging to stdout).
+2026/08/17 13:13:23 ⚠ SMTP settings are incomplete. Email service running in MOCK mode (logging to stdout).
+2026/08/17 13:13:23 ⚠ SMTP settings are incomplete. Email service running in MOCK mode (logging to stdout).
+2026/08/17 13:13:23 ✓ API running on http://localhost:8080
+2026/08/17 13:13:23 ✓ JWT Authentication enabled
+2026/08/17 13:13:23 ✓ CSRF Protection active
+2026/08/17 13:13:23 ✓ Rate Limiting enforced
+2026/08/17 13:13:23 Starting API server on :8080
+2026/08/17 13:13:23 ✗ Server failed to start: listen tcp :8080: bind: address already in use

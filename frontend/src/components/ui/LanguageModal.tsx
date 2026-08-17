@@ -97,7 +97,7 @@ export default function LanguageModal() {
                 <p className="mt-0.5 text-xs text-neutral-400">
                   {activeModalTab === "language"
                     ? "Automatic Right-to-Left (RTL) direction is applied for RTL languages."
-                    : "Prices across the SS26 wholesale buying room will automatically convert to your selected currency."}
+                    : "Prices across the Core wholesale buying room will automatically convert to your selected currency."}
                 </p>
               </div>
               <button

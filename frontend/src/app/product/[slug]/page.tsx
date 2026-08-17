@@ -210,7 +210,7 @@ export default function ProductDetail() {
                 {t("productDetail.wholesaleBadge")}
               </div>
               <div className="absolute bottom-4 left-4 right-4 flex items-end justify-between text-[9px] uppercase tracking-[0.2em] text-black/70 font-medium">
-                <span>{product.collection || "SS26"}</span>
+                <span>{product.collection || "Core"}</span>
                 <span>
                   {String(currentImageIdx + 1).padStart(2, "0")} /{" "}
                   {String(images.length).padStart(2, "0")}
@@ -237,7 +237,7 @@ export default function ProductDetail() {
             </Link>
 
             <p className="mt-10 text-[10px] uppercase tracking-[0.28em] text-gray-500 font-medium">
-              {product.collection || "SS26"} / {t("productDetail.wholesaleLook")}
+              {product.collection || "Core"} / {t("productDetail.wholesaleLook")}
             </p>
             <h1 className="mt-4 max-w-[720px] text-[38px] font-light uppercase leading-[1.02] tracking-[0.025em] text-black md:text-[48px] xl:text-[56px]">
               {translateProductText(product.name, currentLanguage.code)}

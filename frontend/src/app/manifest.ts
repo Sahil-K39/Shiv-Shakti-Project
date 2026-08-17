@@ -11,24 +11,24 @@ export default function manifest(): MetadataRoute.Manifest {
     theme_color: '#ffffff',
     icons: [
       {
-        src: '/icon.png?v=trident-large-ss26',
+        src: '/icon.png?v=trident-large-core',
         sizes: '512x512',
         type: 'image/png',
         purpose: 'any',
       },
       {
-        src: '/icon.png?v=trident-large-ss26',
+        src: '/icon.png?v=trident-large-core',
         sizes: '512x512',
         type: 'image/png',
         purpose: 'maskable',
       },
       {
-        src: '/apple-icon.png?v=trident-large-ss26',
+        src: '/apple-icon.png?v=trident-large-core',
         sizes: '180x180',
         type: 'image/png',
       },
       {
-        src: '/apple-touch-icon.png?v=trident-large-ss26',
+        src: '/apple-touch-icon.png?v=trident-large-core',
         sizes: '180x180',
         type: 'image/png',
       },
