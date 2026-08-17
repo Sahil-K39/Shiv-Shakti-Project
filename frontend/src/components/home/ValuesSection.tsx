@@ -38,7 +38,7 @@ export default function ValuesSection() {
             Handmade
           </h4>
           <p className="text-[13px] text-gray-500 leading-relaxed font-light">
-            Cut, sewn and finished by hand in our Bali workshop.
+            Cut, sewn and finished by hand in our Pushkar workshop.
           </p>
         </div>
 

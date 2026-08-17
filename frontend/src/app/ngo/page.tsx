@@ -7,7 +7,7 @@ import NgoApplicationForm from "@/components/ngo/NgoApplicationForm";
 export const metadata: Metadata = {
   title: "Shiv Shakti Project | Women Empowering Women",
   description:
-    "Our mission is simple yet profound: Women giving work to women. We empower local female artisans through high-fashion craftsmanship and fair employment.",
+    "Our mission is simple yet profound: Women empowerment. We empower local female artisans through high-fashion craftsmanship and fair employment.",
 };
 
 export default function NGOPage() {
@@ -31,7 +31,7 @@ export default function NGOPage() {
             The Women Initiative
           </p>
           <h1 className="max-w-4xl text-[32px] md:text-[56px] lg:text-[72px] font-light uppercase leading-[1.1] tracking-tight">
-            Women Giving Work <br /> to Women
+            Women <br /> Empowerment
           </h1>
         </div>
       </section>
@@ -47,7 +47,7 @@ export default function NGOPage() {
           <div className="lg:col-span-7 space-y-8 text-[13px] md:text-[14px] uppercase leading-loose tracking-[0.14em] text-black/70">
             <p>
               At the core of the Shiv Shakti Project lies a profound commitment to the divine feminine energy—Women. 
-              Our non-profit initiative is built on a singular, powerful philosophy: Women giving work to women.
+              Our non-profit initiative is built on a singular, powerful philosophy: Women empowerment.
             </p>
             <p>
               We provide fair employment, skill development, and a safe, creative sanctuary for local female artisans. 

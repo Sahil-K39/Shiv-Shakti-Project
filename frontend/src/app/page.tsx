@@ -122,7 +122,7 @@ export default function Home() {
               The Initiative
             </h3>
             <p className="text-[11px] uppercase tracking-[0.1em] text-white/70 leading-relaxed relative z-10 mb-6">
-              Women giving work to women. Empowering artisans through high-fashion craftsmanship.
+              Women empowerment. Empowering artisans through high-fashion craftsmanship.
             </p>
             <div className="text-[10px] font-bold uppercase tracking-[0.2em] text-white border-b border-white/30 pb-1 self-start group-hover:border-white transition-colors relative z-10">
               Support The Cause
