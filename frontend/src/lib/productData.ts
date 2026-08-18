@@ -1,6 +1,7 @@
 import { productsAPI } from "@/lib/api";
 import type { Product } from "@/types";
 import initialData from "@/lib/initialProducts.json";
+import { parseList } from "@/lib/productMedia";
 
 const retiredProductSlugs = new Set([
   "ivory-ruin-dress",
@@ -37,15 +38,16 @@ const retiredProductSlugs = new Set([
 
 function visibleProduct(product: Product) {
   if (typeof product.category !== "string") return false;
-  return product.is_active !== false && !retiredProductSlugs.has(product.slug);
+  const hasImages = parseList(product.images).length > 0;
+  return hasImages && product.is_active !== false && !retiredProductSlugs.has(product.slug);
 }
 
 export const fallbackProducts: Product[] = (initialData.products as Product[]).filter(visibleProduct);
 
 let memoryCache: Product[] | null = null;
 let fetchPromise: Promise<Product[]> | null = null;
-export const CACHE_KEY = "shiv_shakti_products_swr_v7";
-export const ADMIN_CACHE_KEY = "shiv_shakti_custom_admin_products_v3";
+export const CACHE_KEY = "shiv_shakti_products_swr_v8";
+export const ADMIN_CACHE_KEY = "shiv_shakti_custom_admin_products_v4";
 
 export async function getAllProducts(forceRefresh = false): Promise<Product[]> {
   if (memoryCache && !forceRefresh) {
