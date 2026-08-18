@@ -55,8 +55,21 @@ export default function ShopCollection() {
         </p>
       </div>
 
-      {/* Mobile 1-col / 2-col view toggle toolbar */}
-      <div className="flex w-full items-center justify-between border-b border-black/10 bg-white px-4 py-3 sm:px-6 md:hidden">
+      {collection === "men" ? (
+        <div className="flex-1 flex items-center justify-center min-h-[40vh] w-full bg-white pb-20">
+          <div className="text-center px-6">
+            <h2 className="text-[24px] md:text-[32px] font-light uppercase tracking-[0.2em] text-black mb-4">
+              Coming Soon
+            </h2>
+            <p className="text-[12px] uppercase tracking-[0.15em] text-gray-500 max-w-md mx-auto leading-relaxed">
+              Our exclusive men's avant-garde collection is currently in development. Subscribe to our newsletter to be notified upon release.
+            </p>
+          </div>
+        </div>
+      ) : (
+        <>
+          {/* Mobile 1-col / 2-col view toggle toolbar */}
+          <div className="flex w-full items-center justify-between border-b border-black/10 bg-white px-4 py-3 sm:px-6 md:hidden">
         <span className="text-[10px] uppercase tracking-[0.2em] text-black font-medium">
           {products.length} {t("shop.stylesCount")}
         </span>
@@ -143,6 +156,8 @@ export default function ShopCollection() {
           </div>
         </div>
       </div>
+        </>
+      )}
     </div>
   );
 }

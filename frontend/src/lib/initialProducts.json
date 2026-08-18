@@ -7,11 +7,11 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 973,
       "sku": "SS-FINAL-GO-02",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_02/go_02-01.webp",
-        "/final-products/go_02/go_02-02.webp"
+        "/final-products/photoroom/go02-01.png",
+        "/final-products/photoroom/go02-02.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -41,9 +41,9 @@
       "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_03/go_03-01.webp",
-        "/final-products/go_03/go_03-02.webp",
-        "/final-products/go_03/go_03-03.webp"
+        "/final-products/photoroom/go03-01.png",
+        "/final-products/photoroom/go03-02.png",
+        "/final-products/photoroom/go03-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -70,12 +70,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2758,
       "sku": "SS-FINAL-GO-04",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_04/go_04-01.webp",
-        "/final-products/go_04/go_04-02.webp",
-        "/final-products/go_04/go_04-03.webp"
+        "/final-products/photoroom/go04-01.png",
+        "/final-products/photoroom/go04-02.png",
+        "/final-products/photoroom/go04-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -102,12 +102,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1096,
       "sku": "SS-FINAL-GO-05",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_05/go_05-01.webp",
-        "/final-products/go_05/go_05-02.webp",
-        "/final-products/go_05/go_05-03.webp"
+        "/final-products/photoroom/go05-01.png",
+        "/final-products/photoroom/go05-02.png",
+        "/final-products/photoroom/go05-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -137,9 +137,9 @@
       "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_06/go_06-01.webp",
-        "/final-products/go_06/go_06-02.webp",
-        "/final-products/go_06/go_06-03.webp"
+        "/final-products/photoroom/go06-01.png",
+        "/final-products/photoroom/go06-02.png",
+        "/final-products/photoroom/go06-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -166,12 +166,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1211,
       "sku": "SS-FINAL-GO-07",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_07/go_07-01.webp",
-        "/final-products/go_07/go_07-02.webp",
-        "/final-products/go_07/go_07-03.webp"
+        "/final-products/photoroom/go07-01.png",
+        "/final-products/photoroom/go07-02.png",
+        "/final-products/photoroom/go07-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -198,12 +198,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1842,
       "sku": "SS-FINAL-GO-08",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_08/go_08-01.webp",
-        "/final-products/go_08/go_08-02.webp",
-        "/final-products/go_08/go_08-03.webp"
+        "/final-products/photoroom/go08-01.png",
+        "/final-products/photoroom/go08-02.png",
+        "/final-products/photoroom/go08-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -233,9 +233,9 @@
       "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_09/go_09-01.webp",
-        "/final-products/go_09/go_09-02.webp",
-        "/final-products/go_09/go_09-03.webp"
+        "/final-products/photoroom/go09-01.png",
+        "/final-products/photoroom/go09-02.png",
+        "/final-products/photoroom/go09-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -262,12 +262,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1311,
       "sku": "SS-FINAL-GO-10",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_10/go_10-01.webp",
-        "/final-products/go_10/go_10-02.webp",
-        "/final-products/go_10/go_10-03.webp"
+        "/final-products/photoroom/go10-01.png",
+        "/final-products/photoroom/go10-02.png",
+        "/final-products/photoroom/go10-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -294,12 +294,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2643,
       "sku": "SS-FINAL-GO-11",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_11/go_11-01.webp",
-        "/final-products/go_11/go_11-02.webp",
-        "/final-products/go_11/go_11-03.webp"
+        "/final-products/photoroom/go11-01.png",
+        "/final-products/photoroom/go11-02.png",
+        "/final-products/photoroom/go11-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -329,9 +329,9 @@
       "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_12/go_12-01.webp",
-        "/final-products/go_12/go_12-02.webp",
-        "/final-products/go_12/go_12-03.webp"
+        "/final-products/photoroom/go12-01.png",
+        "/final-products/photoroom/go12-02.png",
+        "/final-products/photoroom/go12-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -358,12 +358,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2361,
       "sku": "SS-FINAL-GO-13",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_13/go_13-01.webp",
-        "/final-products/go_13/go_13-02.webp",
-        "/final-products/go_13/go_13-03.webp"
+        "/final-products/photoroom/go13-01.png",
+        "/final-products/photoroom/go13-02.png",
+        "/final-products/photoroom/go13-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -390,12 +390,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1942,
       "sku": "SS-FINAL-GO-14",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_14/go_14-01.webp",
-        "/final-products/go_14/go_14-02.webp",
-        "/final-products/go_14/go_14-03.webp"
+        "/final-products/photoroom/go14-01.png",
+        "/final-products/photoroom/go14-02.png",
+        "/final-products/photoroom/go14-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -425,9 +425,9 @@
       "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_15/go_15-01.webp",
-        "/final-products/go_15/go_15-02.webp",
-        "/final-products/go_15/go_15-03.webp"
+        "/final-products/photoroom/go15-01.png",
+        "/final-products/photoroom/go15-02.png",
+        "/final-products/photoroom/go15-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -454,12 +454,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2252,
       "sku": "SS-FINAL-GO-16",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_16/go_16-01.webp",
-        "/final-products/go_16/go_16-02.webp",
-        "/final-products/go_16/go_16-03.webp"
+        "/final-products/photoroom/go16-01.png",
+        "/final-products/photoroom/go16-02.png",
+        "/final-products/photoroom/go16-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -486,12 +486,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1907,
       "sku": "SS-FINAL-GO-17",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_17/go_17-01.webp",
-        "/final-products/go_17/go_17-02.webp",
-        "/final-products/go_17/go_17-03.webp"
+        "/final-products/photoroom/go17-01.png",
+        "/final-products/photoroom/go17-02.png",
+        "/final-products/photoroom/go17-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -521,9 +521,9 @@
       "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_18/go_18-01.webp",
-        "/final-products/go_18/go_18-02.webp",
-        "/final-products/go_18/go_18-03.webp"
+        "/final-products/photoroom/go18-01.png",
+        "/final-products/photoroom/go18-02.png",
+        "/final-products/photoroom/go18-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -550,12 +550,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2380,
       "sku": "SS-FINAL-GO-19",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_19/go_19-01.webp",
-        "/final-products/go_19/go_19-02.webp",
-        "/final-products/go_19/go_19-03.webp"
+        "/final-products/photoroom/go19-01.png",
+        "/final-products/photoroom/go19-02.png",
+        "/final-products/photoroom/go19-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -582,12 +582,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1243,
       "sku": "SS-FINAL-GO-20",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_20/go_20-01.webp",
-        "/final-products/go_20/go_20-02.webp",
-        "/final-products/go_20/go_20-03.webp"
+        "/final-products/photoroom/go20-01.png",
+        "/final-products/photoroom/go20-02.png",
+        "/final-products/photoroom/go20-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -617,9 +617,9 @@
       "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_21/go_21-01.webp",
-        "/final-products/go_21/go_21-02.webp",
-        "/final-products/go_21/go_21-03.webp"
+        "/final-products/photoroom/go21-01.png",
+        "/final-products/photoroom/go21-02.png",
+        "/final-products/photoroom/go21-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -646,12 +646,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2588,
       "sku": "SS-FINAL-GO-22",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_22/go_22-01.webp",
-        "/final-products/go_22/go_22-02.webp",
-        "/final-products/go_22/go_22-03.webp"
+        "/final-products/photoroom/go22-01.png",
+        "/final-products/photoroom/go22-02.png",
+        "/final-products/photoroom/go22-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -678,12 +678,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2507,
       "sku": "SS-FINAL-GO-23",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_23/go_23-01.webp",
-        "/final-products/go_23/go_23-02.webp",
-        "/final-products/go_23/go_23-03.webp"
+        "/final-products/photoroom/go23-01.png",
+        "/final-products/photoroom/go23-02.png",
+        "/final-products/photoroom/go23-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -713,9 +713,9 @@
       "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_24/go_24-01.webp",
-        "/final-products/go_24/go_24-02.webp",
-        "/final-products/go_24/go_24-03.webp"
+        "/final-products/photoroom/go24-01.png",
+        "/final-products/photoroom/go24-02.png",
+        "/final-products/photoroom/go24-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -742,12 +742,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 840,
       "sku": "SS-FINAL-GO-25",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_25/go_25-01.webp",
-        "/final-products/go_25/go_25-02.webp",
-        "/final-products/go_25/go_25-03.webp"
+        "/final-products/photoroom/go25-01.png",
+        "/final-products/photoroom/go25-02.png",
+        "/final-products/photoroom/go25-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -774,12 +774,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1117,
       "sku": "SS-FINAL-GO-26",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_26/go_26-01.webp",
-        "/final-products/go_26/go_26-02.webp",
-        "/final-products/go_26/go_26-03.webp"
+        "/final-products/photoroom/go26-01.png",
+        "/final-products/photoroom/go26-02.png",
+        "/final-products/photoroom/go26-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -809,9 +809,9 @@
       "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_27/go_27-01.webp",
-        "/final-products/go_27/go_27-02.webp",
-        "/final-products/go_27/go_27-03.webp"
+        "/final-products/photoroom/go27-01.png",
+        "/final-products/photoroom/go27-02.png",
+        "/final-products/photoroom/go27-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -838,12 +838,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1703,
       "sku": "SS-FINAL-GO-28",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_28/go_28-01.webp",
-        "/final-products/go_28/go_28-02.webp",
-        "/final-products/go_28/go_28-03.webp"
+        "/final-products/photoroom/go28-01.png",
+        "/final-products/photoroom/go28-02.png",
+        "/final-products/photoroom/go28-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -870,12 +870,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2751,
       "sku": "SS-FINAL-GO-29",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_29/go_29-01.webp",
-        "/final-products/go_29/go_29-02.webp",
-        "/final-products/go_29/go_29-03.webp"
+        "/final-products/photoroom/go29-01.png",
+        "/final-products/photoroom/go29-02.png",
+        "/final-products/photoroom/go29-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -905,9 +905,9 @@
       "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_30/go_30-01.webp",
-        "/final-products/go_30/go_30-02.webp",
-        "/final-products/go_30/go_30-03.webp"
+        "/final-products/photoroom/go30-01.png",
+        "/final-products/photoroom/go30-02.png",
+        "/final-products/photoroom/go30-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -934,12 +934,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 840,
       "sku": "SS-FINAL-GO-31",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_31/go_31-01.webp",
-        "/final-products/go_31/go_31-02.webp",
-        "/final-products/go_31/go_31-03.webp"
+        "/final-products/photoroom/go31-01.png",
+        "/final-products/photoroom/go31-02.png",
+        "/final-products/photoroom/go31-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -966,12 +966,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1576,
       "sku": "SS-FINAL-GO-32",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_32/go_32-01.webp",
-        "/final-products/go_32/go_32-02.webp",
-        "/final-products/go_32/go_32-03.webp"
+        "/final-products/photoroom/go32-01.png",
+        "/final-products/photoroom/go32-02.png",
+        "/final-products/photoroom/go32-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -1001,9 +1001,9 @@
       "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_33/go_33-01.webp",
-        "/final-products/go_33/go_33-02.webp",
-        "/final-products/go_33/go_33-03.webp"
+        "/final-products/photoroom/go33-01.png",
+        "/final-products/photoroom/go33-02.png",
+        "/final-products/photoroom/go33-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -1030,12 +1030,12 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2103,
       "sku": "SS-FINAL-GO-34",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_34/go_34-01.webp",
-        "/final-products/go_34/go_34-02.webp",
-        "/final-products/go_34/go_34-03.webp"
+        "/final-products/photoroom/go34-01.png",
+        "/final-products/photoroom/go34-02.png",
+        "/final-products/photoroom/go34-03.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -1062,11 +1062,11 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2217,
       "sku": "SS-FINAL-GO-35",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_35/go_35-01.webp",
-        "/final-products/go_35/go_35-02.webp"
+        "/final-products/photoroom/go35-01.png",
+        "/final-products/photoroom/go35-02.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -1096,8 +1096,8 @@
       "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_36/go_36-01.webp",
-        "/final-products/go_36/go_36-02.webp"
+        "/final-products/photoroom/go36-01.png",
+        "/final-products/photoroom/go36-02.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -1124,11 +1124,11 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2741,
       "sku": "SS-FINAL-GO-37",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_37/go_37-01.webp",
-        "/final-products/go_37/go_37-02.webp"
+        "/final-products/photoroom/go37-01.png",
+        "/final-products/photoroom/go37-02.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -1155,11 +1155,11 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2527,
       "sku": "SS-FINAL-GO-38",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_38/go_38-01.webp",
-        "/final-products/go_38/go_38-02.webp"
+        "/final-products/photoroom/go38-01.png",
+        "/final-products/photoroom/go38-02.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -1189,8 +1189,8 @@
       "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_39/go_39-01.webp",
-        "/final-products/go_39/go_39-02.webp"
+        "/final-products/photoroom/go39-01.png",
+        "/final-products/photoroom/go39-02.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -1217,11 +1217,11 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1866,
       "sku": "SS-FINAL-GO-40",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_40/go_40-01.webp",
-        "/final-products/go_40/go_40-02.webp"
+        "/final-products/photoroom/go40-01.png",
+        "/final-products/photoroom/go40-02.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -1248,11 +1248,11 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1606,
       "sku": "SS-FINAL-GO-41",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_41/go_41-01.webp",
-        "/final-products/go_41/go_41-02.webp"
+        "/final-products/photoroom/go41-01.png",
+        "/final-products/photoroom/go41-02.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -1279,11 +1279,11 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1083,
       "sku": "SS-FINAL-GO-43",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
-        "/final-products/go_43/go_43-01.webp",
-        "/final-products/go_43/go_43-02.webp"
+        "/final-products/photoroom/go43-01.png",
+        "/final-products/photoroom/go43-02.png"
       ],
       "currency": "INR",
       "collection": "Core Collection",
@@ -1345,7 +1345,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2525,
       "sku": "SS-FINAL-AUG1-GROUP-02",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug1_group_02/aug1_group_02-01.webp",
@@ -1380,7 +1380,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1391,
       "sku": "SS-FINAL-AUG1-GROUP-03",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug1_group_03/aug1_group_03-01.webp",
@@ -1450,7 +1450,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2205,
       "sku": "SS-FINAL-AUG1-GROUP-05",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug1_group_05/aug1_group_05-01.webp",
@@ -1485,7 +1485,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2729,
       "sku": "SS-FINAL-AUG1-GROUP-06",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug1_group_06/aug1_group_06-01.webp",
@@ -1555,7 +1555,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1581,
       "sku": "SS-FINAL-AUG1-GROUP-08",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug1_group_08/aug1_group_08-01.webp",
@@ -1590,7 +1590,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2458,
       "sku": "SS-FINAL-AUG1-GROUP-09",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug1_group_09/aug1_group_09-01.webp",
@@ -1658,7 +1658,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2347,
       "sku": "SS-FINAL-AUG8-GROUP-01",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug8_group_01/aug8_group_01-01.webp",
@@ -1693,7 +1693,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 823,
       "sku": "SS-FINAL-AUG8-GROUP-02",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug8_group_02/aug8_group_02-01.webp",
@@ -1763,7 +1763,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1258,
       "sku": "SS-FINAL-AUG8-GROUP-04",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug8_group_04/aug8_group_04-01.webp",
@@ -1798,7 +1798,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2486,
       "sku": "SS-FINAL-AUG8-GROUP-05",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug8_group_05/aug8_group_05-01.webp",
@@ -1868,7 +1868,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1910,
       "sku": "SS-FINAL-AUG8-GROUP-07",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug8_group_07/aug8_group_07-01.webp",
@@ -1903,7 +1903,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1675,
       "sku": "SS-FINAL-AUG8-GROUP-08",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug8_group_08/aug8_group_08-01.webp",
@@ -1973,7 +1973,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1307,
       "sku": "SS-FINAL-AUG8-GROUP-10",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug8_group_10/aug8_group_10-01.webp",
@@ -2008,7 +2008,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 2336,
       "sku": "SS-FINAL-AUG8-GROUP-11",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug8_group_11/aug8_group_11-01.webp",
@@ -2078,7 +2078,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1812,
       "sku": "SS-FINAL-AUG8-GROUP-13",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug8_group_13/aug8_group_13-01.webp",
@@ -2113,7 +2113,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1379,
       "sku": "SS-FINAL-AUG8-GROUP-14",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug8_group_14/aug8_group_14-01.webp",
@@ -2183,7 +2183,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1935,
       "sku": "SS-FINAL-AUG8-GROUP-16",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug8_group_16/aug8_group_16-01.webp",
@@ -2218,7 +2218,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1066,
       "sku": "SS-FINAL-AUG8-GROUP-17",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug8_group_17/aug8_group_17-01.webp",
@@ -2288,7 +2288,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1153,
       "sku": "SS-FINAL-AUG8-GROUP-19",
-      "category": "unisex",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug8_group_19/aug8_group_19-01.webp",
@@ -2323,7 +2323,7 @@
       "description": "Exclusive handcrafted design from The Shiv Shakti collection.",
       "price": 1715,
       "sku": "SS-FINAL-AUG8-GROUP-20",
-      "category": "men",
+      "category": "women",
       "in_stock": true,
       "images": [
         "/final-products/aug8_group_20/aug8_group_20-01.webp",
@@ -2384,6 +2384,1134 @@
       "updated_at": "2026-08-16T00:00:00Z",
       "is_active": true,
       "quantity": 50
+    },
+    {
+      "id": 1072,
+      "name": "Obsidian Coat",
+      "slug": "go_47-7634",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1800,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_47-01.jpg",
+        "/final-products/new_products/go_47-02.jpg",
+        "/final-products/new_products/go_47-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-47",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1073,
+      "name": "Ceremonial Cardigan",
+      "slug": "go_45-6645",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2800,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_45-01.jpg",
+        "/final-products/new_products/go_45-02.jpg",
+        "/final-products/new_products/go_45-03.jpg",
+        "/final-products/new_products/go_45-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-45",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1074,
+      "name": "Obsidian Tunic",
+      "slug": "go_44-6979",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2600,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_44-01.jpg",
+        "/final-products/new_products/go_44-02.jpg",
+        "/final-products/new_products/go_44-03.jpg",
+        "/final-products/new_products/go_44-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-44",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1075,
+      "name": "Deconstructed Kimono",
+      "slug": "go_46-3673",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2300,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_46-01.jpg",
+        "/final-products/new_products/go_46-02.jpg",
+        "/final-products/new_products/go_46-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-46",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1076,
+      "name": "Woven Trousers",
+      "slug": "go_42-3494",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1300,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_42-01.jpg",
+        "/final-products/new_products/go_42-02.jpg",
+        "/final-products/new_products/go_42-03.jpg",
+        "/final-products/new_products/go_42-04.jpg",
+        "/final-products/new_products/go_42-05.jpg",
+        "/final-products/new_products/go_42-06.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-42",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1077,
+      "name": "Deconstructed Coat",
+      "slug": "go_56-9243",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1600,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_56-01.jpg",
+        "/final-products/new_products/go_56-02.jpg",
+        "/final-products/new_products/go_56-03.jpg",
+        "/final-products/new_products/go_56-04.jpg",
+        "/final-products/new_products/go_56-05.jpg",
+        "/final-products/new_products/go_56-06.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-56",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1078,
+      "name": "Torn Cloak",
+      "slug": "go_69-9968",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2700,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_69-01.jpg",
+        "/final-products/new_products/go_69-02.jpg",
+        "/final-products/new_products/go_69-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-69",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1079,
+      "name": "Ceremonial Coat",
+      "slug": "go_51-7812",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 800,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_51-01.jpg",
+        "/final-products/new_products/go_51-02.jpg",
+        "/final-products/new_products/go_51-03.jpg",
+        "/final-products/new_products/go_51-04.jpg",
+        "/final-products/new_products/go_51-05.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-51",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1080,
+      "name": "Torn Cloak",
+      "slug": "go_67-3505",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2000,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_67-01.jpg",
+        "/final-products/new_products/go_67-02.jpg",
+        "/final-products/new_products/go_67-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-67",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1081,
+      "name": "Layered Trousers",
+      "slug": "go_93-7172",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1500,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_93-01.jpg",
+        "/final-products/new_products/go_93-02.jpg",
+        "/final-products/new_products/go_93-03.png"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-93",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1082,
+      "name": "Asymmetric Coat",
+      "slug": "go_58-8705",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2000,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_58-01.jpg",
+        "/final-products/new_products/go_58-02.jpg",
+        "/final-products/new_products/go_58-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-58",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1083,
+      "name": "Deconstructed Cloak",
+      "slug": "go_60-4804",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2700,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_60-01.jpg",
+        "/final-products/new_products/go_60-02.jpg",
+        "/final-products/new_products/go_60-03.jpg",
+        "/final-products/new_products/go_60-04.jpg",
+        "/final-products/new_products/go_60-05.jpg",
+        "/final-products/new_products/go_60-06.jpg",
+        "/final-products/new_products/go_60-07.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-60",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1084,
+      "name": "Asymmetric Wrap",
+      "slug": "go_61-3106",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1800,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_61-01.jpg",
+        "/final-products/new_products/go_61-02.jpg",
+        "/final-products/new_products/go_61-03.jpg",
+        "/final-products/new_products/go_61-04.jpg",
+        "/final-products/new_products/go_61-05.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-61",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1085,
+      "name": "Void Cardigan",
+      "slug": "go_92-6242",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2700,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_92-01.jpg",
+        "/final-products/new_products/go_92-02.jpg",
+        "/final-products/new_products/go_92-03.jpg",
+        "/final-products/new_products/go_92-04.jpg",
+        "/final-products/new_products/go_92-05.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-92",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1086,
+      "name": "Nomad Tunic",
+      "slug": "go_66-2460",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1000,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_66-01.jpg",
+        "/final-products/new_products/go_66-02.jpg",
+        "/final-products/new_products/go_66-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-66",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1087,
+      "name": "Layered Coat",
+      "slug": "go_63_1-1835",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2500,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_63-01.jpg",
+        "/final-products/new_products/go_63-02.jpg",
+        "/final-products/new_products/go_63-03.jpg",
+        "/final-products/new_products/go_63-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-63-1",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1088,
+      "name": "Draped Vest",
+      "slug": "go_59-2990",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2200,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_59-01.jpg",
+        "/final-products/new_products/go_59-02.jpg",
+        "/final-products/new_products/go_59-03.jpg",
+        "/final-products/new_products/go_59-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-59",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1089,
+      "name": "Void Pullover",
+      "slug": "go_50-9815",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2100,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_50-01.jpg",
+        "/final-products/new_products/go_50-02.jpg",
+        "/final-products/new_products/go_50-03.jpg",
+        "/final-products/new_products/go_50-04.jpg",
+        "/final-products/new_products/go_50-05.jpg",
+        "/final-products/new_products/go_50-06.jpg",
+        "/final-products/new_products/go_50-07.jpg",
+        "/final-products/new_products/go_50-08.jpg",
+        "/final-products/new_products/go_50-09.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-50",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1090,
+      "name": "Obsidian Coat",
+      "slug": "go_57-9959",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1700,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_57-01.jpg",
+        "/final-products/new_products/go_57-02.jpg",
+        "/final-products/new_products/go_57-03.jpg",
+        "/final-products/new_products/go_57-04.jpg",
+        "/final-products/new_products/go_57-05.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-57",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1091,
+      "name": "Monochrome Coat",
+      "slug": "go_68-4502",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1100,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_68-01.jpg",
+        "/final-products/new_products/go_68-02.jpg",
+        "/final-products/new_products/go_68-03.jpg",
+        "/final-products/new_products/go_68-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-68",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1092,
+      "name": "Woven Wrap",
+      "slug": "go_75-8150",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2100,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_75-01.jpg",
+        "/final-products/new_products/go_75-02.jpg",
+        "/final-products/new_products/go_75-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-75",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1093,
+      "name": "Layered Pullover",
+      "slug": "go_81-3124",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2200,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_81-01.jpg",
+        "/final-products/new_products/go_81-02.jpg",
+        "/final-products/new_products/go_81-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-81",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1094,
+      "name": "Earthy Tunic",
+      "slug": "go_86-3396",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1400,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_86-01.jpg",
+        "/final-products/new_products/go_86-02.jpg",
+        "/final-products/new_products/go_86-03.jpg",
+        "/final-products/new_products/go_86-04.jpg",
+        "/final-products/new_products/go_86-05.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-86",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1095,
+      "name": "Draped Vest",
+      "slug": "go_72-7593",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2200,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_72-01.jpg",
+        "/final-products/new_products/go_72-02.jpg",
+        "/final-products/new_products/go_72-03.jpg",
+        "/final-products/new_products/go_72-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-72",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1096,
+      "name": "Torn Cardigan",
+      "slug": "go_88-1713",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1900,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_88-01.jpg",
+        "/final-products/new_products/go_88-02.jpg",
+        "/final-products/new_products/go_88-03.jpg",
+        "/final-products/new_products/go_88-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-88",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1097,
+      "name": "Nomad Cardigan",
+      "slug": "go_89-3692",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1300,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_89-01.jpg",
+        "/final-products/new_products/go_89-02.jpg",
+        "/final-products/new_products/go_89-03.jpg",
+        "/final-products/new_products/go_89-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-89",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1098,
+      "name": "Layered Pullover",
+      "slug": "go_73-8290",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1100,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_73-01.jpg",
+        "/final-products/new_products/go_73-02.jpg",
+        "/final-products/new_products/go_73-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-73",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1099,
+      "name": "Raw Coat",
+      "slug": "go_87-9100",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1100,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_87-01.jpg",
+        "/final-products/new_products/go_87-02.jpg",
+        "/final-products/new_products/go_87-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-87",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1100,
+      "name": "Tactile Tunic",
+      "slug": "go_80-8225",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1300,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_80-01.jpg",
+        "/final-products/new_products/go_80-02.jpg",
+        "/final-products/new_products/go_80-03.jpg",
+        "/final-products/new_products/go_80-04.jpg",
+        "/final-products/new_products/go_80-05.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-80",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1101,
+      "name": "Woven Coat",
+      "slug": "go_74-9267",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1100,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_74-01.jpg",
+        "/final-products/new_products/go_74-02.jpg",
+        "/final-products/new_products/go_74-03.jpg",
+        "/final-products/new_products/go_74-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-74",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1102,
+      "name": "Torn Vest",
+      "slug": "go_52-7735",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1700,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_52-01.jpg",
+        "/final-products/new_products/go_52-02.jpg",
+        "/final-products/new_products/go_52-03.jpg",
+        "/final-products/new_products/go_52-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-52",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1103,
+      "name": "Raw Cloak",
+      "slug": "go_55-2497",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 800,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_55-01.jpg",
+        "/final-products/new_products/go_55-02.jpg",
+        "/final-products/new_products/go_55-03.jpg",
+        "/final-products/new_products/go_55-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-55",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1104,
+      "name": "Monochrome Trousers",
+      "slug": "go_64-9846",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 800,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_64-01.jpg",
+        "/final-products/new_products/go_64-02.jpg",
+        "/final-products/new_products/go_64-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-64",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1105,
+      "name": "Oversized Trousers",
+      "slug": "go_90-5696",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2400,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_90-01.jpg",
+        "/final-products/new_products/go_90-02.jpg",
+        "/final-products/new_products/go_90-03.jpg",
+        "/final-products/new_products/go_90-04.jpg",
+        "/final-products/new_products/go_90-05.jpg",
+        "/final-products/new_products/go_90-06.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-90",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1106,
+      "name": "Layered Cloak",
+      "slug": "go_91-6479",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1300,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_91-01.jpg",
+        "/final-products/new_products/go_91-02.jpg",
+        "/final-products/new_products/go_91-03.jpg",
+        "/final-products/new_products/go_91-04.jpg",
+        "/final-products/new_products/go_91-05.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-91",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1107,
+      "name": "Void Kimono",
+      "slug": "go_62-4061",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1600,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_62-01.jpg",
+        "/final-products/new_products/go_62-02.jpg",
+        "/final-products/new_products/go_62-03.jpg",
+        "/final-products/new_products/go_62-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-62",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1108,
+      "name": "Nomad Wrap",
+      "slug": "go_54-9264",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2600,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_54-01.jpg",
+        "/final-products/new_products/go_54-02.jpg",
+        "/final-products/new_products/go_54-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-54",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1109,
+      "name": "Asymmetric Wrap",
+      "slug": "go_53-4442",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2000,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_53-01.jpg",
+        "/final-products/new_products/go_53-02.jpg",
+        "/final-products/new_products/go_53-03.jpg",
+        "/final-products/new_products/go_53-04.jpg",
+        "/final-products/new_products/go_53-05.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-53",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1110,
+      "name": "Tactile Wrap",
+      "slug": "go_85_1-8271",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2100,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_85-01.jpg",
+        "/final-products/new_products/go_85-02.jpg",
+        "/final-products/new_products/go_85-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-85-1",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1111,
+      "name": "Deconstructed Wrap",
+      "slug": "go_71-1488",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1400,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_71-01.jpg",
+        "/final-products/new_products/go_71-02.jpg",
+        "/final-products/new_products/go_71-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-71",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1112,
+      "name": "Monochrome Vest",
+      "slug": "go_49-9838",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1800,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_49-01.jpg",
+        "/final-products/new_products/go_49-02.jpg",
+        "/final-products/new_products/go_49-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-49",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1113,
+      "name": "Nomad Vest",
+      "slug": "go_76-6672",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2100,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_76-01.jpg",
+        "/final-products/new_products/go_76-02.jpg",
+        "/final-products/new_products/go_76-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-76",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1114,
+      "name": "Ceremonial Trousers",
+      "slug": "go_82-7110",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1500,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_82-01.jpg",
+        "/final-products/new_products/go_82-02.jpg",
+        "/final-products/new_products/go_82-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-82",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1115,
+      "name": "Torn Cardigan",
+      "slug": "go_78-9566",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1300,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_78-01.jpg",
+        "/final-products/new_products/go_78-02.jpg",
+        "/final-products/new_products/go_78-03.jpg",
+        "/final-products/new_products/go_78-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-78",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1116,
+      "name": "Void Pullover",
+      "slug": "go_79-5708",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1200,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_79-01.jpg",
+        "/final-products/new_products/go_79-02.jpg",
+        "/final-products/new_products/go_79-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-79",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1117,
+      "name": "Obsidian Wrap",
+      "slug": "go_48-8230",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2800,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_48-01.jpg",
+        "/final-products/new_products/go_48-02.jpg",
+        "/final-products/new_products/go_48-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-48",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1118,
+      "name": "Monochrome Cloak",
+      "slug": "go_77-2877",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2500,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_77-01.jpg",
+        "/final-products/new_products/go_77-02.jpg",
+        "/final-products/new_products/go_77-03.jpg",
+        "/final-products/new_products/go_77-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-77",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1119,
+      "name": "Obsidian Cloak",
+      "slug": "go_70-7011",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 2300,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_70-01.jpg",
+        "/final-products/new_products/go_70-02.jpg",
+        "/final-products/new_products/go_70-03.jpg",
+        "/final-products/new_products/go_70-04.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-70",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
+    },
+    {
+      "id": 1120,
+      "name": "Torn Wrap",
+      "slug": "go_84-6381",
+      "description": "Avant-garde deconstructed piece. Premium textured fabric.",
+      "price": 1400,
+      "sale_price": 0,
+      "category": "women",
+      "collection": "core",
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
+      "colors": "[\"obsidian\"]",
+      "images": [
+        "/final-products/new_products/go_84-01.jpg",
+        "/final-products/new_products/go_84-02.jpg",
+        "/final-products/new_products/go_84-03.jpg"
+      ],
+      "quantity": 10,
+      "sku": "SS-FINAL-GO-84",
+      "is_featured": true,
+      "is_active": true,
+      "sale_active": false
     }
   ]
 }
