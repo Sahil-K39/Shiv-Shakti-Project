@@ -46,15 +46,47 @@ export const fallbackProducts: Product[] = (initialData.products as Product[]).f
 
 let memoryCache: Product[] | null = null;
 let fetchPromise: Promise<Product[]> | null = null;
-export const CACHE_KEY = "shiv_shakti_products_swr_v9";
-export const ADMIN_CACHE_KEY = "shiv_shakti_custom_admin_products_v5";
+export const CACHE_KEY = "shiv_shakti_products_v10";
+export const ADMIN_CACHE_KEY = "shiv_shakti_admin_products_v6";
+const CACHE_TS_KEY = "shiv_shakti_products_ts";
+const CACHE_TTL_MS = 5 * 60 * 1000; // 5 minutes
+
+// Clean up orphaned keys from previous versions
+function cleanupOldCacheKeys() {
+  if (typeof window === "undefined") return;
+  try {
+    const keysToRemove: string[] = [];
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      if (key && key.startsWith("shiv_shakti_products_swr_")) keysToRemove.push(key);
+      if (key && key.startsWith("shiv_shakti_custom_admin_products_")) keysToRemove.push(key);
+    }
+    keysToRemove.forEach((k) => localStorage.removeItem(k));
+  } catch {
+    // ignore
+  }
+}
+
+function isCacheExpired(): boolean {
+  if (typeof window === "undefined") return true;
+  try {
+    const ts = localStorage.getItem(CACHE_TS_KEY);
+    if (!ts) return true;
+    return Date.now() - parseInt(ts, 10) > CACHE_TTL_MS;
+  } catch {
+    return true;
+  }
+}
 
 export async function getAllProducts(forceRefresh = false): Promise<Product[]> {
   if (memoryCache && !forceRefresh) {
     return memoryCache;
   }
 
-  if (typeof window !== "undefined" && !forceRefresh) {
+  // Clean up old versioned keys on first load
+  cleanupOldCacheKeys();
+
+  if (typeof window !== "undefined" && !forceRefresh && !isCacheExpired()) {
     try {
       const saved = sessionStorage.getItem(CACHE_KEY) || localStorage.getItem(CACHE_KEY);
       if (saved) {
@@ -90,13 +122,13 @@ async function doFetch(): Promise<Product[]> {
     try {
       const data = await productsAPI.listAll();
       const valid = (data.products ?? []).filter(visibleProduct);
-      console.log("local build log: listAll returned", data?.products?.length, "valid=", valid.length);
       if (valid.length > 0) {
         memoryCache = valid;
         if (typeof window !== "undefined") {
           try {
             sessionStorage.setItem(CACHE_KEY, JSON.stringify(valid));
             localStorage.setItem(CACHE_KEY, JSON.stringify(valid));
+            localStorage.setItem(CACHE_TS_KEY, Date.now().toString());
           } catch {
             // storage might be full
           }

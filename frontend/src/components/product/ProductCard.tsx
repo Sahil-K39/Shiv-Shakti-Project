@@ -29,6 +29,7 @@ export default function ProductCard({ product, index }: ProductCardProps) {
   const router = useRouter();
   const images = getProductImages(product);
   const fallbackImage = getCategoryFallbackImage(product.category);
+  const [imgSrc, setImgSrc] = useState(images[0]);
   const hoverImage = images.length > 1 ? images[1] : null;
 
   const cardVariants: Variants = {
@@ -60,14 +61,14 @@ export default function ProductCard({ product, index }: ProductCardProps) {
         onClick={() => router.push(`/product/${product.slug}`)}
       >
         <Image
-          src={images[0]}
+          src={imgSrc}
           alt={product.name}
           fill
           sizes="(max-width: 640px) 50vw, (max-width: 1024px) 50vw, 33vw"
           priority={index < 6}
           className="h-full w-full object-contain object-center transition-transform duration-700 ease-[cubic-bezier(0.22,1,0.36,1)]"
-          onError={(e) => {
-            (e.currentTarget as HTMLImageElement).src = fallbackImage;
+          onError={() => {
+            setImgSrc(fallbackImage);
           }}
           style={{
             transform: `scale(${isHovered ? 1.05 : 1})`,

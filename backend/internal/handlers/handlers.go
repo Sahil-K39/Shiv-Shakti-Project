@@ -1048,6 +1048,7 @@ func (h *OrderHandler) CreateOrder(c *gin.Context) {
 		c.JSON(http.StatusInternalServerError, gin.H{"error": "transaction_failed"})
 		return
 	}
+	defer tx.Rollback()
 
 	const orderStatus = "payment_pending"
 	createdAt := time.Now()

@@ -57,13 +57,7 @@ func main() {
 	}
 	defer db.Close()
 
-	log.Println("Running one-time migration: Randomizing product prices...")
-	_, err = db.Exec("UPDATE products SET price = ABS(RANDOM()) % 2001 + 800")
-	if err != nil {
-		log.Printf("✗ Failed to run price migration: %v", err)
-	} else {
-		log.Println("✓ Successfully randomized product prices in the database.")
-	}
+
 
 	store.SeedProducts(db)
 	if err := store.SyncFinalProducts(db); err != nil {

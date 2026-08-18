@@ -52,3 +52,7 @@ Photoroom/
 .env
 .vercel
 venv/
+check_images.py
+check_images_case.py
+import_script.py
+scratch_products.txt
