@@ -1467,7 +1467,9 @@
       "sku": "SS-FINAL-GO-42",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_03/go_03-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1495,7 +1497,9 @@
       "sku": "SS-FINAL-GO-44",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_07/go_07-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1523,7 +1527,9 @@
       "sku": "SS-FINAL-GO-45",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_10/go_10-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1551,7 +1557,9 @@
       "sku": "SS-FINAL-GO-46",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_04/go_04-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1579,7 +1587,9 @@
       "sku": "SS-FINAL-GO-47",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_10/go_10-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1607,7 +1617,9 @@
       "sku": "SS-FINAL-GO-48",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_09/go_09-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1635,7 +1647,9 @@
       "sku": "SS-FINAL-GO-49",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_04/go_04-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1663,7 +1677,9 @@
       "sku": "SS-FINAL-GO-50",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_02/go_02-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1691,7 +1707,9 @@
       "sku": "SS-FINAL-GO-51",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_07/go_07-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1719,7 +1737,9 @@
       "sku": "SS-FINAL-GO-52",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_03/go_03-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1747,7 +1767,9 @@
       "sku": "SS-FINAL-GO-53",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_10/go_10-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1775,7 +1797,9 @@
       "sku": "SS-FINAL-GO-54",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_06/go_06-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1803,7 +1827,9 @@
       "sku": "SS-FINAL-GO-55",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_02/go_02-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1831,7 +1857,9 @@
       "sku": "SS-FINAL-GO-56",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_04/go_04-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1859,7 +1887,9 @@
       "sku": "SS-FINAL-GO-57",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_02/go_02-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1887,7 +1917,9 @@
       "sku": "SS-FINAL-GO-58",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_03/go_03-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1915,7 +1947,9 @@
       "sku": "SS-FINAL-GO-59",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_08/go_08-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1943,7 +1977,9 @@
       "sku": "SS-FINAL-GO-60",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_05/go_05-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1971,7 +2007,9 @@
       "sku": "SS-FINAL-GO-61",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_04/go_04-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -1999,7 +2037,9 @@
       "sku": "SS-FINAL-GO-62",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_10/go_10-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2027,7 +2067,9 @@
       "sku": "SS-FINAL-GO-63",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_02/go_02-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2055,7 +2097,9 @@
       "sku": "SS-FINAL-GO-63-1",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_04/go_04-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2083,7 +2127,9 @@
       "sku": "SS-FINAL-GO-64",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_04/go_04-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2111,7 +2157,9 @@
       "sku": "SS-FINAL-GO-66",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_08/go_08-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2139,7 +2187,9 @@
       "sku": "SS-FINAL-GO-67",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_08/go_08-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2167,7 +2217,9 @@
       "sku": "SS-FINAL-GO-68",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_06/go_06-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2195,7 +2247,9 @@
       "sku": "SS-FINAL-GO-69",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_09/go_09-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2223,7 +2277,9 @@
       "sku": "SS-FINAL-GO-70",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_04/go_04-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2251,7 +2307,9 @@
       "sku": "SS-FINAL-GO-71",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_10/go_10-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2279,7 +2337,9 @@
       "sku": "SS-FINAL-GO-72",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_09/go_09-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2307,7 +2367,9 @@
       "sku": "SS-FINAL-GO-73",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_09/go_09-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2335,7 +2397,9 @@
       "sku": "SS-FINAL-GO-74",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_02/go_02-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2363,7 +2427,9 @@
       "sku": "SS-FINAL-GO-75",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_03/go_03-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2391,7 +2457,9 @@
       "sku": "SS-FINAL-GO-76",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_05/go_05-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2419,7 +2487,9 @@
       "sku": "SS-FINAL-GO-77",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_08/go_08-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2447,7 +2517,9 @@
       "sku": "SS-FINAL-GO-78",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_07/go_07-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2475,7 +2547,9 @@
       "sku": "SS-FINAL-GO-79",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_03/go_03-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2503,7 +2577,9 @@
       "sku": "SS-FINAL-GO-80",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_09/go_09-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2531,7 +2607,9 @@
       "sku": "SS-FINAL-GO-81",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_06/go_06-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2559,7 +2637,9 @@
       "sku": "SS-FINAL-GO-82",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_08/go_08-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2587,7 +2667,9 @@
       "sku": "SS-FINAL-GO-84",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_11/go_11-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2615,7 +2697,9 @@
       "sku": "SS-FINAL-GO-85",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_02/go_02-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2643,7 +2727,9 @@
       "sku": "SS-FINAL-GO-85-1",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_06/go_06-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2671,7 +2757,9 @@
       "sku": "SS-FINAL-GO-86",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_11/go_11-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2699,7 +2787,9 @@
       "sku": "SS-FINAL-GO-87",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_06/go_06-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2727,7 +2817,9 @@
       "sku": "SS-FINAL-GO-88",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_03/go_03-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2755,7 +2847,9 @@
       "sku": "SS-FINAL-GO-89",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_04/go_04-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2783,7 +2877,9 @@
       "sku": "SS-FINAL-GO-90",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_03/go_03-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2811,7 +2907,9 @@
       "sku": "SS-FINAL-GO-91",
       "category": "women",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_07/go_07-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2839,7 +2937,9 @@
       "sku": "SS-FINAL-GO-92",
       "category": "unisex",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_04/go_04-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
@@ -2867,7 +2967,9 @@
       "sku": "SS-FINAL-GO-93",
       "category": "men",
       "in_stock": true,
-      "images": [],
+      "images": [
+        "/final-products/go_05/go_05-01.webp"
+      ],
       "currency": "INR",
       "collection": "Core Collection",
       "sizes": [
