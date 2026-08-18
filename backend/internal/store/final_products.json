@@ -9,22 +9,11 @@
       "sku": "SS-FINAL-GO-02",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go02-01.png",
-        "/final-products/photoroom/go02-02.png"
-      ],
+      "images": "[\"/final-products/photoroom/go02-01.png\", \"/final-products/photoroom/go02-02.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -40,23 +29,11 @@
       "sku": "SS-FINAL-GO-03",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go03-01.png",
-        "/final-products/photoroom/go03-02.png",
-        "/final-products/photoroom/go03-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go03-01.png\", \"/final-products/photoroom/go03-02.png\", \"/final-products/photoroom/go03-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -72,23 +49,11 @@
       "sku": "SS-FINAL-GO-04",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go04-01.png",
-        "/final-products/photoroom/go04-02.png",
-        "/final-products/photoroom/go04-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go04-01.png\", \"/final-products/photoroom/go04-02.png\", \"/final-products/photoroom/go04-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -104,23 +69,11 @@
       "sku": "SS-FINAL-GO-05",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go05-01.png",
-        "/final-products/photoroom/go05-02.png",
-        "/final-products/photoroom/go05-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go05-01.png\", \"/final-products/photoroom/go05-02.png\", \"/final-products/photoroom/go05-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -136,23 +89,11 @@
       "sku": "SS-FINAL-GO-06",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go06-01.png",
-        "/final-products/photoroom/go06-02.png",
-        "/final-products/photoroom/go06-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go06-01.png\", \"/final-products/photoroom/go06-02.png\", \"/final-products/photoroom/go06-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -168,23 +109,11 @@
       "sku": "SS-FINAL-GO-07",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go07-01.png",
-        "/final-products/photoroom/go07-02.png",
-        "/final-products/photoroom/go07-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go07-01.png\", \"/final-products/photoroom/go07-02.png\", \"/final-products/photoroom/go07-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -200,23 +129,11 @@
       "sku": "SS-FINAL-GO-08",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go08-01.png",
-        "/final-products/photoroom/go08-02.png",
-        "/final-products/photoroom/go08-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go08-01.png\", \"/final-products/photoroom/go08-02.png\", \"/final-products/photoroom/go08-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -232,23 +149,11 @@
       "sku": "SS-FINAL-GO-09",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go09-01.png",
-        "/final-products/photoroom/go09-02.png",
-        "/final-products/photoroom/go09-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go09-01.png\", \"/final-products/photoroom/go09-02.png\", \"/final-products/photoroom/go09-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -264,23 +169,11 @@
       "sku": "SS-FINAL-GO-10",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go10-01.png",
-        "/final-products/photoroom/go10-02.png",
-        "/final-products/photoroom/go10-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go10-01.png\", \"/final-products/photoroom/go10-02.png\", \"/final-products/photoroom/go10-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -296,23 +189,11 @@
       "sku": "SS-FINAL-GO-11",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go11-01.png",
-        "/final-products/photoroom/go11-02.png",
-        "/final-products/photoroom/go11-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go11-01.png\", \"/final-products/photoroom/go11-02.png\", \"/final-products/photoroom/go11-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -328,23 +209,11 @@
       "sku": "SS-FINAL-GO-12",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go12-01.png",
-        "/final-products/photoroom/go12-02.png",
-        "/final-products/photoroom/go12-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go12-01.png\", \"/final-products/photoroom/go12-02.png\", \"/final-products/photoroom/go12-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -360,23 +229,11 @@
       "sku": "SS-FINAL-GO-13",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go13-01.png",
-        "/final-products/photoroom/go13-02.png",
-        "/final-products/photoroom/go13-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go13-01.png\", \"/final-products/photoroom/go13-02.png\", \"/final-products/photoroom/go13-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -392,23 +249,11 @@
       "sku": "SS-FINAL-GO-14",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go14-01.png",
-        "/final-products/photoroom/go14-02.png",
-        "/final-products/photoroom/go14-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go14-01.png\", \"/final-products/photoroom/go14-02.png\", \"/final-products/photoroom/go14-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -424,23 +269,11 @@
       "sku": "SS-FINAL-GO-15",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go15-01.png",
-        "/final-products/photoroom/go15-02.png",
-        "/final-products/photoroom/go15-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go15-01.png\", \"/final-products/photoroom/go15-02.png\", \"/final-products/photoroom/go15-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -456,23 +289,11 @@
       "sku": "SS-FINAL-GO-16",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go16-01.png",
-        "/final-products/photoroom/go16-02.png",
-        "/final-products/photoroom/go16-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go16-01.png\", \"/final-products/photoroom/go16-02.png\", \"/final-products/photoroom/go16-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -488,23 +309,11 @@
       "sku": "SS-FINAL-GO-17",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go17-01.png",
-        "/final-products/photoroom/go17-02.png",
-        "/final-products/photoroom/go17-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go17-01.png\", \"/final-products/photoroom/go17-02.png\", \"/final-products/photoroom/go17-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -520,23 +329,11 @@
       "sku": "SS-FINAL-GO-18",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go18-01.png",
-        "/final-products/photoroom/go18-02.png",
-        "/final-products/photoroom/go18-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go18-01.png\", \"/final-products/photoroom/go18-02.png\", \"/final-products/photoroom/go18-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -552,23 +349,11 @@
       "sku": "SS-FINAL-GO-19",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go19-01.png",
-        "/final-products/photoroom/go19-02.png",
-        "/final-products/photoroom/go19-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go19-01.png\", \"/final-products/photoroom/go19-02.png\", \"/final-products/photoroom/go19-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -584,23 +369,11 @@
       "sku": "SS-FINAL-GO-20",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go20-01.png",
-        "/final-products/photoroom/go20-02.png",
-        "/final-products/photoroom/go20-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go20-01.png\", \"/final-products/photoroom/go20-02.png\", \"/final-products/photoroom/go20-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -616,23 +389,11 @@
       "sku": "SS-FINAL-GO-21",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go21-01.png",
-        "/final-products/photoroom/go21-02.png",
-        "/final-products/photoroom/go21-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go21-01.png\", \"/final-products/photoroom/go21-02.png\", \"/final-products/photoroom/go21-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -648,23 +409,11 @@
       "sku": "SS-FINAL-GO-22",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go22-01.png",
-        "/final-products/photoroom/go22-02.png",
-        "/final-products/photoroom/go22-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go22-01.png\", \"/final-products/photoroom/go22-02.png\", \"/final-products/photoroom/go22-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -680,23 +429,11 @@
       "sku": "SS-FINAL-GO-23",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go23-01.png",
-        "/final-products/photoroom/go23-02.png",
-        "/final-products/photoroom/go23-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go23-01.png\", \"/final-products/photoroom/go23-02.png\", \"/final-products/photoroom/go23-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -712,23 +449,11 @@
       "sku": "SS-FINAL-GO-24",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go24-01.png",
-        "/final-products/photoroom/go24-02.png",
-        "/final-products/photoroom/go24-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go24-01.png\", \"/final-products/photoroom/go24-02.png\", \"/final-products/photoroom/go24-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -744,23 +469,11 @@
       "sku": "SS-FINAL-GO-25",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go25-01.png",
-        "/final-products/photoroom/go25-02.png",
-        "/final-products/photoroom/go25-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go25-01.png\", \"/final-products/photoroom/go25-02.png\", \"/final-products/photoroom/go25-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -776,23 +489,11 @@
       "sku": "SS-FINAL-GO-26",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go26-01.png",
-        "/final-products/photoroom/go26-02.png",
-        "/final-products/photoroom/go26-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go26-01.png\", \"/final-products/photoroom/go26-02.png\", \"/final-products/photoroom/go26-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -808,23 +509,11 @@
       "sku": "SS-FINAL-GO-27",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go27-01.png",
-        "/final-products/photoroom/go27-02.png",
-        "/final-products/photoroom/go27-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go27-01.png\", \"/final-products/photoroom/go27-02.png\", \"/final-products/photoroom/go27-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -840,23 +529,11 @@
       "sku": "SS-FINAL-GO-28",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go28-01.png",
-        "/final-products/photoroom/go28-02.png",
-        "/final-products/photoroom/go28-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go28-01.png\", \"/final-products/photoroom/go28-02.png\", \"/final-products/photoroom/go28-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -872,23 +549,11 @@
       "sku": "SS-FINAL-GO-29",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go29-01.png",
-        "/final-products/photoroom/go29-02.png",
-        "/final-products/photoroom/go29-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go29-01.png\", \"/final-products/photoroom/go29-02.png\", \"/final-products/photoroom/go29-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -904,23 +569,11 @@
       "sku": "SS-FINAL-GO-30",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go30-01.png",
-        "/final-products/photoroom/go30-02.png",
-        "/final-products/photoroom/go30-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go30-01.png\", \"/final-products/photoroom/go30-02.png\", \"/final-products/photoroom/go30-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -936,23 +589,11 @@
       "sku": "SS-FINAL-GO-31",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go31-01.png",
-        "/final-products/photoroom/go31-02.png",
-        "/final-products/photoroom/go31-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go31-01.png\", \"/final-products/photoroom/go31-02.png\", \"/final-products/photoroom/go31-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -968,23 +609,11 @@
       "sku": "SS-FINAL-GO-32",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go32-01.png",
-        "/final-products/photoroom/go32-02.png",
-        "/final-products/photoroom/go32-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go32-01.png\", \"/final-products/photoroom/go32-02.png\", \"/final-products/photoroom/go32-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1000,23 +629,11 @@
       "sku": "SS-FINAL-GO-33",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go33-01.png",
-        "/final-products/photoroom/go33-02.png",
-        "/final-products/photoroom/go33-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go33-01.png\", \"/final-products/photoroom/go33-02.png\", \"/final-products/photoroom/go33-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1032,23 +649,11 @@
       "sku": "SS-FINAL-GO-34",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go34-01.png",
-        "/final-products/photoroom/go34-02.png",
-        "/final-products/photoroom/go34-03.png"
-      ],
+      "images": "[\"/final-products/photoroom/go34-01.png\", \"/final-products/photoroom/go34-02.png\", \"/final-products/photoroom/go34-03.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1064,22 +669,11 @@
       "sku": "SS-FINAL-GO-35",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go35-01.png",
-        "/final-products/photoroom/go35-02.png"
-      ],
+      "images": "[\"/final-products/photoroom/go35-01.png\", \"/final-products/photoroom/go35-02.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1095,22 +689,11 @@
       "sku": "SS-FINAL-GO-36",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go36-01.png",
-        "/final-products/photoroom/go36-02.png"
-      ],
+      "images": "[\"/final-products/photoroom/go36-01.png\", \"/final-products/photoroom/go36-02.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1126,22 +709,11 @@
       "sku": "SS-FINAL-GO-37",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go37-01.png",
-        "/final-products/photoroom/go37-02.png"
-      ],
+      "images": "[\"/final-products/photoroom/go37-01.png\", \"/final-products/photoroom/go37-02.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1157,22 +729,11 @@
       "sku": "SS-FINAL-GO-38",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go38-01.png",
-        "/final-products/photoroom/go38-02.png"
-      ],
+      "images": "[\"/final-products/photoroom/go38-01.png\", \"/final-products/photoroom/go38-02.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1188,22 +749,11 @@
       "sku": "SS-FINAL-GO-39",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go39-01.png",
-        "/final-products/photoroom/go39-02.png"
-      ],
+      "images": "[\"/final-products/photoroom/go39-01.png\", \"/final-products/photoroom/go39-02.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1219,22 +769,11 @@
       "sku": "SS-FINAL-GO-40",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go40-01.png",
-        "/final-products/photoroom/go40-02.png"
-      ],
+      "images": "[\"/final-products/photoroom/go40-01.png\", \"/final-products/photoroom/go40-02.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1250,22 +789,11 @@
       "sku": "SS-FINAL-GO-41",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go41-01.png",
-        "/final-products/photoroom/go41-02.png"
-      ],
+      "images": "[\"/final-products/photoroom/go41-01.png\", \"/final-products/photoroom/go41-02.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1281,22 +809,11 @@
       "sku": "SS-FINAL-GO-43",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/photoroom/go43-01.png",
-        "/final-products/photoroom/go43-02.png"
-      ],
+      "images": "[\"/final-products/photoroom/go43-01.png\", \"/final-products/photoroom/go43-02.png\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1312,26 +829,11 @@
       "sku": "SS-FINAL-AUG1-GROUP-01",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug1_group_01/aug1_group_01-01.webp",
-        "/final-products/aug1_group_01/aug1_group_01-02.webp",
-        "/final-products/aug1_group_01/aug1_group_01-03.webp",
-        "/final-products/aug1_group_01/aug1_group_01-04.webp",
-        "/final-products/aug1_group_01/aug1_group_01-05.webp",
-        "/final-products/aug1_group_01/aug1_group_01-06.webp"
-      ],
+      "images": "[\"/final-products/aug1_group_01/aug1_group_01-01.webp\", \"/final-products/aug1_group_01/aug1_group_01-02.webp\", \"/final-products/aug1_group_01/aug1_group_01-03.webp\", \"/final-products/aug1_group_01/aug1_group_01-04.webp\", \"/final-products/aug1_group_01/aug1_group_01-05.webp\", \"/final-products/aug1_group_01/aug1_group_01-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1347,26 +849,11 @@
       "sku": "SS-FINAL-AUG1-GROUP-02",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug1_group_02/aug1_group_02-01.webp",
-        "/final-products/aug1_group_02/aug1_group_02-02.webp",
-        "/final-products/aug1_group_02/aug1_group_02-03.webp",
-        "/final-products/aug1_group_02/aug1_group_02-04.webp",
-        "/final-products/aug1_group_02/aug1_group_02-05.webp",
-        "/final-products/aug1_group_02/aug1_group_02-06.webp"
-      ],
+      "images": "[\"/final-products/aug1_group_02/aug1_group_02-01.webp\", \"/final-products/aug1_group_02/aug1_group_02-02.webp\", \"/final-products/aug1_group_02/aug1_group_02-03.webp\", \"/final-products/aug1_group_02/aug1_group_02-04.webp\", \"/final-products/aug1_group_02/aug1_group_02-05.webp\", \"/final-products/aug1_group_02/aug1_group_02-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1382,26 +869,11 @@
       "sku": "SS-FINAL-AUG1-GROUP-03",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug1_group_03/aug1_group_03-01.webp",
-        "/final-products/aug1_group_03/aug1_group_03-02.webp",
-        "/final-products/aug1_group_03/aug1_group_03-03.webp",
-        "/final-products/aug1_group_03/aug1_group_03-04.webp",
-        "/final-products/aug1_group_03/aug1_group_03-05.webp",
-        "/final-products/aug1_group_03/aug1_group_03-06.webp"
-      ],
+      "images": "[\"/final-products/aug1_group_03/aug1_group_03-01.webp\", \"/final-products/aug1_group_03/aug1_group_03-02.webp\", \"/final-products/aug1_group_03/aug1_group_03-03.webp\", \"/final-products/aug1_group_03/aug1_group_03-04.webp\", \"/final-products/aug1_group_03/aug1_group_03-05.webp\", \"/final-products/aug1_group_03/aug1_group_03-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1417,26 +889,11 @@
       "sku": "SS-FINAL-AUG1-GROUP-04",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug1_group_04/aug1_group_04-01.webp",
-        "/final-products/aug1_group_04/aug1_group_04-02.webp",
-        "/final-products/aug1_group_04/aug1_group_04-03.webp",
-        "/final-products/aug1_group_04/aug1_group_04-04.webp",
-        "/final-products/aug1_group_04/aug1_group_04-05.webp",
-        "/final-products/aug1_group_04/aug1_group_04-06.webp"
-      ],
+      "images": "[\"/final-products/aug1_group_04/aug1_group_04-01.webp\", \"/final-products/aug1_group_04/aug1_group_04-02.webp\", \"/final-products/aug1_group_04/aug1_group_04-03.webp\", \"/final-products/aug1_group_04/aug1_group_04-04.webp\", \"/final-products/aug1_group_04/aug1_group_04-05.webp\", \"/final-products/aug1_group_04/aug1_group_04-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1452,26 +909,11 @@
       "sku": "SS-FINAL-AUG1-GROUP-05",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug1_group_05/aug1_group_05-01.webp",
-        "/final-products/aug1_group_05/aug1_group_05-02.webp",
-        "/final-products/aug1_group_05/aug1_group_05-03.webp",
-        "/final-products/aug1_group_05/aug1_group_05-04.webp",
-        "/final-products/aug1_group_05/aug1_group_05-05.webp",
-        "/final-products/aug1_group_05/aug1_group_05-06.webp"
-      ],
+      "images": "[\"/final-products/aug1_group_05/aug1_group_05-01.webp\", \"/final-products/aug1_group_05/aug1_group_05-02.webp\", \"/final-products/aug1_group_05/aug1_group_05-03.webp\", \"/final-products/aug1_group_05/aug1_group_05-04.webp\", \"/final-products/aug1_group_05/aug1_group_05-05.webp\", \"/final-products/aug1_group_05/aug1_group_05-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1487,26 +929,11 @@
       "sku": "SS-FINAL-AUG1-GROUP-06",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug1_group_06/aug1_group_06-01.webp",
-        "/final-products/aug1_group_06/aug1_group_06-02.webp",
-        "/final-products/aug1_group_06/aug1_group_06-03.webp",
-        "/final-products/aug1_group_06/aug1_group_06-04.webp",
-        "/final-products/aug1_group_06/aug1_group_06-05.webp",
-        "/final-products/aug1_group_06/aug1_group_06-06.webp"
-      ],
+      "images": "[\"/final-products/aug1_group_06/aug1_group_06-01.webp\", \"/final-products/aug1_group_06/aug1_group_06-02.webp\", \"/final-products/aug1_group_06/aug1_group_06-03.webp\", \"/final-products/aug1_group_06/aug1_group_06-04.webp\", \"/final-products/aug1_group_06/aug1_group_06-05.webp\", \"/final-products/aug1_group_06/aug1_group_06-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1522,26 +949,11 @@
       "sku": "SS-FINAL-AUG1-GROUP-07",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug1_group_07/aug1_group_07-01.webp",
-        "/final-products/aug1_group_07/aug1_group_07-02.webp",
-        "/final-products/aug1_group_07/aug1_group_07-03.webp",
-        "/final-products/aug1_group_07/aug1_group_07-04.webp",
-        "/final-products/aug1_group_07/aug1_group_07-05.webp",
-        "/final-products/aug1_group_07/aug1_group_07-06.webp"
-      ],
+      "images": "[\"/final-products/aug1_group_07/aug1_group_07-01.webp\", \"/final-products/aug1_group_07/aug1_group_07-02.webp\", \"/final-products/aug1_group_07/aug1_group_07-03.webp\", \"/final-products/aug1_group_07/aug1_group_07-04.webp\", \"/final-products/aug1_group_07/aug1_group_07-05.webp\", \"/final-products/aug1_group_07/aug1_group_07-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1557,26 +969,11 @@
       "sku": "SS-FINAL-AUG1-GROUP-08",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug1_group_08/aug1_group_08-01.webp",
-        "/final-products/aug1_group_08/aug1_group_08-02.webp",
-        "/final-products/aug1_group_08/aug1_group_08-03.webp",
-        "/final-products/aug1_group_08/aug1_group_08-04.webp",
-        "/final-products/aug1_group_08/aug1_group_08-05.webp",
-        "/final-products/aug1_group_08/aug1_group_08-06.webp"
-      ],
+      "images": "[\"/final-products/aug1_group_08/aug1_group_08-01.webp\", \"/final-products/aug1_group_08/aug1_group_08-02.webp\", \"/final-products/aug1_group_08/aug1_group_08-03.webp\", \"/final-products/aug1_group_08/aug1_group_08-04.webp\", \"/final-products/aug1_group_08/aug1_group_08-05.webp\", \"/final-products/aug1_group_08/aug1_group_08-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1592,26 +989,11 @@
       "sku": "SS-FINAL-AUG1-GROUP-09",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug1_group_09/aug1_group_09-01.webp",
-        "/final-products/aug1_group_09/aug1_group_09-02.webp",
-        "/final-products/aug1_group_09/aug1_group_09-03.webp",
-        "/final-products/aug1_group_09/aug1_group_09-04.webp",
-        "/final-products/aug1_group_09/aug1_group_09-05.webp",
-        "/final-products/aug1_group_09/aug1_group_09-06.webp"
-      ],
+      "images": "[\"/final-products/aug1_group_09/aug1_group_09-01.webp\", \"/final-products/aug1_group_09/aug1_group_09-02.webp\", \"/final-products/aug1_group_09/aug1_group_09-03.webp\", \"/final-products/aug1_group_09/aug1_group_09-04.webp\", \"/final-products/aug1_group_09/aug1_group_09-05.webp\", \"/final-products/aug1_group_09/aug1_group_09-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1627,24 +1009,11 @@
       "sku": "SS-FINAL-AUG1-GROUP-10",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug1_group_10/aug1_group_10-01.webp",
-        "/final-products/aug1_group_10/aug1_group_10-02.webp",
-        "/final-products/aug1_group_10/aug1_group_10-03.webp",
-        "/final-products/aug1_group_10/aug1_group_10-04.webp"
-      ],
+      "images": "[\"/final-products/aug1_group_10/aug1_group_10-01.webp\", \"/final-products/aug1_group_10/aug1_group_10-02.webp\", \"/final-products/aug1_group_10/aug1_group_10-03.webp\", \"/final-products/aug1_group_10/aug1_group_10-04.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1660,26 +1029,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-01",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_01/aug8_group_01-01.webp",
-        "/final-products/aug8_group_01/aug8_group_01-02.webp",
-        "/final-products/aug8_group_01/aug8_group_01-03.webp",
-        "/final-products/aug8_group_01/aug8_group_01-04.webp",
-        "/final-products/aug8_group_01/aug8_group_01-05.webp",
-        "/final-products/aug8_group_01/aug8_group_01-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_01/aug8_group_01-01.webp\", \"/final-products/aug8_group_01/aug8_group_01-02.webp\", \"/final-products/aug8_group_01/aug8_group_01-03.webp\", \"/final-products/aug8_group_01/aug8_group_01-04.webp\", \"/final-products/aug8_group_01/aug8_group_01-05.webp\", \"/final-products/aug8_group_01/aug8_group_01-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1695,26 +1049,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-02",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_02/aug8_group_02-01.webp",
-        "/final-products/aug8_group_02/aug8_group_02-02.webp",
-        "/final-products/aug8_group_02/aug8_group_02-03.webp",
-        "/final-products/aug8_group_02/aug8_group_02-04.webp",
-        "/final-products/aug8_group_02/aug8_group_02-05.webp",
-        "/final-products/aug8_group_02/aug8_group_02-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_02/aug8_group_02-01.webp\", \"/final-products/aug8_group_02/aug8_group_02-02.webp\", \"/final-products/aug8_group_02/aug8_group_02-03.webp\", \"/final-products/aug8_group_02/aug8_group_02-04.webp\", \"/final-products/aug8_group_02/aug8_group_02-05.webp\", \"/final-products/aug8_group_02/aug8_group_02-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1730,26 +1069,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-03",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_03/aug8_group_03-01.webp",
-        "/final-products/aug8_group_03/aug8_group_03-02.webp",
-        "/final-products/aug8_group_03/aug8_group_03-03.webp",
-        "/final-products/aug8_group_03/aug8_group_03-04.webp",
-        "/final-products/aug8_group_03/aug8_group_03-05.webp",
-        "/final-products/aug8_group_03/aug8_group_03-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_03/aug8_group_03-01.webp\", \"/final-products/aug8_group_03/aug8_group_03-02.webp\", \"/final-products/aug8_group_03/aug8_group_03-03.webp\", \"/final-products/aug8_group_03/aug8_group_03-04.webp\", \"/final-products/aug8_group_03/aug8_group_03-05.webp\", \"/final-products/aug8_group_03/aug8_group_03-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1765,26 +1089,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-04",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_04/aug8_group_04-01.webp",
-        "/final-products/aug8_group_04/aug8_group_04-02.webp",
-        "/final-products/aug8_group_04/aug8_group_04-03.webp",
-        "/final-products/aug8_group_04/aug8_group_04-04.webp",
-        "/final-products/aug8_group_04/aug8_group_04-05.webp",
-        "/final-products/aug8_group_04/aug8_group_04-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_04/aug8_group_04-01.webp\", \"/final-products/aug8_group_04/aug8_group_04-02.webp\", \"/final-products/aug8_group_04/aug8_group_04-03.webp\", \"/final-products/aug8_group_04/aug8_group_04-04.webp\", \"/final-products/aug8_group_04/aug8_group_04-05.webp\", \"/final-products/aug8_group_04/aug8_group_04-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1800,26 +1109,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-05",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_05/aug8_group_05-01.webp",
-        "/final-products/aug8_group_05/aug8_group_05-02.webp",
-        "/final-products/aug8_group_05/aug8_group_05-03.webp",
-        "/final-products/aug8_group_05/aug8_group_05-04.webp",
-        "/final-products/aug8_group_05/aug8_group_05-05.webp",
-        "/final-products/aug8_group_05/aug8_group_05-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_05/aug8_group_05-01.webp\", \"/final-products/aug8_group_05/aug8_group_05-02.webp\", \"/final-products/aug8_group_05/aug8_group_05-03.webp\", \"/final-products/aug8_group_05/aug8_group_05-04.webp\", \"/final-products/aug8_group_05/aug8_group_05-05.webp\", \"/final-products/aug8_group_05/aug8_group_05-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1835,26 +1129,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-06",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_06/aug8_group_06-01.webp",
-        "/final-products/aug8_group_06/aug8_group_06-02.webp",
-        "/final-products/aug8_group_06/aug8_group_06-03.webp",
-        "/final-products/aug8_group_06/aug8_group_06-04.webp",
-        "/final-products/aug8_group_06/aug8_group_06-05.webp",
-        "/final-products/aug8_group_06/aug8_group_06-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_06/aug8_group_06-01.webp\", \"/final-products/aug8_group_06/aug8_group_06-02.webp\", \"/final-products/aug8_group_06/aug8_group_06-03.webp\", \"/final-products/aug8_group_06/aug8_group_06-04.webp\", \"/final-products/aug8_group_06/aug8_group_06-05.webp\", \"/final-products/aug8_group_06/aug8_group_06-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1870,26 +1149,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-07",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_07/aug8_group_07-01.webp",
-        "/final-products/aug8_group_07/aug8_group_07-02.webp",
-        "/final-products/aug8_group_07/aug8_group_07-03.webp",
-        "/final-products/aug8_group_07/aug8_group_07-04.webp",
-        "/final-products/aug8_group_07/aug8_group_07-05.webp",
-        "/final-products/aug8_group_07/aug8_group_07-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_07/aug8_group_07-01.webp\", \"/final-products/aug8_group_07/aug8_group_07-02.webp\", \"/final-products/aug8_group_07/aug8_group_07-03.webp\", \"/final-products/aug8_group_07/aug8_group_07-04.webp\", \"/final-products/aug8_group_07/aug8_group_07-05.webp\", \"/final-products/aug8_group_07/aug8_group_07-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1905,26 +1169,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-08",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_08/aug8_group_08-01.webp",
-        "/final-products/aug8_group_08/aug8_group_08-02.webp",
-        "/final-products/aug8_group_08/aug8_group_08-03.webp",
-        "/final-products/aug8_group_08/aug8_group_08-04.webp",
-        "/final-products/aug8_group_08/aug8_group_08-05.webp",
-        "/final-products/aug8_group_08/aug8_group_08-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_08/aug8_group_08-01.webp\", \"/final-products/aug8_group_08/aug8_group_08-02.webp\", \"/final-products/aug8_group_08/aug8_group_08-03.webp\", \"/final-products/aug8_group_08/aug8_group_08-04.webp\", \"/final-products/aug8_group_08/aug8_group_08-05.webp\", \"/final-products/aug8_group_08/aug8_group_08-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1940,26 +1189,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-09",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_09/aug8_group_09-01.webp",
-        "/final-products/aug8_group_09/aug8_group_09-02.webp",
-        "/final-products/aug8_group_09/aug8_group_09-03.webp",
-        "/final-products/aug8_group_09/aug8_group_09-04.webp",
-        "/final-products/aug8_group_09/aug8_group_09-05.webp",
-        "/final-products/aug8_group_09/aug8_group_09-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_09/aug8_group_09-01.webp\", \"/final-products/aug8_group_09/aug8_group_09-02.webp\", \"/final-products/aug8_group_09/aug8_group_09-03.webp\", \"/final-products/aug8_group_09/aug8_group_09-04.webp\", \"/final-products/aug8_group_09/aug8_group_09-05.webp\", \"/final-products/aug8_group_09/aug8_group_09-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -1975,26 +1209,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-10",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_10/aug8_group_10-01.webp",
-        "/final-products/aug8_group_10/aug8_group_10-02.webp",
-        "/final-products/aug8_group_10/aug8_group_10-03.webp",
-        "/final-products/aug8_group_10/aug8_group_10-04.webp",
-        "/final-products/aug8_group_10/aug8_group_10-05.webp",
-        "/final-products/aug8_group_10/aug8_group_10-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_10/aug8_group_10-01.webp\", \"/final-products/aug8_group_10/aug8_group_10-02.webp\", \"/final-products/aug8_group_10/aug8_group_10-03.webp\", \"/final-products/aug8_group_10/aug8_group_10-04.webp\", \"/final-products/aug8_group_10/aug8_group_10-05.webp\", \"/final-products/aug8_group_10/aug8_group_10-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -2010,26 +1229,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-11",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_11/aug8_group_11-01.webp",
-        "/final-products/aug8_group_11/aug8_group_11-02.webp",
-        "/final-products/aug8_group_11/aug8_group_11-03.webp",
-        "/final-products/aug8_group_11/aug8_group_11-04.webp",
-        "/final-products/aug8_group_11/aug8_group_11-05.webp",
-        "/final-products/aug8_group_11/aug8_group_11-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_11/aug8_group_11-01.webp\", \"/final-products/aug8_group_11/aug8_group_11-02.webp\", \"/final-products/aug8_group_11/aug8_group_11-03.webp\", \"/final-products/aug8_group_11/aug8_group_11-04.webp\", \"/final-products/aug8_group_11/aug8_group_11-05.webp\", \"/final-products/aug8_group_11/aug8_group_11-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -2045,26 +1249,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-12",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_12/aug8_group_12-01.webp",
-        "/final-products/aug8_group_12/aug8_group_12-02.webp",
-        "/final-products/aug8_group_12/aug8_group_12-03.webp",
-        "/final-products/aug8_group_12/aug8_group_12-04.webp",
-        "/final-products/aug8_group_12/aug8_group_12-05.webp",
-        "/final-products/aug8_group_12/aug8_group_12-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_12/aug8_group_12-01.webp\", \"/final-products/aug8_group_12/aug8_group_12-02.webp\", \"/final-products/aug8_group_12/aug8_group_12-03.webp\", \"/final-products/aug8_group_12/aug8_group_12-04.webp\", \"/final-products/aug8_group_12/aug8_group_12-05.webp\", \"/final-products/aug8_group_12/aug8_group_12-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -2080,26 +1269,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-13",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_13/aug8_group_13-01.webp",
-        "/final-products/aug8_group_13/aug8_group_13-02.webp",
-        "/final-products/aug8_group_13/aug8_group_13-03.webp",
-        "/final-products/aug8_group_13/aug8_group_13-04.webp",
-        "/final-products/aug8_group_13/aug8_group_13-05.webp",
-        "/final-products/aug8_group_13/aug8_group_13-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_13/aug8_group_13-01.webp\", \"/final-products/aug8_group_13/aug8_group_13-02.webp\", \"/final-products/aug8_group_13/aug8_group_13-03.webp\", \"/final-products/aug8_group_13/aug8_group_13-04.webp\", \"/final-products/aug8_group_13/aug8_group_13-05.webp\", \"/final-products/aug8_group_13/aug8_group_13-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -2115,26 +1289,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-14",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_14/aug8_group_14-01.webp",
-        "/final-products/aug8_group_14/aug8_group_14-02.webp",
-        "/final-products/aug8_group_14/aug8_group_14-03.webp",
-        "/final-products/aug8_group_14/aug8_group_14-04.webp",
-        "/final-products/aug8_group_14/aug8_group_14-05.webp",
-        "/final-products/aug8_group_14/aug8_group_14-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_14/aug8_group_14-01.webp\", \"/final-products/aug8_group_14/aug8_group_14-02.webp\", \"/final-products/aug8_group_14/aug8_group_14-03.webp\", \"/final-products/aug8_group_14/aug8_group_14-04.webp\", \"/final-products/aug8_group_14/aug8_group_14-05.webp\", \"/final-products/aug8_group_14/aug8_group_14-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -2150,26 +1309,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-15",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_15/aug8_group_15-01.webp",
-        "/final-products/aug8_group_15/aug8_group_15-02.webp",
-        "/final-products/aug8_group_15/aug8_group_15-03.webp",
-        "/final-products/aug8_group_15/aug8_group_15-04.webp",
-        "/final-products/aug8_group_15/aug8_group_15-05.webp",
-        "/final-products/aug8_group_15/aug8_group_15-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_15/aug8_group_15-01.webp\", \"/final-products/aug8_group_15/aug8_group_15-02.webp\", \"/final-products/aug8_group_15/aug8_group_15-03.webp\", \"/final-products/aug8_group_15/aug8_group_15-04.webp\", \"/final-products/aug8_group_15/aug8_group_15-05.webp\", \"/final-products/aug8_group_15/aug8_group_15-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -2185,26 +1329,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-16",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_16/aug8_group_16-01.webp",
-        "/final-products/aug8_group_16/aug8_group_16-02.webp",
-        "/final-products/aug8_group_16/aug8_group_16-03.webp",
-        "/final-products/aug8_group_16/aug8_group_16-04.webp",
-        "/final-products/aug8_group_16/aug8_group_16-05.webp",
-        "/final-products/aug8_group_16/aug8_group_16-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_16/aug8_group_16-01.webp\", \"/final-products/aug8_group_16/aug8_group_16-02.webp\", \"/final-products/aug8_group_16/aug8_group_16-03.webp\", \"/final-products/aug8_group_16/aug8_group_16-04.webp\", \"/final-products/aug8_group_16/aug8_group_16-05.webp\", \"/final-products/aug8_group_16/aug8_group_16-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -2220,26 +1349,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-17",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_17/aug8_group_17-01.webp",
-        "/final-products/aug8_group_17/aug8_group_17-02.webp",
-        "/final-products/aug8_group_17/aug8_group_17-03.webp",
-        "/final-products/aug8_group_17/aug8_group_17-04.webp",
-        "/final-products/aug8_group_17/aug8_group_17-05.webp",
-        "/final-products/aug8_group_17/aug8_group_17-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_17/aug8_group_17-01.webp\", \"/final-products/aug8_group_17/aug8_group_17-02.webp\", \"/final-products/aug8_group_17/aug8_group_17-03.webp\", \"/final-products/aug8_group_17/aug8_group_17-04.webp\", \"/final-products/aug8_group_17/aug8_group_17-05.webp\", \"/final-products/aug8_group_17/aug8_group_17-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -2255,26 +1369,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-18",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_18/aug8_group_18-01.webp",
-        "/final-products/aug8_group_18/aug8_group_18-02.webp",
-        "/final-products/aug8_group_18/aug8_group_18-03.webp",
-        "/final-products/aug8_group_18/aug8_group_18-04.webp",
-        "/final-products/aug8_group_18/aug8_group_18-05.webp",
-        "/final-products/aug8_group_18/aug8_group_18-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_18/aug8_group_18-01.webp\", \"/final-products/aug8_group_18/aug8_group_18-02.webp\", \"/final-products/aug8_group_18/aug8_group_18-03.webp\", \"/final-products/aug8_group_18/aug8_group_18-04.webp\", \"/final-products/aug8_group_18/aug8_group_18-05.webp\", \"/final-products/aug8_group_18/aug8_group_18-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -2290,26 +1389,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-19",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_19/aug8_group_19-01.webp",
-        "/final-products/aug8_group_19/aug8_group_19-02.webp",
-        "/final-products/aug8_group_19/aug8_group_19-03.webp",
-        "/final-products/aug8_group_19/aug8_group_19-04.webp",
-        "/final-products/aug8_group_19/aug8_group_19-05.webp",
-        "/final-products/aug8_group_19/aug8_group_19-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_19/aug8_group_19-01.webp\", \"/final-products/aug8_group_19/aug8_group_19-02.webp\", \"/final-products/aug8_group_19/aug8_group_19-03.webp\", \"/final-products/aug8_group_19/aug8_group_19-04.webp\", \"/final-products/aug8_group_19/aug8_group_19-05.webp\", \"/final-products/aug8_group_19/aug8_group_19-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -2325,26 +1409,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-20",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_20/aug8_group_20-01.webp",
-        "/final-products/aug8_group_20/aug8_group_20-02.webp",
-        "/final-products/aug8_group_20/aug8_group_20-03.webp",
-        "/final-products/aug8_group_20/aug8_group_20-04.webp",
-        "/final-products/aug8_group_20/aug8_group_20-05.webp",
-        "/final-products/aug8_group_20/aug8_group_20-06.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_20/aug8_group_20-01.webp\", \"/final-products/aug8_group_20/aug8_group_20-02.webp\", \"/final-products/aug8_group_20/aug8_group_20-03.webp\", \"/final-products/aug8_group_20/aug8_group_20-04.webp\", \"/final-products/aug8_group_20/aug8_group_20-05.webp\", \"/final-products/aug8_group_20/aug8_group_20-06.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -2360,25 +1429,11 @@
       "sku": "SS-FINAL-AUG8-GROUP-21",
       "category": "women",
       "in_stock": true,
-      "images": [
-        "/final-products/aug8_group_21/aug8_group_21-01.webp",
-        "/final-products/aug8_group_21/aug8_group_21-02.webp",
-        "/final-products/aug8_group_21/aug8_group_21-03.webp",
-        "/final-products/aug8_group_21/aug8_group_21-04.webp",
-        "/final-products/aug8_group_21/aug8_group_21-05.webp"
-      ],
+      "images": "[\"/final-products/aug8_group_21/aug8_group_21-01.webp\", \"/final-products/aug8_group_21/aug8_group_21-02.webp\", \"/final-products/aug8_group_21/aug8_group_21-03.webp\", \"/final-products/aug8_group_21/aug8_group_21-04.webp\", \"/final-products/aug8_group_21/aug8_group_21-05.webp\"]",
       "currency": "INR",
       "collection": "Core Collection",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        "Void Black"
-      ],
+      "sizes": "[\"XS\", \"S\", \"M\", \"L\", \"XL\"]",
+      "colors": "[\"Void Black\"]",
       "featured": false,
       "created_at": "2026-08-16T00:00:00Z",
       "updated_at": "2026-08-16T00:00:00Z",
@@ -2396,11 +1451,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_47-01.jpg",
-        "/final-products/new_products/go_47-02.jpg",
-        "/final-products/new_products/go_47-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_47-01.jpg\", \"/final-products/new_products/go_47-02.jpg\", \"/final-products/new_products/go_47-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-47",
       "is_featured": true,
@@ -2418,12 +1469,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_45-01.jpg",
-        "/final-products/new_products/go_45-02.jpg",
-        "/final-products/new_products/go_45-03.jpg",
-        "/final-products/new_products/go_45-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_45-01.jpg\", \"/final-products/new_products/go_45-02.jpg\", \"/final-products/new_products/go_45-03.jpg\", \"/final-products/new_products/go_45-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-45",
       "is_featured": true,
@@ -2441,12 +1487,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_44-01.jpg",
-        "/final-products/new_products/go_44-02.jpg",
-        "/final-products/new_products/go_44-03.jpg",
-        "/final-products/new_products/go_44-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_44-01.jpg\", \"/final-products/new_products/go_44-02.jpg\", \"/final-products/new_products/go_44-03.jpg\", \"/final-products/new_products/go_44-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-44",
       "is_featured": true,
@@ -2464,11 +1505,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_46-01.jpg",
-        "/final-products/new_products/go_46-02.jpg",
-        "/final-products/new_products/go_46-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_46-01.jpg\", \"/final-products/new_products/go_46-02.jpg\", \"/final-products/new_products/go_46-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-46",
       "is_featured": true,
@@ -2486,14 +1523,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_42-01.jpg",
-        "/final-products/new_products/go_42-02.jpg",
-        "/final-products/new_products/go_42-03.jpg",
-        "/final-products/new_products/go_42-04.jpg",
-        "/final-products/new_products/go_42-05.jpg",
-        "/final-products/new_products/go_42-06.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_42-01.jpg\", \"/final-products/new_products/go_42-02.jpg\", \"/final-products/new_products/go_42-03.jpg\", \"/final-products/new_products/go_42-04.jpg\", \"/final-products/new_products/go_42-05.jpg\", \"/final-products/new_products/go_42-06.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-42",
       "is_featured": true,
@@ -2511,14 +1541,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_56-01.jpg",
-        "/final-products/new_products/go_56-02.jpg",
-        "/final-products/new_products/go_56-03.jpg",
-        "/final-products/new_products/go_56-04.jpg",
-        "/final-products/new_products/go_56-05.jpg",
-        "/final-products/new_products/go_56-06.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_56-01.jpg\", \"/final-products/new_products/go_56-02.jpg\", \"/final-products/new_products/go_56-03.jpg\", \"/final-products/new_products/go_56-04.jpg\", \"/final-products/new_products/go_56-05.jpg\", \"/final-products/new_products/go_56-06.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-56",
       "is_featured": true,
@@ -2536,11 +1559,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_69-01.jpg",
-        "/final-products/new_products/go_69-02.jpg",
-        "/final-products/new_products/go_69-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_69-01.jpg\", \"/final-products/new_products/go_69-02.jpg\", \"/final-products/new_products/go_69-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-69",
       "is_featured": true,
@@ -2558,13 +1577,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_51-01.jpg",
-        "/final-products/new_products/go_51-02.jpg",
-        "/final-products/new_products/go_51-03.jpg",
-        "/final-products/new_products/go_51-04.jpg",
-        "/final-products/new_products/go_51-05.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_51-01.jpg\", \"/final-products/new_products/go_51-02.jpg\", \"/final-products/new_products/go_51-03.jpg\", \"/final-products/new_products/go_51-04.jpg\", \"/final-products/new_products/go_51-05.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-51",
       "is_featured": true,
@@ -2582,11 +1595,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_67-01.jpg",
-        "/final-products/new_products/go_67-02.jpg",
-        "/final-products/new_products/go_67-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_67-01.jpg\", \"/final-products/new_products/go_67-02.jpg\", \"/final-products/new_products/go_67-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-67",
       "is_featured": true,
@@ -2604,11 +1613,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_93-01.jpg",
-        "/final-products/new_products/go_93-02.jpg",
-        "/final-products/new_products/go_93-03.png"
-      ],
+      "images": "[\"/final-products/new_products/go_93-01.jpg\", \"/final-products/new_products/go_93-02.jpg\", \"/final-products/new_products/go_93-03.png\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-93",
       "is_featured": true,
@@ -2626,11 +1631,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_58-01.jpg",
-        "/final-products/new_products/go_58-02.jpg",
-        "/final-products/new_products/go_58-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_58-01.jpg\", \"/final-products/new_products/go_58-02.jpg\", \"/final-products/new_products/go_58-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-58",
       "is_featured": true,
@@ -2648,15 +1649,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_60-01.jpg",
-        "/final-products/new_products/go_60-02.jpg",
-        "/final-products/new_products/go_60-03.jpg",
-        "/final-products/new_products/go_60-04.jpg",
-        "/final-products/new_products/go_60-05.jpg",
-        "/final-products/new_products/go_60-06.jpg",
-        "/final-products/new_products/go_60-07.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_60-01.jpg\", \"/final-products/new_products/go_60-02.jpg\", \"/final-products/new_products/go_60-03.jpg\", \"/final-products/new_products/go_60-04.jpg\", \"/final-products/new_products/go_60-05.jpg\", \"/final-products/new_products/go_60-06.jpg\", \"/final-products/new_products/go_60-07.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-60",
       "is_featured": true,
@@ -2674,13 +1667,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_61-01.jpg",
-        "/final-products/new_products/go_61-02.jpg",
-        "/final-products/new_products/go_61-03.jpg",
-        "/final-products/new_products/go_61-04.jpg",
-        "/final-products/new_products/go_61-05.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_61-01.jpg\", \"/final-products/new_products/go_61-02.jpg\", \"/final-products/new_products/go_61-03.jpg\", \"/final-products/new_products/go_61-04.jpg\", \"/final-products/new_products/go_61-05.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-61",
       "is_featured": true,
@@ -2698,13 +1685,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_92-01.jpg",
-        "/final-products/new_products/go_92-02.jpg",
-        "/final-products/new_products/go_92-03.jpg",
-        "/final-products/new_products/go_92-04.jpg",
-        "/final-products/new_products/go_92-05.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_92-01.jpg\", \"/final-products/new_products/go_92-02.jpg\", \"/final-products/new_products/go_92-03.jpg\", \"/final-products/new_products/go_92-04.jpg\", \"/final-products/new_products/go_92-05.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-92",
       "is_featured": true,
@@ -2722,11 +1703,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_66-01.jpg",
-        "/final-products/new_products/go_66-02.jpg",
-        "/final-products/new_products/go_66-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_66-01.jpg\", \"/final-products/new_products/go_66-02.jpg\", \"/final-products/new_products/go_66-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-66",
       "is_featured": true,
@@ -2744,12 +1721,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_63-01.jpg",
-        "/final-products/new_products/go_63-02.jpg",
-        "/final-products/new_products/go_63-03.jpg",
-        "/final-products/new_products/go_63-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_63-01.jpg\", \"/final-products/new_products/go_63-02.jpg\", \"/final-products/new_products/go_63-03.jpg\", \"/final-products/new_products/go_63-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-63-1",
       "is_featured": true,
@@ -2767,12 +1739,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_59-01.jpg",
-        "/final-products/new_products/go_59-02.jpg",
-        "/final-products/new_products/go_59-03.jpg",
-        "/final-products/new_products/go_59-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_59-01.jpg\", \"/final-products/new_products/go_59-02.jpg\", \"/final-products/new_products/go_59-03.jpg\", \"/final-products/new_products/go_59-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-59",
       "is_featured": true,
@@ -2790,17 +1757,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_50-01.jpg",
-        "/final-products/new_products/go_50-02.jpg",
-        "/final-products/new_products/go_50-03.jpg",
-        "/final-products/new_products/go_50-04.jpg",
-        "/final-products/new_products/go_50-05.jpg",
-        "/final-products/new_products/go_50-06.jpg",
-        "/final-products/new_products/go_50-07.jpg",
-        "/final-products/new_products/go_50-08.jpg",
-        "/final-products/new_products/go_50-09.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_50-01.jpg\", \"/final-products/new_products/go_50-02.jpg\", \"/final-products/new_products/go_50-03.jpg\", \"/final-products/new_products/go_50-04.jpg\", \"/final-products/new_products/go_50-05.jpg\", \"/final-products/new_products/go_50-06.jpg\", \"/final-products/new_products/go_50-07.jpg\", \"/final-products/new_products/go_50-08.jpg\", \"/final-products/new_products/go_50-09.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-50",
       "is_featured": true,
@@ -2818,13 +1775,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_57-01.jpg",
-        "/final-products/new_products/go_57-02.jpg",
-        "/final-products/new_products/go_57-03.jpg",
-        "/final-products/new_products/go_57-04.jpg",
-        "/final-products/new_products/go_57-05.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_57-01.jpg\", \"/final-products/new_products/go_57-02.jpg\", \"/final-products/new_products/go_57-03.jpg\", \"/final-products/new_products/go_57-04.jpg\", \"/final-products/new_products/go_57-05.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-57",
       "is_featured": true,
@@ -2842,12 +1793,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_68-01.jpg",
-        "/final-products/new_products/go_68-02.jpg",
-        "/final-products/new_products/go_68-03.jpg",
-        "/final-products/new_products/go_68-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_68-01.jpg\", \"/final-products/new_products/go_68-02.jpg\", \"/final-products/new_products/go_68-03.jpg\", \"/final-products/new_products/go_68-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-68",
       "is_featured": true,
@@ -2865,11 +1811,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_75-01.jpg",
-        "/final-products/new_products/go_75-02.jpg",
-        "/final-products/new_products/go_75-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_75-01.jpg\", \"/final-products/new_products/go_75-02.jpg\", \"/final-products/new_products/go_75-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-75",
       "is_featured": true,
@@ -2887,11 +1829,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_81-01.jpg",
-        "/final-products/new_products/go_81-02.jpg",
-        "/final-products/new_products/go_81-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_81-01.jpg\", \"/final-products/new_products/go_81-02.jpg\", \"/final-products/new_products/go_81-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-81",
       "is_featured": true,
@@ -2909,13 +1847,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_86-01.jpg",
-        "/final-products/new_products/go_86-02.jpg",
-        "/final-products/new_products/go_86-03.jpg",
-        "/final-products/new_products/go_86-04.jpg",
-        "/final-products/new_products/go_86-05.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_86-01.jpg\", \"/final-products/new_products/go_86-02.jpg\", \"/final-products/new_products/go_86-03.jpg\", \"/final-products/new_products/go_86-04.jpg\", \"/final-products/new_products/go_86-05.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-86",
       "is_featured": true,
@@ -2933,12 +1865,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_72-01.jpg",
-        "/final-products/new_products/go_72-02.jpg",
-        "/final-products/new_products/go_72-03.jpg",
-        "/final-products/new_products/go_72-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_72-01.jpg\", \"/final-products/new_products/go_72-02.jpg\", \"/final-products/new_products/go_72-03.jpg\", \"/final-products/new_products/go_72-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-72",
       "is_featured": true,
@@ -2956,12 +1883,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_88-01.jpg",
-        "/final-products/new_products/go_88-02.jpg",
-        "/final-products/new_products/go_88-03.jpg",
-        "/final-products/new_products/go_88-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_88-01.jpg\", \"/final-products/new_products/go_88-02.jpg\", \"/final-products/new_products/go_88-03.jpg\", \"/final-products/new_products/go_88-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-88",
       "is_featured": true,
@@ -2979,12 +1901,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_89-01.jpg",
-        "/final-products/new_products/go_89-02.jpg",
-        "/final-products/new_products/go_89-03.jpg",
-        "/final-products/new_products/go_89-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_89-01.jpg\", \"/final-products/new_products/go_89-02.jpg\", \"/final-products/new_products/go_89-03.jpg\", \"/final-products/new_products/go_89-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-89",
       "is_featured": true,
@@ -3002,11 +1919,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_73-01.jpg",
-        "/final-products/new_products/go_73-02.jpg",
-        "/final-products/new_products/go_73-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_73-01.jpg\", \"/final-products/new_products/go_73-02.jpg\", \"/final-products/new_products/go_73-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-73",
       "is_featured": true,
@@ -3024,11 +1937,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_87-01.jpg",
-        "/final-products/new_products/go_87-02.jpg",
-        "/final-products/new_products/go_87-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_87-01.jpg\", \"/final-products/new_products/go_87-02.jpg\", \"/final-products/new_products/go_87-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-87",
       "is_featured": true,
@@ -3046,13 +1955,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_80-01.jpg",
-        "/final-products/new_products/go_80-02.jpg",
-        "/final-products/new_products/go_80-03.jpg",
-        "/final-products/new_products/go_80-04.jpg",
-        "/final-products/new_products/go_80-05.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_80-01.jpg\", \"/final-products/new_products/go_80-02.jpg\", \"/final-products/new_products/go_80-03.jpg\", \"/final-products/new_products/go_80-04.jpg\", \"/final-products/new_products/go_80-05.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-80",
       "is_featured": true,
@@ -3070,12 +1973,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_74-01.jpg",
-        "/final-products/new_products/go_74-02.jpg",
-        "/final-products/new_products/go_74-03.jpg",
-        "/final-products/new_products/go_74-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_74-01.jpg\", \"/final-products/new_products/go_74-02.jpg\", \"/final-products/new_products/go_74-03.jpg\", \"/final-products/new_products/go_74-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-74",
       "is_featured": true,
@@ -3093,12 +1991,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_52-01.jpg",
-        "/final-products/new_products/go_52-02.jpg",
-        "/final-products/new_products/go_52-03.jpg",
-        "/final-products/new_products/go_52-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_52-01.jpg\", \"/final-products/new_products/go_52-02.jpg\", \"/final-products/new_products/go_52-03.jpg\", \"/final-products/new_products/go_52-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-52",
       "is_featured": true,
@@ -3116,12 +2009,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_55-01.jpg",
-        "/final-products/new_products/go_55-02.jpg",
-        "/final-products/new_products/go_55-03.jpg",
-        "/final-products/new_products/go_55-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_55-01.jpg\", \"/final-products/new_products/go_55-02.jpg\", \"/final-products/new_products/go_55-03.jpg\", \"/final-products/new_products/go_55-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-55",
       "is_featured": true,
@@ -3139,11 +2027,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_64-01.jpg",
-        "/final-products/new_products/go_64-02.jpg",
-        "/final-products/new_products/go_64-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_64-01.jpg\", \"/final-products/new_products/go_64-02.jpg\", \"/final-products/new_products/go_64-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-64",
       "is_featured": true,
@@ -3161,14 +2045,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_90-01.jpg",
-        "/final-products/new_products/go_90-02.jpg",
-        "/final-products/new_products/go_90-03.jpg",
-        "/final-products/new_products/go_90-04.jpg",
-        "/final-products/new_products/go_90-05.jpg",
-        "/final-products/new_products/go_90-06.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_90-01.jpg\", \"/final-products/new_products/go_90-02.jpg\", \"/final-products/new_products/go_90-03.jpg\", \"/final-products/new_products/go_90-04.jpg\", \"/final-products/new_products/go_90-05.jpg\", \"/final-products/new_products/go_90-06.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-90",
       "is_featured": true,
@@ -3186,13 +2063,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_91-01.jpg",
-        "/final-products/new_products/go_91-02.jpg",
-        "/final-products/new_products/go_91-03.jpg",
-        "/final-products/new_products/go_91-04.jpg",
-        "/final-products/new_products/go_91-05.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_91-01.jpg\", \"/final-products/new_products/go_91-02.jpg\", \"/final-products/new_products/go_91-03.jpg\", \"/final-products/new_products/go_91-04.jpg\", \"/final-products/new_products/go_91-05.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-91",
       "is_featured": true,
@@ -3210,12 +2081,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_62-01.jpg",
-        "/final-products/new_products/go_62-02.jpg",
-        "/final-products/new_products/go_62-03.jpg",
-        "/final-products/new_products/go_62-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_62-01.jpg\", \"/final-products/new_products/go_62-02.jpg\", \"/final-products/new_products/go_62-03.jpg\", \"/final-products/new_products/go_62-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-62",
       "is_featured": true,
@@ -3233,11 +2099,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_54-01.jpg",
-        "/final-products/new_products/go_54-02.jpg",
-        "/final-products/new_products/go_54-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_54-01.jpg\", \"/final-products/new_products/go_54-02.jpg\", \"/final-products/new_products/go_54-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-54",
       "is_featured": true,
@@ -3255,13 +2117,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_53-01.jpg",
-        "/final-products/new_products/go_53-02.jpg",
-        "/final-products/new_products/go_53-03.jpg",
-        "/final-products/new_products/go_53-04.jpg",
-        "/final-products/new_products/go_53-05.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_53-01.jpg\", \"/final-products/new_products/go_53-02.jpg\", \"/final-products/new_products/go_53-03.jpg\", \"/final-products/new_products/go_53-04.jpg\", \"/final-products/new_products/go_53-05.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-53",
       "is_featured": true,
@@ -3279,11 +2135,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_85-01.jpg",
-        "/final-products/new_products/go_85-02.jpg",
-        "/final-products/new_products/go_85-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_85-01.jpg\", \"/final-products/new_products/go_85-02.jpg\", \"/final-products/new_products/go_85-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-85-1",
       "is_featured": true,
@@ -3301,11 +2153,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_71-01.jpg",
-        "/final-products/new_products/go_71-02.jpg",
-        "/final-products/new_products/go_71-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_71-01.jpg\", \"/final-products/new_products/go_71-02.jpg\", \"/final-products/new_products/go_71-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-71",
       "is_featured": true,
@@ -3323,11 +2171,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_49-01.jpg",
-        "/final-products/new_products/go_49-02.jpg",
-        "/final-products/new_products/go_49-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_49-01.jpg\", \"/final-products/new_products/go_49-02.jpg\", \"/final-products/new_products/go_49-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-49",
       "is_featured": true,
@@ -3345,11 +2189,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_76-01.jpg",
-        "/final-products/new_products/go_76-02.jpg",
-        "/final-products/new_products/go_76-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_76-01.jpg\", \"/final-products/new_products/go_76-02.jpg\", \"/final-products/new_products/go_76-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-76",
       "is_featured": true,
@@ -3367,11 +2207,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_82-01.jpg",
-        "/final-products/new_products/go_82-02.jpg",
-        "/final-products/new_products/go_82-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_82-01.jpg\", \"/final-products/new_products/go_82-02.jpg\", \"/final-products/new_products/go_82-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-82",
       "is_featured": true,
@@ -3389,12 +2225,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_78-01.jpg",
-        "/final-products/new_products/go_78-02.jpg",
-        "/final-products/new_products/go_78-03.jpg",
-        "/final-products/new_products/go_78-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_78-01.jpg\", \"/final-products/new_products/go_78-02.jpg\", \"/final-products/new_products/go_78-03.jpg\", \"/final-products/new_products/go_78-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-78",
       "is_featured": true,
@@ -3412,11 +2243,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_79-01.jpg",
-        "/final-products/new_products/go_79-02.jpg",
-        "/final-products/new_products/go_79-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_79-01.jpg\", \"/final-products/new_products/go_79-02.jpg\", \"/final-products/new_products/go_79-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-79",
       "is_featured": true,
@@ -3434,11 +2261,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_48-01.jpg",
-        "/final-products/new_products/go_48-02.jpg",
-        "/final-products/new_products/go_48-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_48-01.jpg\", \"/final-products/new_products/go_48-02.jpg\", \"/final-products/new_products/go_48-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-48",
       "is_featured": true,
@@ -3456,12 +2279,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_77-01.jpg",
-        "/final-products/new_products/go_77-02.jpg",
-        "/final-products/new_products/go_77-03.jpg",
-        "/final-products/new_products/go_77-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_77-01.jpg\", \"/final-products/new_products/go_77-02.jpg\", \"/final-products/new_products/go_77-03.jpg\", \"/final-products/new_products/go_77-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-77",
       "is_featured": true,
@@ -3479,12 +2297,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_70-01.jpg",
-        "/final-products/new_products/go_70-02.jpg",
-        "/final-products/new_products/go_70-03.jpg",
-        "/final-products/new_products/go_70-04.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_70-01.jpg\", \"/final-products/new_products/go_70-02.jpg\", \"/final-products/new_products/go_70-03.jpg\", \"/final-products/new_products/go_70-04.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-70",
       "is_featured": true,
@@ -3502,11 +2315,7 @@
       "collection": "core",
       "sizes": "[\"XS\", \"S\", \"M\", \"L\"]",
       "colors": "[\"obsidian\"]",
-      "images": [
-        "/final-products/new_products/go_84-01.jpg",
-        "/final-products/new_products/go_84-02.jpg",
-        "/final-products/new_products/go_84-03.jpg"
-      ],
+      "images": "[\"/final-products/new_products/go_84-01.jpg\", \"/final-products/new_products/go_84-02.jpg\", \"/final-products/new_products/go_84-03.jpg\"]",
       "quantity": 10,
       "sku": "SS-FINAL-GO-84",
       "is_featured": true,
