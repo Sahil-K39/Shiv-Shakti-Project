@@ -7,6 +7,7 @@ import type { Product } from "@/types";
 import { getAllProducts } from "@/lib/productData";
 import { getProductImages } from "@/lib/productMedia";
 import ValuesSection from "@/components/home/ValuesSection";
+import ProductMarquee from "@/components/home/ProductMarquee";
 import { formatPriceINR } from "@/lib/pricing";
 
 export default function Home() {
@@ -23,6 +24,7 @@ export default function Home() {
   }, []);
 
   const featuredProducts = products.slice(0, 8);
+  const marqueeProducts = products.slice(8, 28);
 
   return (
     <div className="w-full bg-[#fbfaf8] text-black min-h-screen">
@@ -137,6 +139,11 @@ export default function Home() {
 
 
 
+
+      {/* 4. Product Marquee (20 Products) */}
+      {!isLoading && marqueeProducts.length > 0 && (
+        <ProductMarquee products={marqueeProducts} />
+      )}
 
       {/* 5. New Arrivals (Psylo Style Horizontal Track) */}
       <section className="w-full py-16 md:py-24 bg-[#fbfaf8]">
