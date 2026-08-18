@@ -25,9 +25,6 @@ const swatches: Record<string, string> = {
 
 export function toWebp(url: string | null | undefined): string {
   if (!url) return "";
-  if (url.startsWith("/final-products/") || url.startsWith("/logos/")) {
-    return url.replace(/\.png$/i, ".webp");
-  }
   return url;
 }
 
