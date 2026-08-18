@@ -38,7 +38,7 @@ export default function ProductCard({ product, index }: ProductCardProps) {
       y: 0,
       transition: {
         duration: 0.7,
-        delay: index * 0.08,
+        delay: (index % 6) * 0.08,
         ease: [0.22, 1, 0.36, 1],
       },
     },
