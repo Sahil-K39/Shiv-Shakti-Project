@@ -209,143 +209,35 @@ export async function getCSRFToken(): Promise<string> {
 
 export const authAPI = {
   register: (data: { email: string; password: string; name: string }) =>
-    tryOrLocal(
-      () =>
-        apiFetch<{ message: string; user: User; requires_verification: boolean }>("/api/auth/register", {
-          method: "POST",
-          body: JSON.stringify(data),
-        }),
-      () => {
-        const user: User = {
-          id: Date.now(),
-          email: data.email,
-          name: data.name,
-          role: "buyer",
-          is_verified: true,
-          created_at: new Date().toISOString(),
-        };
-        if (typeof window !== "undefined") {
-          localStorage.setItem("shiv_shakti_user", JSON.stringify(user));
-        }
-        return { message: "Registered locally", user, requires_verification: false };
-      }
-    ),
+    apiFetch<{ message: string; user: User; requires_verification: boolean }>("/api/auth/register", {
+      method: "POST",
+      body: JSON.stringify(data),
+    }),
 
   verify: (token: string) =>
-    tryOrLocal(
-      () =>
-        apiFetch<{ message: string; user: User; csrf_token?: string }>(
-          `/api/auth/verify?token=${encodeURIComponent(token)}`
-        ),
-      () => {
-        const user: User = {
-          id: 2,
-          email: "verified@shivshakti.com",
-          name: "Verified Buyer",
-          role: "buyer",
-          is_verified: true,
-          created_at: new Date().toISOString(),
-        };
-        if (typeof window !== "undefined") {
-          localStorage.setItem("shiv_shakti_user", JSON.stringify(user));
-        }
-        return { message: "Verified", user, csrf_token: "local-csrf" };
-      }
+    apiFetch<{ message: string; user: User; csrf_token?: string }>(
+      `/api/auth/verify?token=${encodeURIComponent(token)}`
     ),
 
   login: (data: { email: string; password: string }) =>
-    tryOrLocal(
-      () =>
-        apiFetch<{ message: string; user: User }>("/api/auth/login", {
-          method: "POST",
-          body: JSON.stringify(data),
-        }),
-      () => {
-        const isAdmin = data.email.toLowerCase().includes("admin");
-        const user: User = {
-          id: isAdmin ? 1 : Date.now(),
-          email: data.email,
-          name: data.email.split("@")[0] || "User",
-          role: isAdmin ? "admin" : "buyer",
-          is_verified: true,
-          created_at: new Date().toISOString(),
-        };
-        if (typeof window !== "undefined") {
-          localStorage.setItem("shiv_shakti_user", JSON.stringify(user));
-          if (isAdmin) {
-            localStorage.setItem("shiv_shakti_admin_user", JSON.stringify(user));
-          }
-        }
-        return { message: "Logged in successfully", user };
-      }
-    ),
+    apiFetch<{ message: string; user: User }>("/api/auth/login", {
+      method: "POST",
+      body: JSON.stringify(data),
+    }),
 
-  logout: () =>
-    tryOrLocal(
-      () => apiFetch<{ message: string }>("/api/auth/logout", { method: "POST" }),
-      () => {
-        if (typeof window !== "undefined") {
-          localStorage.removeItem("shiv_shakti_user");
-          localStorage.removeItem("shiv_shakti_admin_user");
-        }
-        return { message: "Logged out" };
-      }
-    ),
+  logout: () => apiFetch<{ message: string }>("/api/auth/logout", { method: "POST" }),
 
-  me: () =>
-    tryOrLocal(
-      () => apiFetch<User>("/api/auth/me"),
-      () => {
-        if (typeof window !== "undefined") {
-          const saved = localStorage.getItem("shiv_shakti_user") || localStorage.getItem("shiv_shakti_admin_user");
-          if (saved) return JSON.parse(saved) as User;
-        }
-        throw new Error("Not authenticated");
-      }
-    ),
+  me: () => apiFetch<User>("/api/auth/me"),
 };
 
 export const adminAPI = {
   login: (data: { email: string; password: string }) =>
-    tryOrLocal(
-      () =>
-        apiFetch<{ message: string; user: User }>(`${ADMIN_API_PREFIX}/login`, {
-          method: "POST",
-          body: JSON.stringify(data),
-        }),
-      () => {
-        const user: User = {
-          id: 1,
-          email: data.email,
-          name: "Shiv Shakti Admin Control",
-          role: "admin",
-          is_verified: true,
-          created_at: new Date().toISOString(),
-        };
-        if (typeof window !== "undefined") {
-          localStorage.setItem("shiv_shakti_admin_user", JSON.stringify(user));
-          localStorage.setItem("shiv_shakti_user", JSON.stringify(user));
-        }
-        return { message: "Admin signed in", user };
-      }
-    ),
+    apiFetch<{ message: string; user: User }>(`${ADMIN_API_PREFIX}/login`, {
+      method: "POST",
+      body: JSON.stringify(data),
+    }),
 
-  me: () =>
-    tryOrLocal(
-      () => apiFetch<User>(`${ADMIN_API_PREFIX}/me`),
-      () => {
-        if (typeof window !== "undefined") {
-          const savedAdmin = localStorage.getItem("shiv_shakti_admin_user");
-          if (savedAdmin) return JSON.parse(savedAdmin) as User;
-          const savedUser = localStorage.getItem("shiv_shakti_user");
-          if (savedUser) {
-            const u = JSON.parse(savedUser) as User;
-            if (u.role === "admin") return u;
-          }
-        }
-        throw new Error("Admin authentication required");
-      }
-    ),
+  me: () => apiFetch<User>(`${ADMIN_API_PREFIX}/me`),
 
   dashboard: () =>
     tryOrLocal(
