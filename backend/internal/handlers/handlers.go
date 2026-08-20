@@ -97,9 +97,13 @@ func (h *AuthHandler) Login(c *gin.Context) {
 
 	user, err := h.service.Login(&input)
 	if err != nil {
+		msg := "Invalid email or password."
+		if err.Error() == "email not verified" {
+			msg = "Your email has not been verified yet. Please check your inbox for the verification link."
+		}
 		c.JSON(http.StatusUnauthorized, gin.H{
 			"error":   "login_failed",
-			"message": "Invalid email or password.",
+			"message": msg,
 		})
 		return
 	}
