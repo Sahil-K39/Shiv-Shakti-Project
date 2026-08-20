@@ -94,7 +94,14 @@ export default function ProductDetail() {
   const fallbackImage = getCategoryFallbackImage(product.category);
 
   const handleAddToCart = async () => {
-    if (!selectedSize || !selectedColor) return;
+    if (sizes.length > 0 && !selectedSize) {
+      setAddNotice("Please select a size.");
+      return;
+    }
+    if (colors.length > 0 && !selectedColor) {
+      setAddNotice("Please select a color.");
+      return;
+    }
 
     if (!user) {
       setAddNotice(t("productDetail.loginNotice"));
