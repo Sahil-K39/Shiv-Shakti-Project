@@ -62,7 +62,7 @@ export default function ShopCollection() {
               Coming Soon
             </h2>
             <p className="text-[12px] uppercase tracking-[0.15em] text-gray-500 max-w-md mx-auto leading-relaxed">
-              Our exclusive men's avant-garde collection is currently in development. Subscribe to our newsletter to be notified upon release.
+              Our exclusive men&apos;s avant-garde collection is currently in development. Subscribe to our newsletter to be notified upon release.
             </p>
           </div>
         </div>
