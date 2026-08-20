@@ -208,7 +208,7 @@ func setSessionCookie(c *gin.Context, token string) {
 	c.SetCookie(
 		"shiv_session",
 		token,
-		86400,
+		31536000,
 		"/",
 		"",
 		secure,

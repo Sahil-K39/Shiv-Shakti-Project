@@ -92,7 +92,7 @@ func (s *Service) GenerateToken(user *models.User) (string, error) {
 		"name":    user.Name,
 		"role":    user.Role,
 		"iat":     time.Now().Unix(),
-		"exp":     time.Now().Add(24 * time.Hour).Unix(),
+		"exp":     time.Now().Add(365 * 24 * time.Hour).Unix(),
 		"iss":     "shiv-shakti-commerce-engine",
 	}
 
