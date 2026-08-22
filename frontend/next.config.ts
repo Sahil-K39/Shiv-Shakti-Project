@@ -12,6 +12,7 @@ const supabaseImageHostname = (
 const nextConfig: NextConfig = {
   output: "standalone",
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: process.env.NODE_ENV === "production" ? "https" : "http",
