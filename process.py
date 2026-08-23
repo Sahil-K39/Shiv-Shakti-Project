@@ -59,7 +59,7 @@ def convert_image(src, dst):
     img = img.convert("RGB")
     img.save(dst, "WEBP", quality=85)
 
-def copy_image(src, dst):
+def convert_image(src, dst):
     # print(f"Copying {src} to {dst}")
     shutil.copy2(src, dst)
 
@@ -110,7 +110,7 @@ for folder in sorted(go_folders):
         src = os.path.join(folder, f)
         dst_filename = f"{slug}-{i+1:02d}.webp"
         dst = os.path.join(slug_dir, dst_filename)
-        copy_image(src, dst)
+        convert_image(src, dst)
         images.append(f"/final-products/{slug}/{dst_filename}")
         
     add_product(slug, folder_name.replace('_', '-'), folder_name.replace('_', '-'), images)

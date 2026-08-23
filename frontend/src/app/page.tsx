@@ -17,10 +17,8 @@ export default function Home() {
   useEffect(() => {
     getAllProducts()
       .then((data) => {
-        const studioProducts = data.filter(p => {
-          return p.slug.startsWith('aug1_') || p.slug.startsWith('aug8_');
-        });
-        setProducts(studioProducts.length > 0 ? studioProducts : data);
+        // Show all products, but reverse so newest (GO-93) show first
+        setProducts(data.slice().reverse());
         setIsLoading(false);
       })
       .catch(() => setIsLoading(false));
