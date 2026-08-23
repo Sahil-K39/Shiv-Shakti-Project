@@ -615,7 +615,10 @@
       "sku": "SS-FINAL-GO-42",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_42/go_42-01.webp",
+        "/final-products/go_42/go_42-02.webp"
+      ]
     },
     {
       "id": 48,
@@ -626,7 +629,10 @@
       "sku": "SS-FINAL-GO-44",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_44/go_44-01.webp",
+        "/final-products/go_44/go_44-02.webp"
+      ]
     },
     {
       "id": 49,
@@ -637,7 +643,10 @@
       "sku": "SS-FINAL-GO-45",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_45/go_45-01.webp",
+        "/final-products/go_45/go_45-02.webp"
+      ]
     },
     {
       "id": 50,
@@ -648,7 +657,10 @@
       "sku": "SS-FINAL-GO-46",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_46/go_46-01.webp",
+        "/final-products/go_46/go_46-02.webp"
+      ]
     },
     {
       "id": 51,
@@ -659,7 +671,10 @@
       "sku": "SS-FINAL-GO-47",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_47/go_47-01.webp",
+        "/final-products/go_47/go_47-02.webp"
+      ]
     },
     {
       "id": 52,
@@ -670,7 +685,11 @@
       "sku": "SS-FINAL-GO-48",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_48/go_48-01.webp",
+        "/final-products/go_48/go_48-02.webp",
+        "/final-products/go_48/go_48-03.webp"
+      ]
     },
     {
       "id": 53,
@@ -681,7 +700,11 @@
       "sku": "SS-FINAL-GO-49",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_49/go_49-01.webp",
+        "/final-products/go_49/go_49-02.webp",
+        "/final-products/go_49/go_49-03.webp"
+      ]
     },
     {
       "id": 54,
@@ -692,7 +715,17 @@
       "sku": "SS-FINAL-GO-50",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_50/go_50-01.webp",
+        "/final-products/go_50/go_50-02.webp",
+        "/final-products/go_50/go_50-03.webp",
+        "/final-products/go_50/go_50-04.webp",
+        "/final-products/go_50/go_50-05.webp",
+        "/final-products/go_50/go_50-06.webp",
+        "/final-products/go_50/go_50-07.webp",
+        "/final-products/go_50/go_50-08.webp",
+        "/final-products/go_50/go_50-09.webp"
+      ]
     },
     {
       "id": 55,
@@ -703,7 +736,13 @@
       "sku": "SS-FINAL-GO-51",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_51/go_51-01.webp",
+        "/final-products/go_51/go_51-02.webp",
+        "/final-products/go_51/go_51-03.webp",
+        "/final-products/go_51/go_51-04.webp",
+        "/final-products/go_51/go_51-05.webp"
+      ]
     },
     {
       "id": 56,
@@ -714,7 +753,12 @@
       "sku": "SS-FINAL-GO-52",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_52/go_52-01.webp",
+        "/final-products/go_52/go_52-02.webp",
+        "/final-products/go_52/go_52-03.webp",
+        "/final-products/go_52/go_52-04.webp"
+      ]
     },
     {
       "id": 57,
@@ -725,7 +769,13 @@
       "sku": "SS-FINAL-GO-53",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_53/go_53-01.webp",
+        "/final-products/go_53/go_53-02.webp",
+        "/final-products/go_53/go_53-03.webp",
+        "/final-products/go_53/go_53-04.webp",
+        "/final-products/go_53/go_53-05.webp"
+      ]
     },
     {
       "id": 58,
@@ -736,7 +786,11 @@
       "sku": "SS-FINAL-GO-54",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_54/go_54-01.webp",
+        "/final-products/go_54/go_54-02.webp",
+        "/final-products/go_54/go_54-03.webp"
+      ]
     },
     {
       "id": 59,
@@ -747,7 +801,12 @@
       "sku": "SS-FINAL-GO-55",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_55/go_55-01.webp",
+        "/final-products/go_55/go_55-02.webp",
+        "/final-products/go_55/go_55-03.webp",
+        "/final-products/go_55/go_55-04.webp"
+      ]
     },
     {
       "id": 60,
@@ -758,7 +817,14 @@
       "sku": "SS-FINAL-GO-56",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_56/go_56-01.webp",
+        "/final-products/go_56/go_56-02.webp",
+        "/final-products/go_56/go_56-03.webp",
+        "/final-products/go_56/go_56-04.webp",
+        "/final-products/go_56/go_56-05.webp",
+        "/final-products/go_56/go_56-06.webp"
+      ]
     },
     {
       "id": 61,
@@ -769,7 +835,13 @@
       "sku": "SS-FINAL-GO-57",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_57/go_57-01.webp",
+        "/final-products/go_57/go_57-02.webp",
+        "/final-products/go_57/go_57-03.webp",
+        "/final-products/go_57/go_57-04.webp",
+        "/final-products/go_57/go_57-05.webp"
+      ]
     },
     {
       "id": 62,
@@ -780,7 +852,11 @@
       "sku": "SS-FINAL-GO-58",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_58/go_58-01.webp",
+        "/final-products/go_58/go_58-02.webp",
+        "/final-products/go_58/go_58-03.webp"
+      ]
     },
     {
       "id": 63,
@@ -791,7 +867,12 @@
       "sku": "SS-FINAL-GO-59",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_59/go_59-01.webp",
+        "/final-products/go_59/go_59-02.webp",
+        "/final-products/go_59/go_59-03.webp",
+        "/final-products/go_59/go_59-04.webp"
+      ]
     },
     {
       "id": 64,
@@ -802,7 +883,15 @@
       "sku": "SS-FINAL-GO-60",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_60/go_60-01.webp",
+        "/final-products/go_60/go_60-02.webp",
+        "/final-products/go_60/go_60-03.webp",
+        "/final-products/go_60/go_60-04.webp",
+        "/final-products/go_60/go_60-05.webp",
+        "/final-products/go_60/go_60-06.webp",
+        "/final-products/go_60/go_60-07.webp"
+      ]
     },
     {
       "id": 65,
@@ -813,7 +902,13 @@
       "sku": "SS-FINAL-GO-61",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_61/go_61-01.webp",
+        "/final-products/go_61/go_61-02.webp",
+        "/final-products/go_61/go_61-03.webp",
+        "/final-products/go_61/go_61-04.webp",
+        "/final-products/go_61/go_61-05.webp"
+      ]
     },
     {
       "id": 66,
@@ -824,7 +919,12 @@
       "sku": "SS-FINAL-GO-62",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_62/go_62-01.webp",
+        "/final-products/go_62/go_62-02.webp",
+        "/final-products/go_62/go_62-03.webp",
+        "/final-products/go_62/go_62-04.webp"
+      ]
     },
     {
       "id": 67,
@@ -835,7 +935,12 @@
       "sku": "SS-FINAL-GO-63",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_63/go_63-01.webp",
+        "/final-products/go_63/go_63-02.webp",
+        "/final-products/go_63/go_63-03.webp",
+        "/final-products/go_63/go_63-04.webp"
+      ]
     },
     {
       "id": 68,
@@ -846,7 +951,11 @@
       "sku": "SS-FINAL-GO-63-1",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_63_1/go_63_1-01.webp",
+        "/final-products/go_63_1/go_63_1-02.webp",
+        "/final-products/go_63_1/go_63_1-03.webp"
+      ]
     },
     {
       "id": 69,
@@ -857,7 +966,11 @@
       "sku": "SS-FINAL-GO-64",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_64/go_64-01.webp",
+        "/final-products/go_64/go_64-02.webp",
+        "/final-products/go_64/go_64-03.webp"
+      ]
     },
     {
       "id": 70,
@@ -868,7 +981,11 @@
       "sku": "SS-FINAL-GO-66",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_66/go_66-01.webp",
+        "/final-products/go_66/go_66-02.webp",
+        "/final-products/go_66/go_66-03.webp"
+      ]
     },
     {
       "id": 71,
@@ -879,7 +996,11 @@
       "sku": "SS-FINAL-GO-67",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_67/go_67-01.webp",
+        "/final-products/go_67/go_67-02.webp",
+        "/final-products/go_67/go_67-03.webp"
+      ]
     },
     {
       "id": 72,
@@ -890,7 +1011,12 @@
       "sku": "SS-FINAL-GO-68",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_68/go_68-01.webp",
+        "/final-products/go_68/go_68-02.webp",
+        "/final-products/go_68/go_68-03.webp",
+        "/final-products/go_68/go_68-04.webp"
+      ]
     },
     {
       "id": 73,
@@ -901,7 +1027,11 @@
       "sku": "SS-FINAL-GO-69",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_69/go_69-01.webp",
+        "/final-products/go_69/go_69-02.webp",
+        "/final-products/go_69/go_69-03.webp"
+      ]
     },
     {
       "id": 74,
@@ -912,7 +1042,12 @@
       "sku": "SS-FINAL-GO-70",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_70/go_70-01.webp",
+        "/final-products/go_70/go_70-02.webp",
+        "/final-products/go_70/go_70-03.webp",
+        "/final-products/go_70/go_70-04.webp"
+      ]
     },
     {
       "id": 75,
@@ -923,7 +1058,11 @@
       "sku": "SS-FINAL-GO-71",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_71/go_71-01.webp",
+        "/final-products/go_71/go_71-02.webp",
+        "/final-products/go_71/go_71-03.webp"
+      ]
     },
     {
       "id": 76,
@@ -934,7 +1073,12 @@
       "sku": "SS-FINAL-GO-72",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_72/go_72-01.webp",
+        "/final-products/go_72/go_72-02.webp",
+        "/final-products/go_72/go_72-03.webp",
+        "/final-products/go_72/go_72-04.webp"
+      ]
     },
     {
       "id": 77,
@@ -945,7 +1089,11 @@
       "sku": "SS-FINAL-GO-73",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_73/go_73-01.webp",
+        "/final-products/go_73/go_73-02.webp",
+        "/final-products/go_73/go_73-03.webp"
+      ]
     },
     {
       "id": 78,
@@ -956,7 +1104,12 @@
       "sku": "SS-FINAL-GO-74",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_74/go_74-01.webp",
+        "/final-products/go_74/go_74-02.webp",
+        "/final-products/go_74/go_74-03.webp",
+        "/final-products/go_74/go_74-04.webp"
+      ]
     },
     {
       "id": 79,
@@ -967,7 +1120,11 @@
       "sku": "SS-FINAL-GO-75",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_75/go_75-01.webp",
+        "/final-products/go_75/go_75-02.webp",
+        "/final-products/go_75/go_75-03.webp"
+      ]
     },
     {
       "id": 80,
@@ -978,7 +1135,11 @@
       "sku": "SS-FINAL-GO-76",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_76/go_76-01.webp",
+        "/final-products/go_76/go_76-02.webp",
+        "/final-products/go_76/go_76-03.webp"
+      ]
     },
     {
       "id": 81,
@@ -989,7 +1150,12 @@
       "sku": "SS-FINAL-GO-77",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_77/go_77-01.webp",
+        "/final-products/go_77/go_77-02.webp",
+        "/final-products/go_77/go_77-03.webp",
+        "/final-products/go_77/go_77-04.webp"
+      ]
     },
     {
       "id": 82,
@@ -1000,7 +1166,12 @@
       "sku": "SS-FINAL-GO-78",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_78/go_78-01.webp",
+        "/final-products/go_78/go_78-02.webp",
+        "/final-products/go_78/go_78-03.webp",
+        "/final-products/go_78/go_78-04.webp"
+      ]
     },
     {
       "id": 83,
@@ -1011,7 +1182,11 @@
       "sku": "SS-FINAL-GO-79",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_79/go_79-01.webp",
+        "/final-products/go_79/go_79-02.webp",
+        "/final-products/go_79/go_79-03.webp"
+      ]
     },
     {
       "id": 84,
@@ -1022,7 +1197,13 @@
       "sku": "SS-FINAL-GO-80",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_80/go_80-01.webp",
+        "/final-products/go_80/go_80-02.webp",
+        "/final-products/go_80/go_80-03.webp",
+        "/final-products/go_80/go_80-04.webp",
+        "/final-products/go_80/go_80-05.webp"
+      ]
     },
     {
       "id": 85,
@@ -1033,7 +1214,11 @@
       "sku": "SS-FINAL-GO-81",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_81/go_81-01.webp",
+        "/final-products/go_81/go_81-02.webp",
+        "/final-products/go_81/go_81-03.webp"
+      ]
     },
     {
       "id": 86,
@@ -1044,7 +1229,11 @@
       "sku": "SS-FINAL-GO-82",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_82/go_82-01.webp",
+        "/final-products/go_82/go_82-02.webp",
+        "/final-products/go_82/go_82-03.webp"
+      ]
     },
     {
       "id": 87,
@@ -1055,7 +1244,11 @@
       "sku": "SS-FINAL-GO-84",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_84/go_84-01.webp",
+        "/final-products/go_84/go_84-02.webp",
+        "/final-products/go_84/go_84-03.webp"
+      ]
     },
     {
       "id": 88,
@@ -1066,7 +1259,11 @@
       "sku": "SS-FINAL-GO-85",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_85/go_85-01.webp",
+        "/final-products/go_85/go_85-02.webp",
+        "/final-products/go_85/go_85-03.webp"
+      ]
     },
     {
       "id": 89,
@@ -1077,7 +1274,13 @@
       "sku": "SS-FINAL-GO-85-1",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_85_1/go_85_1-01.webp",
+        "/final-products/go_85_1/go_85_1-02.webp",
+        "/final-products/go_85_1/go_85_1-03.webp",
+        "/final-products/go_85_1/go_85_1-04.webp",
+        "/final-products/go_85_1/go_85_1-05.webp"
+      ]
     },
     {
       "id": 90,
@@ -1088,7 +1291,13 @@
       "sku": "SS-FINAL-GO-86",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_86/go_86-01.webp",
+        "/final-products/go_86/go_86-02.webp",
+        "/final-products/go_86/go_86-03.webp",
+        "/final-products/go_86/go_86-04.webp",
+        "/final-products/go_86/go_86-05.webp"
+      ]
     },
     {
       "id": 91,
@@ -1099,7 +1308,11 @@
       "sku": "SS-FINAL-GO-87",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_87/go_87-01.webp",
+        "/final-products/go_87/go_87-02.webp",
+        "/final-products/go_87/go_87-03.webp"
+      ]
     },
     {
       "id": 92,
@@ -1110,7 +1323,12 @@
       "sku": "SS-FINAL-GO-88",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_88/go_88-01.webp",
+        "/final-products/go_88/go_88-02.webp",
+        "/final-products/go_88/go_88-03.webp",
+        "/final-products/go_88/go_88-04.webp"
+      ]
     },
     {
       "id": 93,
@@ -1121,7 +1339,12 @@
       "sku": "SS-FINAL-GO-89",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_89/go_89-01.webp",
+        "/final-products/go_89/go_89-02.webp",
+        "/final-products/go_89/go_89-03.webp",
+        "/final-products/go_89/go_89-04.webp"
+      ]
     },
     {
       "id": 94,
@@ -1132,7 +1355,14 @@
       "sku": "SS-FINAL-GO-90",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_90/go_90-01.webp",
+        "/final-products/go_90/go_90-02.webp",
+        "/final-products/go_90/go_90-03.webp",
+        "/final-products/go_90/go_90-04.webp",
+        "/final-products/go_90/go_90-05.webp",
+        "/final-products/go_90/go_90-06.webp"
+      ]
     },
     {
       "id": 95,
@@ -1143,7 +1373,13 @@
       "sku": "SS-FINAL-GO-91",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_91/go_91-01.webp",
+        "/final-products/go_91/go_91-02.webp",
+        "/final-products/go_91/go_91-03.webp",
+        "/final-products/go_91/go_91-04.webp",
+        "/final-products/go_91/go_91-05.webp"
+      ]
     },
     {
       "id": 96,
@@ -1154,7 +1390,13 @@
       "sku": "SS-FINAL-GO-92",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_92/go_92-01.webp",
+        "/final-products/go_92/go_92-02.webp",
+        "/final-products/go_92/go_92-03.webp",
+        "/final-products/go_92/go_92-04.webp",
+        "/final-products/go_92/go_92-05.webp"
+      ]
     },
     {
       "id": 97,
@@ -1165,7 +1407,11 @@
       "sku": "SS-FINAL-GO-93",
       "category": "shakti",
       "in_stock": true,
-      "images": []
+      "images": [
+        "/final-products/go_93/go_93-01.webp",
+        "/final-products/go_93/go_93-02.webp",
+        "/final-products/go_93/go_93-03.webp"
+      ]
     },
     {
       "id": 98,
