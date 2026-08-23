@@ -12,8 +12,8 @@ func TestFinalProductCatalogueCorrections(t *testing.T) {
 	if err := json.Unmarshal(finalProductsJSON, &payload); err != nil {
 		t.Fatalf("unmarshal final product catalogue: %v", err)
 	}
-	if len(payload.Products) != 46 {
-		t.Fatalf("final products = %d, want 46", len(payload.Products))
+	if len(seedProductRows) != 121 {
+		t.Fatalf("final products = %d, want 121", len(seedProductRows))
 	}
 
 	productsBySKU := make(map[string]finalProduct, len(payload.Products))
