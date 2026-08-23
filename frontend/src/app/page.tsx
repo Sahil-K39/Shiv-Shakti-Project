@@ -23,13 +23,8 @@ export default function Home() {
       .catch(() => setIsLoading(false));
   }, []);
 
-  const productsWithBg = products.filter(p => {
-    const imgs = getProductImages(p);
-    return imgs.length > 0 && imgs[0].endsWith(".jpg");
-  });
-
-  const featuredProducts = productsWithBg.length >= 8 ? productsWithBg.slice(0, 8) : products.slice(0, 8);
-  const marqueeProducts = productsWithBg.length >= 28 ? productsWithBg.slice(8, 28) : products.slice(8, 28);
+  const featuredProducts = products.slice(0, 8);
+  const marqueeProducts = products.slice(8, 28);
 
   return (
     <div className="w-full bg-[#fbfaf8] text-black min-h-screen">
