@@ -18,14 +18,7 @@ export default function Home() {
     getAllProducts()
       .then((data) => {
         const studioProducts = data.filter(p => {
-          if (p.slug.startsWith('aug1_') || p.slug.startsWith('aug8_')) return true;
-          if (p.slug.endsWith('_studio')) return true;
-          if (p.slug.startsWith('go_')) {
-            const numPart = p.slug.replace('go_', '');
-            const num = parseInt(numPart);
-            if (!isNaN(num) && num >= 48) return true;
-          }
-          return false;
+          return p.slug.startsWith('aug1_') || p.slug.startsWith('aug8_');
         });
         setProducts(studioProducts.length > 0 ? studioProducts : data);
         setIsLoading(false);
