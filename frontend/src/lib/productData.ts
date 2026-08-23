@@ -42,7 +42,7 @@ function visibleProduct(product: Product) {
   return hasImages && product.is_active !== false && !retiredProductSlugs.has(product.slug);
 }
 
-export const fallbackProducts: Product[] = (initialData.products as Product[]).filter(visibleProduct);
+export const fallbackProducts: Product[] = (initialData.products as unknown as Product[]).filter(visibleProduct);
 
 let memoryCache: Product[] | null = null;
 let fetchPromise: Promise<Product[]> | null = null;

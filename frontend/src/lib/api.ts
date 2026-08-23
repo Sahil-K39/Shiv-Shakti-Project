@@ -58,7 +58,7 @@ async function tryOrLocal<T>(
 }
 
 function getLocalProducts(): Product[] {
-  if (typeof window === "undefined") return initialData.products as Product[];
+  if (typeof window === "undefined") return initialData.products as unknown as Product[];
   try {
     const saved =
       localStorage.getItem("shiv_shakti_custom_admin_products_v3") ||
@@ -71,7 +71,7 @@ function getLocalProducts(): Product[] {
       }
     }
   } catch {}
-  return initialData.products as Product[];
+  return initialData.products as unknown as Product[];
 }
 
 function saveLocalProducts(products: Product[]) {
