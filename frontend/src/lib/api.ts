@@ -202,7 +202,7 @@ function saveLocalOrders(orders: AdminOrder[]) {
 
 export async function getCSRFToken(): Promise<string> {
   return tryOrLocal(
-    () => apiFetch<{ csrf_token: string }>("/api/csrf-token"),
+    () => apiFetch<{ csrf_token: string }>("/api/csrf-token", { cache: "no-store" }),
     () => ({ csrf_token: "local-csrf-token" })
   ).then((d) => d.csrf_token);
 }
@@ -227,7 +227,7 @@ export const authAPI = {
 
   logout: () => apiFetch<{ message: string }>("/api/auth/logout", { method: "POST" }),
 
-  me: () => apiFetch<User>("/api/auth/me"),
+  me: () => apiFetch<User>("/api/auth/me", { cache: "no-store" }),
 };
 
 export const adminAPI = {
@@ -615,7 +615,7 @@ export const adminAPI = {
 export const productsAPI = {
   listAll: () =>
     tryOrLocal(
-      () => apiFetch<{ products: Product[]; total: number }>("/api/products"),
+      () => apiFetch<{ products: Product[]; total: number }>("/api/products", { cache: "no-store" }),
       () => {
         const prods = getLocalProducts();
         return { products: prods, total: prods.length };
@@ -624,7 +624,7 @@ export const productsAPI = {
 
   getById: (id: number) =>
     tryOrLocal(
-      () => apiFetch<Product>(`/api/products/${id}`),
+      () => apiFetch<Product>(`/api/products/${id}`, { cache: "no-store" }),
       () => {
         const prods = getLocalProducts();
         const found = prods.find((p) => p.id === id);
@@ -636,7 +636,7 @@ export const productsAPI = {
   getByCategory: (category: string) =>
     tryOrLocal(
       () =>
-        apiFetch<{ products: Product[]; total: number }>(`/api/products/category/${category}`),
+        apiFetch<{ products: Product[]; total: number }>(`/api/products/category/${category}`, { cache: "no-store" }),
       () => {
         const prods = getLocalProducts().filter(
           (p) => p.category?.toLowerCase() === category.toLowerCase()
@@ -650,7 +650,7 @@ export const cartAPI = {
   get: () =>
     tryOrLocal(
       () =>
-        apiFetch<{ items: CartItem[]; item_count: number; total: number }>("/api/cart"),
+        apiFetch<{ items: CartItem[]; item_count: number; total: number }>("/api/cart", { cache: "no-store" }),
       () => {
         if (typeof window === "undefined") return { items: [], item_count: 0, total: 0 };
         const saved = localStorage.getItem("shiv_shakti_cart_items");
@@ -817,7 +817,7 @@ export const ordersAPI = {
 
   list: () =>
     tryOrLocal(
-      () => apiFetch<{ orders: Order[] }>("/api/orders"),
+      () => apiFetch<{ orders: Order[] }>("/api/orders", { cache: "no-store" }),
       () => {
         const ords = getLocalOrders();
         return {
@@ -861,7 +861,7 @@ export const communityAPI = {
   listPosts: (category?: string) => {
     const params = category && category !== "ALL" ? `?category=${encodeURIComponent(category)}` : "";
     return tryOrLocal(
-      () => apiFetch<CommunityPost[]>(`/api/community/posts${params}`),
+      () => apiFetch<CommunityPost[]>(`/api/community/posts${params}`, { cache: "no-store" }),
       () => [
         {
           id: 1,
