@@ -259,7 +259,7 @@ export const adminAPI = {
           units_sold: number;
           gross_enquiry_value: number;
           confirmed_revenue: number;
-        }>(`${ADMIN_API_PREFIX}/dashboard`),
+        }>(`${ADMIN_API_PREFIX}/dashboard`, { cache: "no-store" }),
       () => {
         const prods = getLocalProducts();
         const ords = getLocalOrders();
@@ -299,7 +299,7 @@ export const adminAPI = {
 
   listProducts: () =>
     tryOrLocal(
-      () => apiFetch<{ products: Product[]; total: number }>(`${ADMIN_API_PREFIX}/products`),
+      () => apiFetch<{ products: Product[]; total: number }>(`${ADMIN_API_PREFIX}/products`, { cache: 'no-store' }),
       () => {
         const prods = getLocalProducts();
         return { products: prods, total: prods.length };
@@ -308,7 +308,7 @@ export const adminAPI = {
 
   getProduct: (id: number) =>
     tryOrLocal(
-      () => apiFetch<Product>(`${ADMIN_API_PREFIX}/products/${id}`),
+      () => apiFetch<Product>(`${ADMIN_API_PREFIX}/products/${id}`, { cache: "no-store" }),
       () => {
         const prods = getLocalProducts();
         const found = prods.find((p) => p.id === id);
@@ -478,7 +478,7 @@ export const adminAPI = {
 
   listUsers: () =>
     tryOrLocal(
-      () => apiFetch<{ users: AdminUser[]; total: number }>(`${ADMIN_API_PREFIX}/users`),
+      () => apiFetch<{ users: AdminUser[]; total: number }>(`${ADMIN_API_PREFIX}/users`, { cache: "no-store" }),
       () => ({
         users: [
           {
@@ -510,7 +510,7 @@ export const adminAPI = {
 
   listNGOInterests: () =>
     tryOrLocal(
-      () => apiFetch<{ interests: NGOInterest[]; total: number }>(`${ADMIN_API_PREFIX}/ngo-interests`),
+      () => apiFetch<{ interests: NGOInterest[]; total: number }>(`${ADMIN_API_PREFIX}/ngo-interests`, { cache: "no-store" }),
       () => ({
         interests: [
           {
@@ -528,7 +528,7 @@ export const adminAPI = {
 
   listOrders: () =>
     tryOrLocal(
-      () => apiFetch<{ orders: AdminOrder[]; total: number }>(`${ADMIN_API_PREFIX}/orders`),
+      () => apiFetch<{ orders: AdminOrder[]; total: number }>(`${ADMIN_API_PREFIX}/orders`, { cache: "no-store" }),
       () => {
         const ords = getLocalOrders();
         return { orders: ords, total: ords.length };
@@ -537,7 +537,7 @@ export const adminAPI = {
 
   getOrder: (id: number) =>
     tryOrLocal(
-      () => apiFetch<AdminOrder>(`${ADMIN_API_PREFIX}/orders/${id}`),
+      () => apiFetch<AdminOrder>(`${ADMIN_API_PREFIX}/orders/${id}`, { cache: "no-store" }),
       () => {
         const ords = getLocalOrders();
         const found = ords.find((o) => o.id === id);
