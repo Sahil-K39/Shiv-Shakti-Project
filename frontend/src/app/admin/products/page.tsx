@@ -863,6 +863,9 @@ export default function AdminProductsPage() {
   function startNewProduct() {
     setEditingProduct(null);
     setForm(emptyForm);
+    setTimeout(() => {
+      document.getElementById("product-form")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 50);
   }
 
   return (
@@ -1128,6 +1131,9 @@ export default function AdminProductsPage() {
                           onClick={() => {
                             setEditingProduct(product);
                             setForm(productToForm(product));
+                            setTimeout(() => {
+                              document.getElementById("product-form")?.scrollIntoView({ behavior: "smooth", block: "start" });
+                            }, 50);
                           }}
                         >
                           Edit
@@ -1153,14 +1159,16 @@ export default function AdminProductsPage() {
           )}
         </div>
 
-        <ProductForm
-          value={form}
-          onChange={setForm}
-          onSubmit={saveProduct}
-          onCancel={startNewProduct}
-          isSaving={isSaving}
-          editingProduct={editingProduct}
-        />
+        <div id="product-form" className="mt-8 pt-8 border-t border-black/10">
+          <ProductForm
+            value={form}
+            onChange={setForm}
+            onSubmit={saveProduct}
+            onCancel={startNewProduct}
+            isSaving={isSaving}
+            editingProduct={editingProduct}
+          />
+        </div>
       </div>
     </AdminShell>
   );
