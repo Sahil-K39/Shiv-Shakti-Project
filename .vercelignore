@@ -1,14 +1,10 @@
-.git
-node_modules
-*/node_modules
-*/.next
-.next
-/Final Products/
-/Products/
-/Photoroom/
+All Products/
+New Products /
+Products/
+NGO Worker /
+Women NGO/
+Image to PDF*.pdf
 *.zip
-backend
-data
-scripts
-*.db
-.DS_Store
+venv/
+extracted_*.jpg
+.git/
