@@ -15,7 +15,7 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    getAllProducts()
+    getAllProducts(true)
       .then((data) => {
         // Show all products, but reverse so newest (GO-93) show first
         setProducts(data.slice().reverse());

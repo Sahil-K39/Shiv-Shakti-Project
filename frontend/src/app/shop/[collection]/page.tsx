@@ -21,7 +21,7 @@ export default function ShopCollection() {
   const [mobileGridCols, setMobileGridCols] = useState<1 | 2>(2);
 
   useEffect(() => {
-    getAllProducts()
+    getAllProducts(true)
       .then((data) => {
         const filtered = data.filter((p) => {
           const cat = p.category.toLowerCase();

@@ -42,7 +42,7 @@ export default function ProductDetail() {
   useEffect(() => {
     let isCurrent = true;
 
-    getAllProducts().then((data) => {
+    getAllProducts(true).then((data) => {
       if (!isCurrent) return;
 
       const found = data.find((p) => p.slug === slug);
