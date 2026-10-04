@@ -49,7 +49,7 @@ let fetchPromise: Promise<Product[]> | null = null;
 export const CACHE_KEY = "shiv_shakti_products_v10";
 export const ADMIN_CACHE_KEY = "shiv_shakti_admin_products_v6";
 const CACHE_TS_KEY = "shiv_shakti_products_ts";
-const CACHE_TTL_MS = 5 * 60 * 1000; // 5 minutes
+const CACHE_TTL_MS = 0; // Disabled client caching for instant updates
 
 // Clean up orphaned keys from previous versions
 function cleanupOldCacheKeys() {
