@@ -2,6 +2,8 @@
 
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import InstallAppButton from "@/components/admin/InstallAppButton";
+import InstallAppButton from "@/components/admin/InstallAppButton";
 import AdminShell from "@/components/admin/AdminShell";
 import { adminAPI } from "@/lib/api";
 import type { AdminOrder, OrderStatus, Product } from "@/types";
@@ -218,12 +220,15 @@ export default function AdminDashboardPage() {
             Inventory health, wholesale stock pressure, units pending review, confirmed sales, and recent enquiry movement.
           </p>
         </div>
-        <Link
-          href="/admin/products"
-          className="w-fit border border-black bg-black px-5 py-3 text-[11px] uppercase tracking-[0.16em] text-white"
-        >
-          Manage Products
-        </Link>
+        <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
+          <InstallAppButton />
+          <Link
+            href="/admin/products"
+            className="w-fit border border-black bg-black px-5 py-3 text-[11px] uppercase tracking-[0.16em] text-white"
+          >
+            Manage Products
+          </Link>
+        </div>
       </div>
 
       {error && (

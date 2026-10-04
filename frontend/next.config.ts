@@ -1,3 +1,5 @@
+import withPWAInit from "@ducanh2912/next-pwa";
+
 import type { NextConfig } from "next";
 
 const backendUrl = process.env.INTERNAL_BACKEND_URL || "http://127.0.0.1:8080";
@@ -8,6 +10,18 @@ const supabaseImageHostname = (
     ? new URL(process.env.NEXT_PUBLIC_SUPABASE_URL).hostname
     : "bmyghobfovkzchhuhnss.supabase.co")
 ).trim();
+
+
+const withPWA = withPWAInit({
+  dest: "public",
+  cacheOnFrontEndNav: true,
+  aggressiveFrontEndNavCaching: true,
+  reloadOnOnline: true,
+  disable: process.env.NODE_ENV === "development",
+  workboxOptions: {
+    disableDevLogs: true,
+  },
+});
 
 const nextConfig: NextConfig = {
   output: "standalone",
@@ -48,4 +62,4 @@ const nextConfig: NextConfig = {
   },
 };
 
-export default nextConfig;
+export default withPWA(nextConfig);
